@@ -1,6 +1,6 @@
  Wines by List
 
-[wines](/Wines By Guest.html)
+[wines](https://github.com/RecondoYuk/winelist/blob/40108389727dd32796ee162cf40d88195317a469/Wines%20By%20Guest.html)
 
 ## Wines By Body
 Wines by body, Lightest to Fullest. Tasting *light bodied* to *full-bodied* is similar to tasting the difference between skim to whole milk.
