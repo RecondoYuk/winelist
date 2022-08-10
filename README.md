@@ -38,6 +38,7 @@ If you want to see a list of our [wines by acidity](Dukes_Wines_By_Acidity.html)
 If you want to see a list of our [wines by body](Dukes_Wines_By_Body.html).  
 If you want to see a list of our [wines by dryness](Dukes_Wines_by_Dryness.html).  
 
+Why is nothing showing up from here?
 ## All the Wines
 
 ### Bulk List
