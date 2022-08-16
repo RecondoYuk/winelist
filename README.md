@@ -50,7 +50,7 @@ Here's a page for each wine where you can find a whole bunch more information ab
 After that you will find a link to the individual tech sheets for those wines.  
 
 *Some wines have multiple tech sheets whereas some didn't have a single one*
- - **Wines By the Glass**
+- **Wines By the Glass**
   - [Poema Cava Wine](pages/Poema.md) | [Poema Tech Sheet](assets/Poema_Brut.pdf)
   - [Lokelani Sparkling Rosé](pages/Lokelani.md) | [Lokelani Tech Sheet](assets/Lokelani_Rose.pdf)
   - [Mont Gravet Rosé](pages/Mont_Gravet.md) | [Mont Gravet Tech Sheet](assets/Mont_Gravet_Rose.pdf)
