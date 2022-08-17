@@ -23,20 +23,20 @@ So you want to know what kind of wines we have? You can click on any of these li
 [Cabernet Sauvignons](Cabernet_Sauvignon.html)  
 
 ### All the Styles
-Or you can just click on [this page](Dukes_Wines_By_Style.html) to go through all of the styles on one page
+Or you can just click on [this page](Dukes_Wines_By_Style.md) to go through all of the styles on one page
 
 ## By the Guest's Preference
 So your guests says "I want a . . . " 
 
-The list on [this page](Wines_By_Guest.html) walks you through some simple requests you're likely to come across.
+The list on [this page](Wines_By_Guest.md) walks you through some simple requests you're likely to come across.
 
 ## By the wine's Component
 So you have a guest that wants a dryer wine, or maybe they want the wine with the highest or lowest alcohol, or other aspects of the wines.  
 
-If you want to see a list of our [wines by alcohol content](Dukes_Wines_by_Alcohol.html).  
-If you want to see a list of our [wines by acidity](Dukes_Wines_By_Acidity.html).  
-If you want to see a list of our [wines by body](Dukes_Wines_By_Body.html).  
-If you want to see a list of our [wines by dryness](Dukes_Wines_by_Dryness.html).  
+If you want to see a list of our [wines by alcohol content](Dukes_Wines_by_Alcohol.md).  
+If you want to see a list of our [wines by acidity](Dukes_Wines_By_Acidity.md).  
+If you want to see a list of our [wines by body](Dukes_Wines_By_Body.md).  
+If you want to see a list of our [wines by dryness](Dukes_Wines_by_Dryness.md).  
 
 Why is nothing showing up from here?
 ## All the Wines
