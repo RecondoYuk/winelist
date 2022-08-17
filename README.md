@@ -7,42 +7,42 @@ Also, I have a lot of information in here so here are ways to bypass all the inf
 ## By Style
 So you want to know what kind of wines we have? You can click on any of these links to see the list of that style of wine:
 ### White Wines
-[Bubbly Wines](Bubbly.html)
-[Pinot Grigios](Pinot_Grigio.html)
-[Sauvignon Blancs](Sauvignon_Blancs.html)
-[Chardonnays](Chardonnays.html)
-[Rosés](Rosé.html)
-[Rieslings](Riesling.html)
+[Bubbly Wines](pages/Bubbly.html)
+[Pinot Grigios](pages/Pinot_Grigio.html)
+[Sauvignon Blancs](pages/Sauvignon_Blancs.html)
+[Chardonnays](pages/Chardonnays.html)
+[Rosés](pages/Rosé.html)
+[Rieslings](pages/Riesling.html)
 ### Red Wines
-[Pinot Noirs](Pinot_Noir.html)
-[Merlot](Merlot.html)
-[Malbec](Malbec.html)
-[Zinfandel](Zinfandel.html)
-[Syrah](Syrah.html)
-[Red Blends](Red_Blends.html)
-[Cabernet Sauvignons](Cabernet_Sauvignon.html)  
+[Pinot Noirs](pages/Pinot_Noir.html)
+[Merlot](pages/Merlot.html)
+[Malbec](pages/Malbec.html)
+[Zinfandel](pages/Zinfandel.html)
+[Syrah](pages/Syrah.html)
+[Red Blends](pages/Red_Blends.html)
+[Cabernet Sauvignons](pages/Cabernet_Sauvignon.html)  
 
 ### All the Styles
-Or you can just click on [this page](Dukes_Wines_By_Style.md) to go through all of the styles on one page
+Or you can just click on [this page](pages/Dukes_Wines_By_Style.md) to go through all of the styles on one page
 
 ## By the Guest's Preference
 So your guests says "I want a . . . " 
 
-The list on [this page](Wines_By_Guest.md) walks you through some simple requests you're likely to come across.
+The list on [this page](pages/Wines_By_Guest.md) walks you through some simple requests you're likely to come across.
 
 ## By the wine's Component
 So you have a guest that wants a dryer wine, or maybe they want the wine with the highest or lowest alcohol, or other aspects of the wines.  
 
-If you want to see a list of our [wines by alcohol content](Dukes_Wines_by_Alcohol.md).  
-If you want to see a list of our [wines by acidity](Dukes_Wines_By_Acidity.md).  
-If you want to see a list of our [wines by body](Dukes_Wines_By_Body.md).  
-If you want to see a list of our [wines by dryness](Dukes_Wines_by_Dryness.md).  
+If you want to see a list of our [wines by alcohol content](pages/Dukes_Wines_by_Alcohol.md).  
+If you want to see a list of our [wines by acidity](pages/Dukes_Wines_By_Acidity.md).  
+If you want to see a list of our [wines by body](pages/Dukes_Wines_By_Body.md).  
+If you want to see a list of our [wines by dryness](pages/Dukes_Wines_by_Dryness.md).  
 
 Why is nothing showing up from here?
 ## All the Wines
 
 ### Bulk List
-If you want to see a combination of all my notes on the different wine bottles (notes from tech sheets mostly), [click here](Dukes_Wine_List.md).
+If you want to see a combination of all my notes on the different wine bottles (notes from tech sheets mostly), [click here](pages/Dukes_Wine_List.md).
 
 ### Pages and Tech Sheets
 Here's a page for each wine where you can find a whole bunch more information about the wine as well as the winery. These are really just the outlines I used to fill out as I scraped through the individual wine websites (all linked) as well as their tech sheets.
