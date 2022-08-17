@@ -7,20 +7,20 @@ Also, I have a lot of information in here so here are ways to bypass all the inf
 ## By Style
 So you want to know what kind of wines we have? You can click on any of these links to see the list of that style of wine:
 ### White Wines
-[Bubbly Wines](pages/Bubbly.md)  
-[Pinot Grigios](pages/Pinot_Grigio.md)  
-[Sauvignon Blancs](pages/Sauvignon_Blancs.md)  
-[Chardonnays](pages/Chardonnays.md)  
-[Rosés](pages/Rosé.md)  
-[Rieslings](pages/Riesling.md)  
+ - [Bubbly Wines](pages/Bubbly.md)  
+ - [Pinot Grigios](pages/Pinot_Grigio.md)  
+ - [Sauvignon Blancs](pages/Sauvignon_Blancs.md)  
+ - [Chardonnays](pages/Chardonnays.md)  
+ - [Rosés](pages/Rosé.md)  
+ - [Rieslings](pages/Riesling.md)  
 ### Red Wines
-[Pinot Noirs](pages/Pinot_Noir.md)  
-[Merlot](pages/Merlot.md)  
-[Malbec](pages/Malbec.md)  
-[Zinfandel](pages/Zinfandel.md)  
-[Syrah](pages/Syrah.md)  
-[Red Blends](pages/Red_Blends.md)  
-[Cabernet Sauvignons](pages/Cabernet_Sauvignon.md)  
+ - [Pinot Noirs](pages/Pinot_Noir.md)  
+ - [Merlot](pages/Merlot.md)  
+ - [Malbec](pages/Malbec.md)  
+ - [Zinfandel](pages/Zinfandel.md)  
+ - [Syrah](pages/Syrah.md)  
+ - [Red Blends](pages/Red_Blends.md)  
+ - [Cabernet Sauvignons](pages/Cabernet_Sauvignon.md)  
 
 ### All the Styles
 Or you can just click on [this page](pages/Dukes_Wines_By_Style.md) to go through all of the styles on one page
