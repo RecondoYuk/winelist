@@ -13,6 +13,7 @@ So you want to know what kind of wines we have? You can click on any of these li
  - [Chardonnays](pages/Chardonnays.md)  
  - [Rosés](pages/Rosé.md)  
  - [Rieslings](pages/Riesling.md)  
+
 ### Red Wines
  - [Pinot Noirs](pages/Pinot_Noir.md)  
  - [Merlot](pages/Merlot.md)  
