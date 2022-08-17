@@ -1,0 +1,499 @@
+# Wines by List
+## Wines By Body
+Wines by body, Lightest to Fullest. Tasting *light bodied* to *full-bodied* is similar to tasting the difference between skim to whole milk.
+- Whites
+	- Sparkling
+		- Fratelli Cosmo
+		- Lokelani
+		- Poema Cava
+		- Domaine Carneros
+		- Veuve Clicquot
+		- Dom Perignon
+	- Riesling
+		- Mönchhof  “Mosel Slate”
+		- Selbach “Ahi”
+	- Rosé
+		- Stolpman “Love You Bunches”
+		- Mont Gravet
+	- Pinot Gris
+		- Tiamo “Organic”
+			- No malolactic Fermentation
+		- Sokol Blosser 
+			- *Sur Lie* aged
+	- Sauvignon Blanc
+		- Mohua
+			- New Zealand
+		- Hunt and Harvest
+			- Stainless steel aged
+			- Napa Sauvignon
+		- Cloudy Bay
+			- Marlborough, NZ
+			- 7% of the blend in warm temp and French oak barriques
+		- Duckhorn
+			- North Coast California
+			- 5 months *sur lie*
+			- 8% new French oak
+			- 7% Semillon
+		- Merry Edwards
+			- Russian River
+			- Barrel Fermented in 100% French oak
+			- 18% new French oak
+			- 2x weekly stirred *sur lie*
+	- Fumé Blanc
+		- Ferrari-Carano
+	- Chardonnay
+		- Tyler 
+			- French Oak Barrels
+			- no more than 10% new oak
+		- Stuhlmuller
+			- French oak Barrels and casks
+				- no more than 5% new
+			- *sur li* aged for 9 months
+		- Line 39
+			- Described as cream with Vanilla Oak
+		- Domaine Michel Gros 
+			- Burgundy
+			- 20% new oak barrels
+			- *sur lie* aged with stirring every 10 days
+		- Lioco 
+			- Californian version of White Burgundy
+			- No Oak
+		- Rombauer
+			- Whole cluster pressed
+			- 9 months in American and French oak barrels
+			- 33% new oak
+		- Chateau Montelena
+			- Napa Valley
+			- 10 months in French oak
+		- Far Niente
+			- 85% barrel aged
+			- 10 months in French Oak
+			- 45% new, 55% once-used
+- Reds
+	- Pinot Noir
+		- A to Z “Essence”
+			- Oregon
+			- 13.9% ABV
+		- Piro “Points West”
+			- Santa Barbara, CA
+			- fermented in open tanks
+			- French oak for 21 months
+				- 50% Neutral, 50% once-used
+		- Truchard
+			- Carneros
+			- Aged for 10 months in French oak
+			- 14.1% ABV
+		- Williams Selyem
+			- Sonoma County /Russian River
+			- Barrel aged for 11 months
+			- 42% new barrels, 58% 1-yr old barrels
+		- Goldeneye
+			- Anderson Valley
+			- 100% French oak
+			- 51% new, 20% once-filled, 29% neutral
+		- Head High
+			- Sonoma County
+			- 14.5% ABV
+		- Domaine Serene “Evenstad Reserve”
+			- Willamette Valley
+			- 15 months in 100% French oak
+	- Merlot
+		- Decoy by Duckhorn
+			- 80% Merlot, 18% Cab Sauv, 2% Cab Franc
+			- Aged 12 months in 100% French oak, 35% new
+			- Graceful and velvety
+	- Blend
+		- Joel Gott “Palisades” Red Blend
+			- California
+			- 1 & 2 year old American oak
+			- 13.9% ABV
+		- The Prisoner
+			- Zinfandel blend
+			- French and American oak barrels
+				- 30% new
+		- Two Mtn Hidden Horse Red Blend
+			- Yakima Valley, WA
+			- 15 months in French and American oak
+				- 40% new, 40% third-fill, 20% neutral
+	- Cabernet Sauvignon
+		- Charles Smith “Substance”
+			- Columbia Valley
+			- 11 months barrel-aged *sur lie*
+			- 50% new French oak barriques
+		- Frank Family
+			- Napa Valley
+			- 20 months in 33% New and 67% in twice-filled French oak Barrels
+		- Cape D’Or
+			- South Africa
+			- Stainless steel and old French oak barrels for 6 months
+		- Penfolds Max’s
+			- South Australia
+			- 14 months in American oak (23% new), French oak (4% new), rest aged in 1 year old seasoned hogsheads
+		- DAOU
+			- Central Coast
+			- 10 months in 50% new French oak
+		- O’Shaugnessy
+			- Napa Valley
+			- Bold, medium-plus tannins
+		- Silver Oak
+			- Alexander Valley
+			- 24 months in American oak
+				- 50% new
+			- Full-bodied with polished, smart tannins
+		- Cliff Lede
+			- Stags Leap
+			- 21 months in French oak
+				- 38% new
+			- Full bodied and richly fruited in the mouth
+
+	- Malbec
+		- Tentadora
+			- 22 months in French oak
+				- 25% new
+	- Petit Sirah
+	- Syrah
+		- K Vintners ‘Motor City Kitty”
+	- Zinfandel
+		- Bedrock “Ancient Vine”
+			- Sonoma, CA
+			- Aged in all French oak
+				- 12% new
+			- 14.4% ABV
+	- Port
+## Wines By Sweetness
+
+Sweetness tastes on the front of your tongue, in the first moment of tasting the wine.  Wines range from 0 g/L of residual sugar to 220 g/L  which have the consistency of syrup, but humans don’t start to taste sweetness until about 4 g/L
+Sweetness descriptions in still wines go from driest to sweetest: *Bone-Dry*, *Dry*, *Off-Dry*, *Medium-Sweet*, *Sweet*  
+Sweetness descriptions in Sparkling Wines go from driest to sweetest: *Brut Nature*, *Extra Brut*, *Brut*, *Extra Dry*, *Dry*, *Demi-Sec*, *Doux*
+ - Whites (Dryest to Sweetest)
+	 - Rosé
+		 - Mont Gravet
+			 - French Rosé made with Cinsault
+		 - Stolpman Love You Bunches
+			 - Fruitier and thus sweeter flavors
+	 - Chardonnay
+		 - Domaine Michel Gros
+			 - White Burgundy
+		 - Tyler Chardonnay
+			 - Bright Acid
+		 - Far Niente
+			 - Balanced Ripeness of the grapes
+		 - Line 39 Chardonnay
+			 - Oaked
+		 - Chateau Montelena
+			 - Very little overt oak
+			 - Abundant Mango
+		 - Rombauer
+			 - Tropical fruit, buttery
+		 - Stuhlmuller
+			 - Bartlet pear, food friendly but a lot less acid
+	 - Fumé Blanc
+		 - Ferrari-Carano
+	 - Sauvignon Blanc
+		 - Merry Edwards
+			 - Barrel Fermentation
+		 - Duckhorn
+			 - 93% Sauvignon Blanc, 7% Sémillon
+		 - Hunt & Harvest
+			 - Napa Valley
+			 - “Brighter”
+		 - Mohua (3.6 g/L)
+			 - TA = 7.14
+			 - Marlborough, NZ
+		 - Cloudy Bay
+			 - Fruity
+			 - Cool harvested grapes
+	 - Pinot Gris
+		 - Less acidic than Sauvignon Blanc so they taste a bit sweeter
+		 - Tiamo Organic (3 g/L)
+			 - No malolactic fermentation
+		 - Sokol Blosser
+			 - Riper fruit due to the cooler temperatures closer to harvest
+	 - Riesling
+		 - Selbach “Ahi”
+		 - Mönchhof “Mosel Slate”
+			 - Spatlëse so sweeter 
+	 - Sparkling
+		 - Dom Perignon (4 g/L)
+		 - Poema (5 g/L)
+		 - Domaine Carneros (9 g/L)
+		 - Veuve Clicquot (10 g/L)
+		 - Lokelani (12 g/L)
+		 - Fratelli Cosmo (12.8 g/L)
+ - Reds (Dryest to Sweetest)
+	 - Very Dry
+		 - Tannat
+		 - Nebbiolo
+		 - Tempranillo
+		 - Cabernet Sauvignon
+			 - Penfolds Max’s
+				 - South Australia
+				 - Higher Acidity and structured tannins
+			 - Frank Family
+				 - Napa Valley
+					 - So more savory than fruity
+				 - 96% Cabernet
+				 - supple and complex
+			 - Cape D’Or
+				 - South African Cab so earthier rather than fruitier
+				 - Lightly oaked
+			 - Silver Oak
+				 - Alecxander Valley
+					 - 95.5% Cabernet Sauvignon
+					 - Semi-Fruity with silky tannins
+			 - DAOU
+				 - Paso Robles
+					 - So lush concentrated fruit with velvety tannins
+				 - 78% Cabernet Sauvignon, 13% Merlot
+				 - Excellent structure
+			 - Charles Smith “Substance”
+				 - fruit-forward style
+				 - Low total acidity (5.9 g/L)
+			 - Cliff Lede
+				 - Stags Leap
+				 - Dense fruit, firm backbone
+			 - O’Shaugnessy Cabernet Sauvignon
+				 - Napa Valley
+				 - Bold, medium to low dryness
+		 - Chianti
+	 - Dry
+		 - Blend
+			 - Joel Gott “Palisades”
+				 - 82% Cabernet Sauvignon
+				 - Red cherries and chocolate
+			 - Two Mountains
+				 - 48% Cab, 40% Merlot
+			 - The Prisoner
+				 - Fruit Bomb
+		 - Sangiovese
+		 - Pinot Noir
+			 - Truchard
+				 - Carneros California
+				 - Firm acidity, red currants and rhubarb
+			 - A to Z Essence
+			 - Head High
+				 - California Pinot Noir
+			 - Pro Points West
+				 - Vivid red berry fruit
+				 - Transverse Ranges off the coast delivers more explosive fruit
+			 - Goldeneye
+				 - Low total Acidity
+				 - rich palate of terroir-inspired fruit
+			 - Williams Selyem
+				 - Strawberry and red fruits
+				 - Low total acidity
+			 - Domaine Serene
+				 - Lush ripe fruit
+				 - Big and bold
+		 - Syrah
+			 - K Vintners “Motor City Kitty”
+		 - Merlot
+			 - Decoy by Duckhorn
+				 - 80% Merlot
+				 - Juicy layers of black cherry, raspberry, and plumb
+	 - Medium Sweet (perfect for meaty feasts)
+		 - Shiraz (Australian Syrah Grapes)
+		 - Malbec
+			 - Tentadora
+		 - Garnacha (Grenache)
+		 - Zinfandel
+			 - Bedrock “Ancient Vines”
+				 - 85% Zinfandel
+	 - Sweet
+		 - Beaujolais Nouveau
+		 - Brachetto D’acqui
+		 - Rosso Dolce
+		 - Lambrusco
+	 - Very Sweet
+		 - Ruby Port
+		 - Tawny Port
+## Wines By Acidity / Tannins
+Lower Acidity Wines taste fuller bodied and more sweet whereas higher are lighter bodied and less sweet. High-acid wines are as sour as lemons at @ 2.6 pH to lower-acid wines as flat as Greek yogurt at @ 4.5 pH
+
+### Acidity from High to Low
+	- Sweet Whites (<3 pH)
+		- Riesling
+			- Mönchhof “Mosel Slate”
+				- Acidity (8 g/L)
+			- Selbach “Ahi”
+		- Sparkling
+			- Domaine Carneros (3.1 pH)
+				- Acidity (8 g/L)
+			- Dom Perignon
+			- Fratelli Cosmo (3.1)
+				- Acidity (6.0 g/L)
+			- Veuve Clicquot
+			- Lokelani (3.1)
+			- Poema (3.5)
+	- Light-Body Whites (~3 pH)
+		- Sauvignon-Blanc
+			- Mohua (3.28 pH)
+				- Acidity (7.14)	
+			- Cloudy Bay
+				- Marlborough , NZ
+			- Hunt and Harvest
+				- Napa Valley
+				- Precise Acid	
+			- Merry Edwards
+				- Spends more time in newer oak
+			- Duckhorn (3.48 pH)
+				- Acidity (6.0 g/L)
+		- Fumé Blanc
+			- Ferrari-Carano (3.38 pH)
+				- Acidity (5.5 g/L)
+		-  Pinot Grigio 
+			- Sokol Blosser
+				- Bright Acidity
+			- Tiamo Organic
+		- Chenin Blanc
+	- Light-Body Reds (~3.3 pH)
+		- Rosé
+			- Mont Gravet (3.45pH)
+				- Acidity of 3.21 g/L
+			- Stolpman 
+				- Uses 80% Grenache
+		- Pinot Noir
+			- Truchard (3.64 pH)
+				- Acidity (6.1 g/L)
+			- Goldeneye (3.64 pH)
+				- Acidity (5.5 g/L)
+			- Head High (3.68 pH)
+				- Acidity (5.5 g/L)
+			- Williams Selyem (3.56 pH)
+				- Acidity (5.9 g/L)
+			- Pro Points West
+				- Acidity is a 3.5 out of 5
+			- A to Z “Essence”
+			- Domaine Serene Evenstad Reserve
+				- Willamette Valley
+				- Silky-smooth with velvet-like Tannins
+		- Grenache
+	- Full-Body Whites (~3.5 pH)
+		- Chardonnay
+			- Rombauer
+				- fresh acidity
+				- Rich and buttery
+			- Line 39 Chardonnay
+			- Tyler
+				- Bright Acid
+			- Chateaur Montelena
+				- Napa Valley
+					- Medium-high acidity
+			- Far Niente
+				- Napa Valley
+			- Stuhlmuller (3.42 pH)
+				- Food friendly acidity
+				- Acidity 6.2 g/L
+			- Domaine Michel Gros
+				- silky tannic structure lovely acidity
+	- Most Reds (~4 pH)
+		- Medium-Bodied Reds
+			- Sangiovese
+			- Merlot
+				- Decoy by Duckhorn
+			- Syrah
+				- K Vintners “Motor City Kitty”
+			- Zinfandel
+				- Bedrock “Ancient Vines” 
+					- Sonoma County
+		- Full-Bodied Reds
+			- Cabernet Sauvignon
+				- Penfolds Max’s (3.63)
+					- Acidity (6.2 g/L)
+				- DAOU
+				- Frank Family (3.64 pH)
+					- Acidity (6.0 g/L)
+				- Cliff Lede
+					- Firm Backbone
+				-
+				- Charles Smith “Substance” (3.78)
+					- Acidity (5.9 g/L)
+				- Cape D’Or (3.65)
+					- Acidity (5.6 g/L)
+			- Blends
+				- The Prisoner
+					- Soft tannins, High Acid
+				- Two Mountain Hidden Horse Blend (3.69)
+				- Joel Gott “Palisades” (3.72 pH)
+					- Acidity 5.6 g/L
+					- Subtle Acidity
+			- Malbec
+				- Tentadora (3.76 pH)
+					- Medium-Low Acidity (5.6 g/L)
+	- Low-Acid Reds  (>4 pH)
+		- Such as late-harvest, warm-climate wines made from sweet, ripe grapes, or red wines that have been aged, causing them to lose their acidity naturally in the bottle
+
+### Tannins Low to High
+	- Medium-Low (if you detect, likely form grape stems)
+		- Pinot Noir
+	- Medium (mild to moderate bitterness)
+		- Grenache
+		- Malbec
+	- Medium-High (astringent wines with a rough sensations on your tongue)
+		- Cabernet Franc
+		- Cabernet Sauvignon
+		- Merlot
+		- Sangiovese
+		- Syrah
+		- Zinfandel
+	- High (gripping sensation at the front of the mouth)
+		- Bordeaux Blend
+		- Nebbiolo
+		- Petit Verdot
+		- Petite Syrah
+		- Port
+		- Tannat
+## Wines By  Oak 
+Blurb about how wine is oaked.
+Unoaked wines tend to be fresh, fruity and floral, 
+## Wines By Big 5 Flavors
+### Wines By Alcohol
+ - Mönchhof “Mosel Slate” Riesling (8.5%)
+ - Selbach “Ahi” Riesling (10.0%) 
+ - Fratelli Cosmo Prosecco (11.5%)
+ - Poema Cava Brut (11.5%)
+ - Domaine Carneros Brut (12.0%)
+ - Veuve Clicquot Brut (12.0%)
+ - Mont Gravet Rosé (12%)
+ - Tiamo Pinot Grigio (12%)
+ - Dom Perignon (12.5%)
+ - Lokelani Sparkling Rosé (12.5%)
+ - Stolpman Rosé (12.5%)
+ - Mohua Sauvignon Blanc (12.5%)
+ - Tyler Chardonnay (12.8%)
+ - Sokol Blosser Pinot Gris (13.0%)
+ - Cloudy Bay Sauvignon Blanc (13.0%)
+ - Domaine Michel Gros Burgundy (13.0%
+ - Hunt & Harvest Sauvignon Blanc (13.5%)
+ - Cape D’Or Cabernet Sauvignon (13.6%)
+ - Piro Points West Pinot Noir (13.6%)
+ - Ferrari-Carano Fumé Blanc (13.8%)
+ - Williams Selyem Pinot Noir (13.8%)
+ - Stuhlmuller Estate Chardonnay (13.9%)
+ - A to Z Essence Pinot Noir (13.9%)
+ - Joel Gott “Palisades” Red Blend (13.9%)
+ - Two Mountain Winery Red Blend (13.9%)
+ - Decoy Merlot (13.9%)
+ - Duckhorn Sauvignon Blanc (14.1%)
+ - Merry Edwards Sauvignon Blanc (14.1%)
+ - Chateau Montelena Chardonnay (14.1%)
+ - Truchard Pinot Noir (14.1%)
+ - Goldeney Pinot Noir (14.2%)
+ - Silver Oak Cabernet (14.2%)
+ - Far Niente Chardonnay (14.3%)
+ - Domaine Serene Pinot Noir (14.4%)
+ - Bedrock Ancient Vines Zinfandel (14.4%)
+ - Line 39 Chardonnay (14.5%)
+ - Rombauer Chardonnay (14.5%)
+ - Head High Pinot Noir (14.5%)
+ - Tentador Malbec (14.5%)
+ - Penfolds Max’s Cabernet Sauvignon (14.5%)
+ - Charles Smith Cabernet Sauvignon (14.5%)
+ - DAOU Cabernet Sauvignon (14.5%)
+ - Frank Family Cabernet Sauvignon (14.5%)
+ - K Vintners Syrah (14.5%)
+ - Cliff Lede Cabernet Sauvignon (14.6%)
+ - O’Shaugnessy Cabernet Sauvignon (14.8%)
+ - The Prisoner Red Blend (15.2%)
+
+
