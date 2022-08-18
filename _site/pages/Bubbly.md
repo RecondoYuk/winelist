@@ -27,7 +27,7 @@
         - Rich, Creamy & Nutty
             - *Reserva* and *Gran Reserva* Cava
             - Vintage Champagne, American bubbles, Italian “Metodo Classico”
-            
+
 ## Dukes Wines and Distinctions
     - Poema 🍷
         - Penedes, Spain

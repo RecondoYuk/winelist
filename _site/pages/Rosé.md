@@ -6,9 +6,10 @@
 	- Medium-High Sweetness
 	- Medium-Low acidity
 - Subgroups
-	- Sparkling
-	- Grenache
-- Dukes Wine and Distinctions
+    - Sparkling
+    - Grenache
+
+## Dukes Wine and Distinctions
 	- Mont Gravet 🍷
 		- Gascogne France
 		- Lush flavors of juicy peach and cherry

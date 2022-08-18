@@ -2,10 +2,10 @@
 
 ## Rundown
 - Big 4
-    - Medium-High Fruitiness
-    - Medium-High Body
-    - Very Low Sweetness
-    - Medium Acidity
+	- Medium-High Fruitiness
+	- Medium-High Body
+	- Very Low Sweetness
+	- Medium Acidity
 - Subgroups
     - Viognier
 
