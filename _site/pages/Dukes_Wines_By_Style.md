@@ -1,6 +1,6 @@
 # Wines By Style
 ## White Wines
-- **Bubbly**
+ - **Bubbly**
 	- Poema Cava Brut 🍷
 		- Cava means “*cellar*” in Catalan Spanish to reference their traditional Champagne-like method of production,  this dry medium-bodied wine has a rich and creamy texture with an elegant finish.
 	- Lokelani 🍷
@@ -13,22 +13,22 @@
 		- A medium-bodied, bone-dry Brut Champagne, this wine has a pleasant nose of fresh-baked bread which yields to a harmonious palate of lingering apples and pears.
 	- Dom Perignon 🍾
 		- A rich and creamy Brut Champagne with intense red fruit character with hints of nuts and gentle spice.
-- **Rosé**
+ - **Rosé**
 	- Mont Gravet 🍷
 		- Full-bodied French Rosé, this wine has flavors of peach and cherry with a long, soft finish.
 	- Stolpman “Love You Bunches” 🍷
 		- Medium-bodied Rosé with a firm  crisp finish, this rich California Rosé has flavors of strawberry and rosebud.
-- **Pinot Grigio**
+ - **Pinot Grigio**
 	- Tiamo “Organic” 🍷
 		- A light, crisp, fruit-driven Italian Pinot Grigio with suggestions of apple and pear on the palate.
 	- Sokol Blosser 🍾
 		- Sourced from 100% Estate-grown fruit, this Willamette Valley Pinot Gris is aromatic, crisp and bright  with flavors of ripe melon and lime zest.
-- **Riesling**
+ - **Riesling**
 	- Selbach “Ahi” 🍷
 		- A fresh and lively Mosel Riesling, it has a nice balance of crisp acidity and restrained fruitiness of ripe apples and peach aroma with a smoky minerality for a lingering, mouth-watering finish.
 	- Mönchhof ‘Mosel Slate’ 🍾
 		- Light-medium bodied Spatlëse, this wine has a moderate sweetness and is precisely balanced with a long finish.
-- **Sauvignon Blanc**
+ - **Sauvignon Blanc**
 	- Mohua 🍷 
 		- A classic New Zealand Sauvignon Blanc with grapes sourced from 3 subregions, it has a very succulent palate with mango, ripe lemon, and pink grapefruit flavors.
 	- Hunt & Harvest 🍷
@@ -39,7 +39,7 @@
 		- A Russian River Valley Sauvignon Blanc, this wine has a round and open palate with citrus flavors and a burst of crisp, refreshing acidity.
 	- Cloudy Bay 🍾
 		- A medium-bodied, aromatic Marlborough Sauvignon Blanc with juicy stone fruit and subtle tropical characters with a long silky finish.
-- **Chardonnay**
+ - **Chardonnay**
 	- Line 39 🍷
 		- Medium-bodied Northern California Chardonnay, lots of tropical fruit flavors and rich hints of oak.
 	- Tyler 🍷
@@ -59,7 +59,7 @@
 
 
 ## Red Wines
-- **Pinot Noir**
+ - **Pinot Noir**
 	- Head High 🍷
 		- Hawaii-raised Wine Grower Bill Price’s Sonoma County Pinot Noir is a fun and youthful pinot that has flavors of cherries and cranberries with a crisp finish.
 	- A to Z “Essence” 🍷
@@ -74,26 +74,26 @@
 		- A concentrated, complex Pinot Noir from the Russian River AVA, it has dark fruit flavors with hints of cocoa.
 	- Domaine Serene ‘Evenstad Reserve’ 🍾
 		- A velvety, hedonistic Willamette Valley Pinot with lush ripe fruit, silky-smooth tannins, and a long weighted finish.
-- **Merlot**
+ - **Merlot**
 	- Decoy by Duckhorn 🍾
 		- 90 points on Wine Enthusiast, this California Merlot offers layers of luxurious fruit with silky tannins
-- **Malbec**
+ - **Malbec**
 	- Tentadora 🍷
 		- This inky black Malbec from Argentina features blueberry and blackberry fruit that broadens into a velvety finish.
-- **Syrah**
+ - **Syrah**
 	- K Vintners “Motor City Kitty” 🍾
 		- Named after Charles Smith’s cat that was napping on the barrels, this single vineyard Syrah from Yakima Valley Washington has flavors of plum, black cherry, white pepper, and cured meat.
-- **Zinfandel**
+ - **Zinfandel**
 	- Bedrock “Ancient Vine” 🍾
 		- A bright, floral, plump and zesty Sonoma Zinfandel with flavors of dark fruit, pepper, and spice grown from old vines (some over 100 years old) for concentrated, rich flavors.
-- **Red Blend**
+ - **Red Blend**
 	- Joel Gott “Palisades” 🍷
 		- Sourced from vineyards all over California, this red blend has bright red fruit flavors that lead to smooth tannins and a subtle acidity with a long, delicate finish.
 	- Two Mountain’s Horse Head Red 🍷
 		- From Washington State’s first certified sustainable vineyard, this smooth and balanced red blend opens with rich dark fruits and vanilla all framed in toasty oak.
 	- The Prisoner 🍾
 		- The most recognized Napa Red Blend, this fruit bomb has a smooth luscious finish with soft tannins that let it pair with any food
-- **Cabernet Sauvignon**
+ - **Cabernet Sauvignon**
 	- Cape d’Or 🍷
 		- A well-structured Cab from South Africa, it has aromas of dark fruit and subtle spices and the palate shows a balance between old world texture and new world freshness.
 	- Penfolds Max’s 🍷

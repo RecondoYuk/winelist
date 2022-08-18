@@ -6,8 +6,9 @@
 	- Medium Sweetness
 	- High Acidity
 - Subgroups
-	- Spatlëse
-- Dukes Wines and Distinctions
+    - Spatlëse
+
+## Dukes Wines and Distinctions
 	- Selbach “Ahi” 🍷
 		- Mosel, Germany
 		- Fresh and lively with good fruit and a touch of smoky minerality
