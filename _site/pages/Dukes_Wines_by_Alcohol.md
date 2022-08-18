@@ -1,0 +1,50 @@
+# Dukes Wines by Alcohol
+Who wants to get tore up from the floor up? Here’s a list of the ABV of all our wines:
+- Mönchhof “Mosel Slate” Riesling (8.5%) 🍾
+ - Selbach “Ahi” Riesling (10.0%)  🍷
+ - Fratelli Cosmo Prosecco (11.5%) 🍾
+ - Poema Cava Brut (11.5%) 🍷
+ - Domaine Carneros Brut (12.0%) 🍾
+ - Veuve Clicquot Brut (12.0%) 🍾
+ - Mont Gravet Rosé (12%) 🍷
+ - Tiamo Pinot Grigio (12%) 🍷
+ - Dom Perignon (12.5%) 🍾
+ - Lokelani Sparkling Rosé (12.5%) 🍷
+ - Stolpman Rosé (12.5%) 🍷
+ - Mohua Sauvignon Blanc (12.5%) 🍷
+ - Tyler Chardonnay (12.8%) 🍷
+ - Sokol Blosser Pinot Gris (13.0%) 🍾
+ - Cloudy Bay Sauvignon Blanc (13.0%) 🍾
+ - Loco Chardonnay (13.0%) 🍾
+ - Domaine Michel Gros Burgundy (13.0%) 🍾
+ - Hunt & Harvest Sauvignon Blanc (13.5%) 🍷
+ - Cape D’Or Cabernet Sauvignon (13.6%) 🍷
+ - Piro Points West Pinot Noir (13.6%) 🍾
+ - Ferrari-Carano Fumé Blanc (13.8%) 🍾
+ - Williams Selyem Pinot Noir (13.8%) 🍾
+ - Stuhlmuller Estate Chardonnay (13.9%) 🍾
+ - A to Z Essence Pinot Noir (13.9%) 🍷
+ - Joel Gott “Palisades” Red Blend (13.9%) 🍷
+ - Two Mountain Winery Red Blend (13.9%) 🍷
+ - Decoy Merlot (13.9%) 🍾
+ - Duckhorn Sauvignon Blanc (14.1%) 🍾
+ - Merry Edwards Sauvignon Blanc (14.1%) 🍾
+ - Chateau Montelena Chardonnay (14.1%) 🍾
+ - Truchard Pinot Noir (14.1%) 🍾
+ - Goldeney Pinot Noir (14.2%) 🍾
+ - Silver Oak Cabernet (14.2%) 🍾
+ - Far Niente Chardonnay (14.3%) 🍾
+ - Domaine Serene Pinot Noir (14.4%) 🍾
+ - Bedrock Ancient Vines Zinfandel (14.4%) 🍾
+ - Line 39 Chardonnay (14.5%) 🍷
+ - Rombauer Chardonnay (14.5%) 🍷
+ - Head High Pinot Noir (14.5%) 🍷
+ - Tentador Malbec (14.5%) 🍷
+ - Penfolds Max’s Cabernet Sauvignon (14.5%) 🍷
+ - Charles Smith Cabernet Sauvignon (14.5%) 🍾
+ - DAOU Cabernet Sauvignon (14.5%) 🍾
+ - Frank Family Cabernet Sauvignon (14.5%) 🍾
+ - K Vintners Syrah (14.5%) 🍾
+ - Cliff Lede Cabernet Sauvignon (14.6%) 🍾
+ - O’Shaugnessy Cabernet Sauvignon (14.8%) 🍾
+ - The Prisoner Red Blend (15.2%) 🍾

@@ -1,1 +1,12 @@
+# Site Settings
+title: Dukes Beachhouse Winelist
+description: >-
+  This is a rundown of the Winelist for Duke's Beachhouse Maui.
+  It's a work-in-progress so please be forgiving!
+github_username: recondoyuk
+
+# Build settings
+markdown: kramdown
 theme: jekyll-theme-leap-day
+plugins:
+  - jekyll-feed
