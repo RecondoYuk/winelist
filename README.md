@@ -56,7 +56,7 @@ After that you will find a link to the individual tech sheets for those wines.
   - Lokelani Sparkling Rosé  [Page](pages/Lokelani.md) / [Tech Sheet](assets/Lokelani_Rose.pdf)
   - Mont Gravet Rosé  [Page](pages/Mont_Gravet.md) / [Tech Sheet](assets/Mont_Gravet_Rose.pdf)
   - Stolpman "Love You Bunches" Rosé  [Page](pages/Stolpman.md) / [Tech Sheet](assets/2020_Stoilpman_Love_You_Bunches.pdf)
-  - Tiamo 'Organic' Pinot Grigio  [Page](pages/Tiamo.md) / [Tech Sheet](assets/Tiamo_PG.pdf)  [Tech Sheet](assets/Tiamo_PG_Can.pdf)
+  - Tiamo 'Organic' Pinot Grigio  [Page](pages/Tiamo.md) / [Tech Sheet](assets/Tiamo_PG.pdf)  [Tiamo Cans Tech Sheet](assets/Tiamo_PG_Can.pdf)
   - Selbach 'Ahi' Riesling [Page](pages/Selbach.md) / [Tech Sheet](assets/Selbach_Riesling.pdf)
   - Mohua Sauvignon Blanc [Page](pages/Mohua.md) / [Tech Sheet](asseets/Mohua_SB.pdf)
   - Hunt & Harvest Sauvignon Blanc [Page](pages/Hunt_And_Harvest.md) / [Tech Sheet](assets/Hunt_And_Harvest_SB.pdf)
@@ -72,7 +72,7 @@ After that you will find a link to the individual tech sheets for those wines.
   - Penfolds Max's Cabernet Sauvignon [Page](pages/Penfolds.md) / [Tech Sheet](assets/Penfolds_Maxs_Cab.pdf)
 - **Bottles of Bubbles**
   - Fratelli Cosmo Prosecco [Page](pages/Fratelli_Cosmo.md) / [Tech Sheet](assets/Fratelli_Prosecco.pdf)
-  - Domaine Carneros Brut [Page](pages/Domain_Carneros.md) / [Tech Sheet](assets/Domaine_Carneros_Brut.pdf)
+  - Domaine Carneros Brut [Page](pages/Domaine_Carneros.md) / [Tech Sheet](assets/Domaine_Carneros_Brut.pdf)
   - Veuve Clicquot Brut [Page](pages/Veuve_Clicquot.md) / [Tech Sheet](assets/Veuve_Clicquot.pdf) / [Label Notes](assets/Veuve_Clicquot_Brut.pdf)
   - Dom Pérignon Brut [Page](pages/Dom_P.md) / [Tech Sheet](assets/Dom_Perignon.pdf) / [Dom P Notes](assets/Dom_P_Notes.pdf)
 - **Bottles of Whites**
