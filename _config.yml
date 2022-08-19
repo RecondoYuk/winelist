@@ -10,3 +10,5 @@ markdown: kramdown
 remote_theme: chirpy
 plugins:
   - jekyll-feed
+
+theme: jekyll-theme-leap-day
