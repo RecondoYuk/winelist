@@ -11,6 +11,6 @@
     - Shiraz
 
 ## Dukes Wines and Distinctions
-    - K Vintners “Motor City Kitty” Syrah
-        - Yakima Valley, WA
-        - Dry, plum flavors with white pepper spices 
+- **K Vintners “Motor City Kitty” Syrah** 🍾
+    - Yakima Valley, WA
+    - Dry, plum flavors with white pepper spices 

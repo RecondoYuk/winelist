@@ -9,6 +9,6 @@
 - Subgroups
 
 ## Dukes Wines and Distinctions
-    - Bedrock “Old Vine”
-        - Sonoma California
-        - Beautifully perfumed,  dark fruits with peppers and spice
+- **Bedrock “Old Vine”** 🍾
+    - Sonoma California
+    - Beautifully perfumed,  dark fruits with peppers and spice

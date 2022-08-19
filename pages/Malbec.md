@@ -8,6 +8,6 @@
 - Subgroups
 
 ## Dukes Wines and Distinctions
-    - Tentadora
-        - Valle de Cafayate, Argentina
-        - Blueberry and blackberry melange with notes of spice and earth that broadens into a velvety finish
+  - **Tentadora** 🍷
+      - Valle de Cafayate, Argentina
+      - Blueberry and blackberry melange with notes of spice and earth that broadens into a velvety finish

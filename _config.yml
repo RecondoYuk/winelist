@@ -7,11 +7,6 @@ github_username: recondoyuk
 
 # Build settings
 markdown: kramdown
-<<<<<<< HEAD
-theme: jekyll-theme-chirpy
-=======
-remote_theme: chirpy
->>>>>>> f75690c9f06923306fcebc708954db95931a0246
 plugins:
   - jekyll-feed
 

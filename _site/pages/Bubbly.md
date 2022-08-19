@@ -29,31 +29,30 @@
             - Vintage Champagne, American bubbles, Italian “Metodo Classico”
 
 ## Dukes Wines and Distinctions
-    - Poema 🍷
-        - Penedes, Spain
-        - Dry, medium-bodied cava has medium-intensity flavors of orange rind, Granny Smith apples, 
-        - Rich and creamy texture with an elegant finish
-    - Lokelani 🍷
-        - Maui, HI
-        - Sparkling Rosé
-        - Nuances of fresh strawberries and orange blossom complemented by toasted almond
-        - Dry finish with ideal balance of flavor and acidity
-    - Fratelli Cosmo 🍾
-        - Treviso, Italy
-        - Prosecco DOC, Extra Dry
-        - Fruit-forward and smooth, full-bodied and well-structured
-        - Flavors of Golden Delicious apple, peach, and wisteria
-    - Domaine Carneros 🍾
-        - Carneros, California
-        - Tastes of gala apples, ripe pears, and toasted hazelnuts
-        - Medium-bodied with a crisp finish
-            - Aged a minimum three years in the bottle on its lees
-    - Veuve Clicquot 🍾
-        - Champagne, France
-        - Lemon, pear, hazelnuts, and lightly baked apples
-        - Crisp, clean finish, bone-dry
-    - Dom Perignon 🍾
-        - Champagne, France
-        - Reach and creamy on the palate with balanced acidity
-        - Dry and biscuity, red fruit flavors
-- 
+ - **Poema** 🍷 
+   - Penedes, Spain 
+   - Dry, medium-bodied cava has medium-intensity flavors of orange rind, Granny Smith apples, 
+   - Rich and creamy texture with an elegant finish
+ - **Lokelani** 🍷
+   - Maui, HI
+   - Sparkling Rosé
+   - Nuances of fresh strawberries and orange blossom complemented by toasted almond
+   - Dry finish with ideal balance of flavor and acidity
+ - **Fratelli Cosmo** 🍾
+   - Treviso, Italy
+   - Prosecco DOC, Extra Dry
+   - Fruit-forward and smooth, full-bodied and well-structured
+   - Flavors of Golden Delicious apple, peach, and wisteria
+ - **Domaine Carneros** 🍾
+   - Carneros, California
+   - Tastes of gala apples, ripe pears, and toasted hazelnuts
+   - Medium-bodied with a crisp finish
+       - Aged a minimum three years in the bottle on its lees
+ - **Veuve Clicquot** 🍾
+   - Champagne, France
+   - Lemon, pear, hazelnuts, and lightly baked apples
+   - Crisp, clean finish, bone-dry
+ - **Dom Perignon** 🍾
+   - Champagne, France
+   - Rich and creamy on the palate with balanced acidity
+   - Dry and biscuity, red fruit flavors
