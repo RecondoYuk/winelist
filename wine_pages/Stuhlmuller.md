@@ -1,4 +1,8 @@
-# Stuhlmuller Estate Chardonnay
+---
+title: Stuhlmuller
+description: This wine is sleek and elegant with medium body and a palate supported by bright, food-friendly acid and subtle textural notes
+---
+
 ## Fast Facts
  - **Name**:  2020 Estate Chardonnay
  - **Style**: Chardonnay
@@ -7,7 +11,8 @@
      - **Address**: 4951 West Soda Rock Lane, Healdsburg CA, 95448
      - **Telephone**: (707)431-7745
      - **Website**: https://stuhlmullervineyards.com
-- - - -
+
+---
 
 ## Provenance
 ### Winery
@@ -21,7 +26,8 @@
 **The Vintage** → Following a cool, mild growing season, an August heat spell accelerated ripening, resulting in an earlier start to harvest than normal. Our vineyard set an average size crop, and thanks to a full canopy, we had ideal shade on the fruit. As a result, our vines produced pristine grapes, with excellent natural acidity, lovely balance, and pure varietal flavors. We harvested our 2020 Chardonnay from August 18th through September 2nd with average brix of 22.5 degrees.
 
 **Winemaking** → For complexity and texture, we did a traditional pigeage on roughly one third of the fruit, leaving it in bins for three hours of skin contact before pressing. To accentuate the signature fruit and natural nuttiness of our Estate grapes, we also fermented this wine with 100% indigenous yeast.
-- - - -
+
+---
 
 ## Wine
 ### Grapes

@@ -1,13 +1,18 @@
-# Lioco SoCo Chardonnay
+---
+title: Lioco
+description: nectarine pit, lemon curds, chervil
+---
+
 ## Fast Facts
  - **Name**: Lioco *SoCo* Sonoma County Chardonnay
  - **Style**: Chardonnay
  - **Vintage**: 2020
  - **Winery**: Lioco Winery
-     - 	 **Address** → 125 Matheson St Healdsburg, CA 95448
+     * **Address** → 125 Matheson St Healdsburg, CA 95448
      * **Telephone** → (707)395-0148
      * **Website** →  [www.liocowine.com](http://www.liocowine.com/)
-- - - -
+
+---
 
 ## Provenance
 ### Winery 
@@ -35,7 +40,8 @@ If the fruit is well-grown and comes from a compelling site, there is no way to 
 
 ### Winemaking 
 **Vinification** The fruit was hand-harvested, sorted, and the berries broken before being pressed. The majority was fermented in stainless steel tanks. A small portion went to neutral French oak for 6-months before assemblage. Malo completed. Cross-flow filtered prior to bottling.
-- - - -
+
+---
 
 ## Wine
 ### Grapes

@@ -1,11 +1,16 @@
-# Dom Pérignon
+---
+title: Dom Pérignon
+description: Dom Pérignon has a deservedly fine reputation.
+---
+
 ## Fast Facts
  - **Name**: Dom Pérignon Brut Champagne
  - **Style**: Brut
  - **Vintage**: NV
  - **Winery**: Moet & Chandon
      - **Website**: https://www.domperignon.com/us-en
-- - - -
+
+---
 
 ## Provenance
 ### Winery
@@ -19,7 +24,8 @@
 Prestige Cûvée Champagne
 
 ### Winemaking 
-- - - -
+
+---
 
 ## Wine
 ### Grapes

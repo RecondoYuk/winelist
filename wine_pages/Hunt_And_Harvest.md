@@ -1,4 +1,8 @@
-# Hunt & Harvest
+---
+title: Hunt & Harvest  
+description: A clean, crisp version of California Sauvignon Blanc (riper fruit, less green than New Zealand)
+---
+
 ## Fast Facts
 *Bright and Zesty, Guava, Lime Zest, Green Pear*
 *A clean, crisp version of California Sauvignon Blanc (riper fruit, less green than New Zealand)*
@@ -7,7 +11,8 @@
  - **Vintage**: 2019
  - **Winery**: Hunt & Harvest Wines
      - **Website**: https://huntandharvestwines.com
-- - - -
+
+---
 
 ## Provenance
 ### Winery
@@ -18,7 +23,8 @@
 
 ### Winemaking 
 2019 was a very wet winter with rain coming into spring. Keeping the vines in balance was especially important this year. Successful management of the vines along with wonderfully mild weather through summer gave us warm days and cool nights. This is a recipe for success in vineyards, the vintage gave us a great balance of sugar and acid with complete phenolic ripening We had ripe flavors with freshness along with nice acid balance.
-- - - -
+
+----
 
 ## Wine
 ### Grapes

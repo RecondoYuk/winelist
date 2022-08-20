@@ -1,11 +1,16 @@
-# Fratelli Cosmo
+---
+title: Fratelli Cosmo
+description: Generous and fruit-rich, redolent of cherry, raspberry, and strawberry with crisp acidity
+---
+
 ## Fast Facts
  - **Name**: Fratelli Cosmo Prosecco 
  - **Style**: Prosecco
  - **Vintage**:  NV
  - **Winery**: Bellenda 
      - **Website**: https://www.bellenda.it/en/
-- - - -
+
+---
 
 ## Provenance
 ### Winery 
@@ -20,7 +25,8 @@ This fragrant, delicate Prosecco Rose is a quality selection of the finest Glera
 ### Winemaking 
 * The vines, dense-planted at an average of 4,000 per hectare, are trained to a mixture of spurred cordon and Sylvoz. The grapes are picked exclusively by hand, around mid-September; yields in must average 90 hl/ha.
 * **Vinification**  → After the clusters are destemmed and the grapes pressed, the must spends a brief period on the skins and then is gently pressed off wtih a bladder press. The must is then gravity settled and fermented at 18-20 Celsius. Effervescence is achieved via the Italian Method in 30hl steel pressure fermenters over a period of minimum two months.
-- - - -
+
+---
 
 ## Wine
 ### Grapes

@@ -1,13 +1,18 @@
-# Tyler
+---
+title: Tyler
+description: A well-balanced Chardonnay that will be loved whether someone is a Chardonnay lover or not
+---
+
 ## Fast Facts
-*Lemon Curd, Balanced, Bright Acid, Creaminess*
+*Lemon Curd, Balanced, Bright Acid, Creaminess*  
 *A well-balanced Chardonnay that will be loved whether someone is a Chardonnay lover or not*
  - **Name**:  Santa Barbara County Chardonnay
  - **Style**: Chardonnay
  - **Vintage**: 2019
  - **Winery**: Tyler Winery
      - **Website**: https://www.tylerwinery.com
-- - - -
+
+---
 
 ## Provenance
 ### Winery
@@ -27,7 +32,8 @@
     - Shale
 
 ### Winemaking 
-- - - -
+
+---
 
 ## Wine
 ### Grapes

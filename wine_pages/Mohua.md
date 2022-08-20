@@ -1,4 +1,8 @@
-# Mohua
+---
+title: Mohua
+description: A classic style New Zealand Sauvignon Blanc with bright acid and a green profile that those who know the style will crave and love.
+---
+
 ## Fast Facts
 *Fresh Cut Lime, Passionfruit, Bell Pepper, Grapefruit, Mango*
 *A classic style New Zealand Sauvignon Blanc with bright acid and a green profile that those who know the style will crave and love.*
@@ -8,7 +12,8 @@
  - **Winery**: Mohua Wines at Peregrine Winery
      - **Telephone**: +64 27 291 4429
      - **Website**: https://www.mohuawines.co.nz
-- - - -
+
+---
 
 ## Provenance
 ### Winery
@@ -27,7 +32,8 @@ Driven by one family’s passion for great winemaking, Mohua Wines was founded i
 
 ### Winemaking 
 **The Season**→ 2021 provided its share of challenges, though was a warmer than average season overall. Initially impacted by early Spring frosts and followed by a cool flowering period which were the key causes for the small volumes harvested across the region. Low disease pressure and an early harvest were the result of drought like conditions from December to March, providing only 31% of the average rainfall during this period. The warm and dry weather pattern throughout much of the growing season allowed the fruit to develop intensity and wonderful balance which has translated beautifully into the finished wine.
-- - - -
+
+---
 
 ## Wine
 ### Grapes

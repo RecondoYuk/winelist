@@ -1,13 +1,18 @@
-# Cliff Lede Cabernet Sauvignon
+---
+title: Cliff Lede
+description: Built on a foundation of lush cassis, blackberry, and dark cherry aromas, this long and full-bodied wine is apportioned with a perfume of cardamom, clove, and ancho Chile
+---
+
 ## Fast Facts
- - **Name**: Cliff Lede “Stags Leap” Cabernet Sauvignon
+ - **Name**: *Stags Leap* Cabernet Sauvignon
  - **Style**: Cabernet Sauvignon
  - **Vintage**: 2019
  - **Winery**: Cliff Lede Vineyards
      - **Address**: 1473 Yountville Cross Road, Yountville CA 94599-9471
      - **Telephone**: (707)944-8642
      - **Website**: http://www.cliffledevineyards.com
- - - - 
+
+---
 
 ## Provenance
 ### Winery
@@ -22,7 +27,8 @@ Established in 2002, Cliff Lede Vineyards encompasses sixty acres in the famed S
 **Vintage** → The 2019 vintage was a magnificent year for Napa Valley. A frost-free and uniform bud break was followed by a cool wet spring that included three inches of rain in May. Luckily, the rain didn’t affect set and the weather turned warm and sunny for the duration of spring. Welcome warm nights in June, July, and August caught maturation back on schedule. Summer conditions were moderate, with warm days and cool nights, ideal for slow and steady grape maturation. The wine shows exceptional balance with concentrated, ripe fruit complemented by bright acidity and supple, yet intense, structure. Optimal ripeness was achieved thanks to an early autumn of consistently warm, but not hot, days. The pristine ripening conditions allowed for very intense fruit flavor concentrations.
 
 **Winemaking** → Grapes were picked in the darkness of the early morning hours. The freshly harvested fruit immediately underwent rigorous selection by our three-tiered sorting process, which included our cutting-edge optical sorter. Whole berries were gently delivered by gravity to tank using our crane system, minimizing disruption of berry integrity. Cold soaks lasted approximately seven days, and fermentations were managed via a combination of *délestage*, pumpovers, and punchdowns. Extended maceration ranging from four to five weeks fine-tuned our tannin profiles, allowing us to perfect mouth feel and wine complexity.
-- - - -
+
+---
 
 ## Wine
 ### Grapes

@@ -1,13 +1,18 @@
-# Joel Gott “Palisades” Red Blend
+---
+title: Joel Gott
+description: This Red Blend is a people pleaser by taking on nice Cabernet and Syrah qualities, while being approachable for all wine lovers as well
+---
+
 ## Fast Facts
 *Roasted Coffee, Black Cherry, Plum, Spice*
 *This Red Blend is a people pleaser by taking on nice Cabernet and Syrah qualities, while being approachable for all wine lovers as well*
- - **Name**: Palisades Red Wine
+ - **Name**: *Palisades* Red Wine
  - **Style**: Red Blend
  - **Vintage**: 2017
  - **Winery**: Gott Wines
      - **Website**: https://www.gottwines.com
-- - - -
+
+---
 
 ## Provenance
 ### Winery
@@ -21,7 +26,8 @@ To make a well-balanced red wine, we blended Cabernet Sauvignon, Merlot, Petite 
 ### Winemaking 
  - **Harvest Notes** → Across California in 2017, the growing season started with much needed winter rains, resulting in a later than usual bud break. Warm spring and summer temperatures, followed by a late summer heat wave, caused us to pick our fruit in the beginning of September.
  - **Winemaking Notes** → After fermentation, the wine was aged in 1 & 2-year-old American oak to complement the flavors and tannins of the wine and soften the mid-palate.
-- - - -
+
+---
 
 ## Wine
 ### Grapes

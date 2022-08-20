@@ -1,13 +1,18 @@
-# Bedrock “Old Vine” Zinfandel
+---
+title: Bedrock
+description: Plump and zesty with lively raspberry and smoked pepper flavors that speed toward lively tannins.
+---
+
 ## Fast Facts
 *Dark fruit, pepper, spice*
 *Plump and zesty with lively raspberry and smoked pepper flavors that speed toward lively tannins.*
- - **Name**: Bedrock “Old Vines” Sonoma Zinfandel
+ - **Name**: Bedrock *Old Vines* Sonoma Zinfandel
  - **Style**: Zinfandel
  - **Vintage**: 2018
  - **Winery**: Bedrock Wine Co
      - **Website**:  https://www.bedrockwineco.com
-- - - -
+
+---
      
 ## Provenance
 ### Winery
@@ -21,7 +26,8 @@ Though its core still revolves around the Sonoma Valley appellation (Bedrock Vin
 The 2018 Zinfadel Old Vine is bright, floral, and beautifully perfumed. Crushed red berries, flowers and sweet spice give the 2018 a very pretty sense of lift. In 2018 the Old Vine is especially gracious and light on its feet. The blend incorporates fruit from a number of top sites including Bedrock, Teldeschi, Esola, Pagani, Papera, Evangelho, and Pato.
  - Native yeast fermentations with a combination of punch downs and pump overs.
 
-- - - -
+---
+
 ## Wine
 ### Grapes
 85% Zinfandel, 15% other varietals

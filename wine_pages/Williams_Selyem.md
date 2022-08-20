@@ -1,4 +1,8 @@
-# Williams Selyem Sonoma County Pinot Noir
+---
+title: Williams Selyem
+description: Black Cherry, Blackberry, cinnamon, dark chocolate
+---
+
 ## Fast Facts
 *Black Cherry, Blackberry, cinnamon, dark chocolate*
  - **Name**: Sonoma County Pinot Noir
@@ -6,7 +10,8 @@
  - **Vintage**: 2020
  - **Winery**: Williams Selyem
      - **Website**: https://www.williamsselyem.com 
-- - - -
+
+---
 
 ## Provenance
 ### Winery
@@ -23,7 +28,9 @@ Williams Selyem Winery began as a simple dream of two friends, Ed Selyem and Bur
 
 ### Winemaking 
 **Harvest** → The 2020 growing season started out very dry and bud break was delayed. Early spring rains recharged with soil profile, but periods of extreme cold caused many frost events throughout the Russian River Valley. Late spring yielded ample sunshine and moderate temperatures, and the plants responded very well with excellent canopy growth. The season ended up approximately 12% warmer than average and did not have any heat spikes until August. Harvest started in haste on August 12, ahead of an extreme heat wave. On the night of August 17, the weather changed and there was a rare dry lightning storm that sparked a fire on a hillside in remote west Sonoma County; later named the Walbridge Fire. In the Russian River Valley, it took a number of days for smoke to settle. Based on test results for smoke taint on the grapes, several coastal vineyards were not picked. For the vineyards which were picked, either before the fire or before the smoke settled, the result was concentrated wines with a darker, more brooding complexion. The polish of the tannin, coupled with excellent concentration, should allow for a wide drinking window.
-- - - -
+
+---
+
 ## Wine
 ### Grapes
 100% Pinot Noir

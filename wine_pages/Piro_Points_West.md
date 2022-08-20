@@ -1,11 +1,16 @@
-# Piro “Points West” Pinot Noir
+---
+title: Piro “Points West”
+description: The medium-bodied palate hums with verve, ripeness, and intensity before finishing with a commanding, chiseled freshness
+---
+
 ## Fast Facts
  - **Name**: “Points West” Pinot Noir
  - **Style**: Pinot Noir
  - **Vintage**: 2018
  - **Winery**: Marc Piro
      - **Website** https://www.pirowinecompany.com
-- - - -
+
+---
 
 ## Provenance
 ### Winery
@@ -32,7 +37,8 @@ Hand-harvested, hand-sorted and 100% de-stemmed, today’s 2018 Piro Points West
 	* Tannin  → 3 out of 5
 	* Acid  → 3.5 out of 5
 	* Alcohol  → 3 out of 5
-- - - -
+
+---
 
 ## Wine
 ### Grapes

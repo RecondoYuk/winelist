@@ -1,4 +1,8 @@
-# A to Z “Essence” Pinot Noir
+---
+title: A to Z
+description: A pretty versatile wine that will pair well with most proteins and dishes with an earthy or rustic feel
+---
+
 ## Fast Facts
 *Mocha, Raspberry, Cherry, Vanilla, Leather*
 *A pretty versatile wine that will pair well with most proteins and dishes with an earthy or rustic feel*
@@ -7,7 +11,8 @@
  - **Vintage**: 2019
  - **Winery**: A to Z Wineworks
      - **Website**: https://www.atozwineworks.com
-- - - -
+
+---
 	
 ## Provenance
 ### Winery
@@ -19,7 +24,8 @@ A to Z Wineworks was started in 2002 by Oregon wine industry veterans: Deb Hatch
 ### Winemaking 
 The 2019 A to Z Pinot Noir is a blend of fruit from across Oregon and approximately 80 different fermentations. Once primary and secondary fermentation are complete, many trials result in a single cuvée blended to highlight classic Oregon Pinot Noir qualities.
 **Vintage Notes** → A challenging 2019 vintage began warm and wet into early June. All regions of Western Oregon experienced increased disease pressure from the high soil moisture and associated vegetative growth although our dry-farmed vineyards were happy. Proper canopy management and sound crop protection practices were crucial for success before summer arrived with average heat accumulation. Overcast conditions led to the coolest September and October since 2007, helping the fruit maintain acidity and freshness going into harvest. Interspersed showers during the harvest period slowed fruit development, and ripeness was achieved at lower sugars. It was a season definitely favoring wineries of fruit quickly in the short picking windows. Vintage 2019 was a true cool climate year, and a reminder that good work and proper timing can achieve great things in Oregon wine.
-- - - -
+
+---
 
 ## Wine
 ### Grapes

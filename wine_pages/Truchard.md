@@ -1,4 +1,8 @@
-# Truchard Pinot Noir
+---
+title: Truchard
+description: A Pinot that walks the line between France and California
+---
+
 ## Fast Facts
 *A Pinot that walks the line between France and California*
  - **Name**: Truchard Vineyards Pinot Noir
@@ -6,7 +10,8 @@
  - **Vintage**: 2019
  - **Winery**: Truchard Vineyards
      - **Website**: https://www.truchardvineyards.com
-- - - -
+
+---
 
 ## Provenance
 ### Winery
@@ -37,7 +42,8 @@
  - 2019 is very similar to the near-perfect 2018 vintage. A cold winter with average rainfall made for a late bud-break. Ideal spring weather allowed for nice berry set and above average yields. Mild conditions throughout summer and fall allowed the fruit to slowly ripen and develop maximum flavor. The wines of 2019 are bold and intenser with nice structure.
  - Harvested from Sept 7-27, 24.4˚Brix
  - **Winemaking**  → All of the fruit was gently destemmed and crushed into open top fermenters with approximately 20% whole berries. Each lot was inoculated with Assmannhausen yeast, after “cold soaking” for up to 5 days. Fermentations were punched down three times daily with the temperature peaking at 92˚F. After 7 - 12 days of maceration, the lots were pressed, settled in tanks for 24 hours, and then put into barrel. This wine was aged for 10 months in French oak (35% new), and bottled in August of 2020. It is ready for immediate drinking, but will gracefully age for the next 12-15 years.
-- - - -
+
+---
 
 ## Wine
 ### Grapes

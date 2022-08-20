@@ -1,12 +1,17 @@
-# K Vintners “Motor City Kitty” Syrah
+---
+title: K Vintners
+description: ayered aromas of plums, black cherries, leather, bark and iron. Full-bodied with a lot of nuance. Firm, gripping tannins.
+---
+
 ## Fast Facts
 *Plum, Black Cherry, White Pepper, Cured Meat*
- - **Name**: K Vintners “Motor City Kitty” Syrah
+ - **Name**: K Vintners *Motor City Kitty* Syrah
  - **Style**: Syrah
  - **Vintage**: 2019
  - **Winery**: Charles Smith
      - **Website**: https://www.houseofsmith.com
-- - - -
+
+---
 
 ## Provenance
 ### Winery
@@ -24,7 +29,8 @@ MCK (Motor City Kitty) is sustainably grown on legendary Washington vineyard ope
 ### Winemaking 
  - **Vintage Notes**
 	- The 2019 vintage was on the cooler side as it started slow with later-than-usual bud break and continued on to be fairly moderate throughout the year. Some vineyards had issues with an October freeze a bit earlier than usual, but our high-elevation vineyards have great air drainage which allows us to extend the growing season late into October without freeze. This yielded fantastic ripening and some awesome wines with incredible balance and character. Overall, we are excited about the wine produced in 2019, which has brought us more finesse, incredible flavors and lovely balance.
-- - - -
+
+---
 
 ## Wine
 ### Grapes

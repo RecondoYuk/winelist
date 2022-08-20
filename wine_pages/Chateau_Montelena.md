@@ -1,4 +1,8 @@
-# Chateau Montelena Napa Valley Chardonnay
+---
+title: Chateau Montelena  
+description: Supple and silky mouthfeel strikes first with abundant mango and citrus and distinctly chalky minerality.
+---
+
 ## Fast Facts
  - **Name**: Napa Valley Chardonnay
  - **Style**: Chardonnay
@@ -7,7 +11,8 @@
      - **Address**: 1429 Tubbs Lane, Calistoga CA, 94515
      - **Telephone**: (707)942-5105
      - **Website**: https://montelena.com
-- - - -
+     
+---
 
 ## Provenance
 ### Winery
@@ -20,7 +25,8 @@ The Montelena property is located near Clistoga, in the northernmost part of Nap
 
 ### Winemaking 
 **Vintage Weather** → Plentiful winter rains coupled with cool temperatures pushed budbreak slightly behind normal. However, the vines took full advantage of the abundant soil moisture and responded with bountiful growth as the weather warmed into June. Mild summer days with temperatures dipping into the 50s at night made for ideal ripening conditions as harvest approached on time. A shot of heat in early September pushed the early blocks over the finish line, although cool temperatures mid-month drew the Chardonnay harvest out over 18 days.
-- - - -
+
+---
 
 ## Wine
 ### Grapes

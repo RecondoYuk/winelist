@@ -1,11 +1,16 @@
-# Ferrari-Carano
+---
+title: Ferrari-Carano
+description: Bright crisp acidity, pear and melon flavors, sweet like honey
+---
+
 ## Fast Facts
  - **Name**: Fumé Blanc
  - **Style**: Sauvignon Blanc
  - **Vintage**: 2019
  - **Winery**: Ferrari-Carano Vineyards and Winery
      - **Website**: https://www.ferrari-carano.com
-- - - -
+
+---
 
 ## Provenance
 ### Winery
@@ -24,7 +29,8 @@ Certified California Sustainable Vineyard.
 ### Winemaking 
 One of the first two wines Ferrari-Carano ever made over 35 years ago, this Fume Blanc is comprised of Sauvignon Blanc grapes from Sonoma (73%), Mendocino (18%) and Lake (9%) counties.
  - When the grapes arrive at the winery, each lot is gently crushed and pressed into stainless steel tanks for 48 hours of cold settling. The juice is either transferred to stainless steel tanks or older French Oak barrels for fermentation. The wine in barrels is *sur lie* aged and stirred every other week for two months, then blended and bottled.
-- - - -
+
+---
 
 ## Wine
 ### Grapes

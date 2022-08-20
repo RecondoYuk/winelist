@@ -1,4 +1,8 @@
-# Frank Family Napa Valley Cabernet Sauvignon
+---
+title: Frank Family  
+description: A beautiful wine from a near-perfect vintage, this robust Cabernet Sauvignon shows balance and complexity - a blend of dark berry, generous oak notes, clove, and nutmeg. This is a supple and complex, full-bodied in style, with a punch of power, ripeness, and elegance from start to finish
+---
+
 ## Fast Facts
 *A beautiful wine from a near-perfect vintage, this robust Cabernet Sauvignon shows balance and complexity - a blend of dark berry, generous oak notes, clove, and nutmeg. This is a supple and complex, full-bodied in style, with a punch of power, ripeness, and elegance from start to finish.*
  - **Name**: Napa Valley Cabernet Sauvignon
@@ -8,7 +12,8 @@
      - **Address**: 1091 Larkmead Lane, Calistoga CA, 94515
      - **Telephone**: (707)942-0859
      - **Website**: [ Frank Family Vineyards](https://www.frankfamilyvineyards.com)
-- - - -
+
+---
 
 ## Provenance
 ### Winery
@@ -24,7 +29,8 @@ Sourced primarily from our family owned S&J Vineyard in Napa’s Capell Valley a
 
 ### Winemaking 
 **Winemaker Notes** → Our goal is to make a complete, balanced wine. Cabernet Sauvignon is a great grape, it’s the king of Napa Valley after all. But it can benefit from the addition of other grapes, like Merlot which adds some softness. Together you get the whole package.
-- - - -
+
+---
 
 ## Wine
 ### Grapes

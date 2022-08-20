@@ -1,11 +1,16 @@
-# Veuve Clicquot
+---
+title: Veuve Clicquot
+description: ere is a true member of the powerful Brut family, well structured, admirably vinous
+---
+
 ## Fast Facts
  - **Name**: Brut Yellow Label
  - **Style**: Brut Champagne
  - **Vintage**: NV
  - **Winery**: Veuve-Clicquot
      - **Website**: https://www.veuveclicquot.com/en-us
-- - - -
+
+---
 
 ## Provenance
 ### Winery
@@ -24,7 +29,8 @@ The vineyards of Champagne are planted in 3 distinct areas south of the city of 
 
 ### Winemaking 
 A champagne House is eventually judged on the quality of its Brut non vintage. It is in the making of such a wine that the true Art of Champagne blending reveals itself. This is an art in which the House of Veuve Clicquot excels. Our Brut Yellow Label reflects the superb vineyards we own and the consistent nature of our House style. The predominance of Pinot Noir provides the structure that is so typically Clicquot, while a touch of Pinot Meunier rounds out the blend. Chardonnay adds the elegance and finesse essential in a perfectly balanced wine.
-- - - -
+
+---
 
 ## Wine
 ### Grapes

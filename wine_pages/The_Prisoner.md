@@ -1,11 +1,16 @@
-# The Prisoner
+---
+title: The Prisoner
+description: Flavors of fresh and dried blackberry, pomegranate, and vanilla
+---
+
 ## Fast Facts
  - **Name**: The Prisoner Red Blend
  - **Style**: Red Blend
  - **Vintage**: 2019
  - **Winery**: The Prisoner Wine Company
      - **Website**: https://www.theprisonerwinecompany.com
-- - - -
+
+---
 
 ## Provenance
 ### Winery
@@ -36,7 +41,8 @@ Our winemaking team works with a family of growers to source a diverse variety o
     - York Creek
 
 ### Winemaking 
-- - - -
+
+---
 
 ## Wine
 ### Grapes

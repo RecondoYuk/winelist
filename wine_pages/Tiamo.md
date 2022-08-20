@@ -1,6 +1,10 @@
-# Tiamo Pinot Grigio
+---
+title: Tiamo 
+description:  light, crisp fruit-driven Italian Pinot Grigio
+---
+
 ## Fast Facts
-*Crisp, Bright, Apple, Pear*
+*Crisp, Bright, Apple, Pear*  
 *A light, crisp fruit-driven Italian Pinot Grigio*
  - **Name**: Tiamo
  - **Style**: Pinot Grigio
@@ -8,7 +12,8 @@
  - **Winery**: Tiamo
      - **Telephone**: (303)888-0151
      - **Websites**: https://www.masterwines.come/our-wines/tiamo-wines/
-- - - -
+
+---
 
 ## Provenance
 ### Winery 
@@ -22,7 +27,8 @@ Sourced from vineyards near Treason in the Veneto region
 
 ### Winemaking 
 The grapes are picked at night when it is coolest.
-- - - -
+
+---
 
 ## Wine
 ### Grapes

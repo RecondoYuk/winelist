@@ -1,4 +1,8 @@
-# Goldeneye Anderson Valley Pinot Noir
+---
+title: Goldeneye
+description: bright acidity and firm, chewy tannins converge to create a supple texture that accentuates the Bing cherry and blackberry pie flavors
+---
+
 ## Fast Facts
 *Bing Cherry, Black Currant, Plum, Leather*
  - **Name**: Anderson Valley Pinot Noir
@@ -6,7 +10,8 @@
  - **Vintage**: 2019
  - **Winery**: Goldeneye Winery
      - **Website**: https://www.goldeneyewinery.com
-- - - -
+     
+---
 
 ## Provenance
 ### Winery
@@ -23,7 +28,8 @@ Goldeneye is Duckhorn’s Pinot Noir project and began making premium quality, c
 
 ### Winemaking
  - We conduct monthly assessments of our 100+ different lots and rate each to begin formulating our ideal blend. After 10 months of tasting, we begin blending trials and select our favorite blend that represents the vintage and our style.
-- - - -
+
+---
 
 ## Wine
 ### Grapes

@@ -1,4 +1,8 @@
-# Mönchhof “Mosel Slate” Spätlese
+---
+title: Mönchhof 
+description:  The wine has an elegant bouquet of citrus and flowers and on the palate it shows apple and herbal notes. With its perfectly balanced sweetness that tastes vibrant.
+---
+
 ## Fast Facts
  - **Name**: Mosel Slate Riesling Spätlese
  - **Style**: Riesling
@@ -7,7 +11,8 @@
      - **Address**: 54539 Ürzig an der Mosel
      - **Telephone**: +49 6532 93164
      - **Website**: https://www.moenchhof.de/?lang=en
-- - - -
+
+---
 
 ## Provenance
 ### Winery
@@ -35,7 +40,8 @@ The wine was grown in the steep slopes around Urzig and Erden. At steep slopes o
 			- due to its slightly more western exposition
 
 ### Winemaking 
-- - - -
+
+---
 
 ## Wine
 ### Grapes

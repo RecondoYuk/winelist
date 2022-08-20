@@ -1,4 +1,8 @@
-# Selbach “Ahi” Riesling
+---
+title: Selbach
+description: A ripe and smoky representation of Mosel Riesling
+---
+
 ## Fast Facts
 *Ripe Apple, Peach Aroma, Smoky Minerality, Crisp Acid*
 *A ripe and smoky representation of Mosel Riesling*
@@ -9,7 +13,8 @@
      - **Address**: Weingut Selbach Oster, Uferallee 23, D-54492 Zeltingen 
      - **Telephone**: +49 (6532) 20281
      - **Website**: https://www.selbach-oster.ds/en
-- - - -
+
+---
 
 ## Provenance
 ### Winery 
@@ -23,7 +28,8 @@ J. & H. Selbach A small, artisanal winery under Selbach-Oster
 Soil: Crumbly Devonian slate
 
 ### Winemaking 
-- - - -
+
+---
 
 ## Wine
 ### Grapes

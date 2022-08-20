@@ -1,4 +1,8 @@
-# Far Niente Estate Bottle Chardonnay
+---
+title: Far Niente
+description: From its alluring perfume and pure fruit flavors to the graceful finish, this elegant Napa Valley Chardonnay captivates the senses.
+---
+
 ## Fast Facts
 *Bright fruit, crisp acidity, and a creaminess on the palate*
  - **Name**: Estate Bottled Chardonnay
@@ -6,7 +10,8 @@
  - **Vintage**: 2019
  - **Winery**: Far Niente
      - **Website**: https://farniente.com
-- - - -
+
+---
  
 ## Provenance
 ### Winery
@@ -22,7 +27,8 @@ Far Niente Chardonnay is a blend of superlative Napa Valley vineyards located in
 ### Winemaking 
 **Harvest Notes** → The growing season kicked off with generous, abundant rainfall, which loaded our soils with moisture heading into Spring. Cool, mild Spring conditions continued after budbreak, followed by light May rains, just enough to keep soils moist without affecting fruit set. Summer was slow and steady, and the moderate weather coupled with the natural groundwater supply allowed for vigorous, healthy vine growth well into late summer. The firset signs of veraison occurred in late July followed by a month of steady ripening that was punctuated by a short heat spike in mid-August. We started picking fruit just after the Labor Day holiday, and all of the Chardonnay that came into the winery possessed fresh, mouthwatering acidity and balanced ripeness.
 **Fermentation** → 85% barrel, 15% tank, no ML
-- - - -
+
+---
 
 ## Wine
 ### Grapes

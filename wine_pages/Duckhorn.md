@@ -1,11 +1,16 @@
-# Duckhorn Sauvignon Blanc
+---
+title: Duckhorn
+description: On the palate it is silky and mouth-filling, with refreshing acidity framing the tantalizing citrus and tropical fruit flavors while carrying the wine to a long, focused finish.
+---
+
 ## Fast Facts
  - **Name**: North Coast Sauvignon Blanc
  - **Style**: Sauvignon Blanc
  - **Vintage**: 2021
  - **Winery**: Duckhorn Vineyards
      - **Website**: https://www.duckhorn.com
-- - - -
+
+---
 
 ## Provenance
 ### Winery
@@ -26,7 +31,8 @@ Inaugural vintage of Sauvignon Blanc was in 1982, a bordeaux / sauvignon blanc b
         - blends from almost 200 distinctive lots
             - Uses taste and instinct, not a formula
  - Wines are barrel-aged separately by vineyard lot
-- - - -
+
+---
 
 ## Wine
 ### Grapes

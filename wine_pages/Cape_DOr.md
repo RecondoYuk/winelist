@@ -1,4 +1,8 @@
-# Cape D’Or
+---
+title: Cape D’Or
+description: A lighter, fun Cabernet with a versaitility that allows it to pair with a wide spectrum of dishes or stand alone with ease.
+---
+
 ## Fast Facts
 *A lighter, fun Cabernet with a versaitility that allows it to pair with a wide spectrum of dishes or stand alone with ease.*
  - **Name**: Cape D’Or Cabernet Sauvignon
@@ -6,7 +10,8 @@
  - **Vintage**: 2020
  - **Winery**: Cape D’Or
      - **Website**: https://www.capedorwines.com
-- - - -
+   
+--- 
 
 ## Provenance
 ### Winery
@@ -18,7 +23,8 @@ The concept of Cape D’Or came to life when Ernst Storm, Tiaan Bezuidenhout, an
 
 ### Winemaking 
 The fruit for this Cabernet Sauvignon was sourced from sustainable, dry land vineyards in South Africa. These vineyards are located in the Western Cape region of South Africa where cool afternoon breezes allow for favorable ripening conditions. Working with fruit from some of the oldest deposits of granite and shale soils on the planet allow for a balance between old world texture and new world freshness.
-- - - -
+
+--- 
 
 ## Wine
 ### Grapes

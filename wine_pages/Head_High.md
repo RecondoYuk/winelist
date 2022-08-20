@@ -1,4 +1,8 @@
-# Head High Pinot Noir
+---
+title: Head High
+description: A Youthful and fun Pinot Noir that supports social and environmental causes with every bottle
+---
+
 ## Fast Facts
 *Cherries, Cranberry, White Pepper, Pomegranate*
 *A Youthful and fun Pinot Noir that supports social and environmental causes with every bottle*
@@ -7,7 +11,8 @@
  - **Vintage**: 2019
  - **Winery**: Head High Wines
      - **Website**: https://www.headhighwines.com
-- - - -
+
+---
 
 ## Provenance
 ### Winery
@@ -30,7 +35,8 @@
 
 ### Winemaking 
 **Vintage Notes** → We saw a long, cool growing season in 2019, allowing the fruit to have extended hang time, which just like hang time on the waves, gives a sense of equilibrium and balance. 2019 shines as the year of true-to-form pinot noir
-- - - -
+
+---
 
 ## Wine
 ### Grapes

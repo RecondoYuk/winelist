@@ -1,12 +1,17 @@
-# Charles Smith “Substance” Cabernet Sauvignon
+---
+title: Charles Smith
+description: Classic from the get-go. Black cassis, pipe tobacco, and black cherry saturates the mouth. Followed by forest floor, dark plum, and pencil lead. Great density and a tremendous finesse-filled finish which one has to repeat. . . A CLASSIC!
+---
+
 ## Fast Facts
 *Classic from the get-go. Black cassis, pipe tobacco, and black cherry saturates the mouth. Followed by forest floor, dark plum, and pencil lead. Great density and a tremendous finesse-filled finish which one has to repeat. . . A CLASSIC!*
- - **Name**: “Substance” Cabernet Sauvignon
+ - **Name**: *Substance* Cabernet Sauvignon
  - **Style**: Cabernet Sauvignon
  - **Vintage**: 2019
  - **Winery**: House of Smith
-     - **Website**: [House of Smith | Charles Smith](https://houseofsmith.com/brands/substance-wines/)
-- - - -
+     - **Website**: https://houseofsmith.com/brands/substance-wines
+
+---
      
 ## Provenance
 ### Winery
@@ -30,7 +35,8 @@ The 2019 vintage was on the cooler side as it started slow with later-than-usual
     - Native yeast
     - 100% whole berry fermentation
         - 41 days on skins
-- - - -
+
+---
 
 ## Wine
 ### Grapes

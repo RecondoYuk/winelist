@@ -1,4 +1,8 @@
-# Silver Oak Alexander Valley Cabernet
+---
+title: Silver Oak
+description: rustic yet silky
+---
+
 ## Fast Facts
 *Rustic yet silky*
  - **Name**: Silver Oak Alexander Valley Cabernet
@@ -7,7 +11,8 @@
  - **Winery**: Silver Oak
      - **Telephone**: (800)273-8809
      - **Website**: http://www.silveroak.com
-- - - -
+
+---
 
 ## Provenance
 ### Winery
@@ -25,7 +30,8 @@ Alexander Valley bench soils diversely combine material from the weathering of t
 
 ### Winemaking 
 **Vintage Description** → Mother Nature made a memorable impression on the 2017 vintage. In January we welcomed epic winter rains that brought an end to the enduring five-year drought. The generous precipitation filled our water tables and woke up the vines. After an average bud break, prolific shoot and vegetation growth early in the season required close observation and much weed control and leafing to open the dense canopies. Bloom proceeded at a steady pace and set us up for a healthy crop size. In June and July, three extended heat events tested our vineyard team and culminated with high temperatures around Labor Day. While the hot weather kick-started harvest on September 4, our irrigation management and cooler, foggy mornings allowed the vines to recover and resume their trajectory towards full aromatic and physiological ripeness. We were happy to see sugars and acids at normal levels. The pace of harvest was steady and we had thankfully finished picking before the wildfires started on the night of October 8. While 2017 certainly presented its share of challenges, it was also the jubilant, inaugural vintage for our new, state-of-the-art facility we had been planning, designing, and building since we purchased the Alexander Valley property in 2012.
-- - - -
+
+---
 
 ## Wine
 ### Grapes

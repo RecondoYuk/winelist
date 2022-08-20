@@ -1,11 +1,16 @@
-# Sokol Blosser
+---
+title: Sokol Blosser
+description: bright, refreshing, and full of interesting flavors
+---
+
 ## Fast Facts
  - **Name**: Sokol Blosser Estate Pinot Gris
  - **Style**: 
  - **Vintage**: 
  - **Winery**:  Sokol Blosser Winery
      - **Website**: https://sokolblosser.com
-- - - -
+
+---
 
 ## Provenance
 ### Winery
@@ -20,7 +25,8 @@ When Susan Sokol and Bill Blosser planted their first vines in the Dundee Hills 
 We produce a dry style Pinot Gris which accentuates the minerality this varietal clearly expresses. In addition to fermentation size and temperature, the diversity of yeasts used to perform fermentation and the extended period of lees contact prior to blending and bottling contributes greatly to the complexity of this wine.
  - Grapes were carefully hand harvested at different points in ripeness, 21-24 degrees Brix, to capture variety of flavor profiles making this a more layered wine. When necessary, the clusters were sorted by hand to remove any flawed bunches. Our Pinot Gris is gently whole cluster pressed to minimize the extraction of bitterness from the skins.
  - The juice was chilled and allowed to settle for 2 days, then moved off the heavy sediment and transferred to stainless steel fermentation tanks. The Pinot Gris is aged in stainless steel vessels to retain and emphasize delicate floral and fruit aromatics. Additionally, we want to maintain bright acidity in our style of pinot gris so we do not push this wine thru malolactic (or secondary) fermentation. The wine remained in contact with its fine lees and stirred multiple times during the aging process to broaden the palate and develop weight without high alcohol or sugar. This 2018 blend is made entirely from Sokol Blosser estate grown fruit.
-- - - -
+
+---
 
 ## Wine
 ### Grapes

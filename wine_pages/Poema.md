@@ -1,13 +1,18 @@
-# Poema
+---
+title: Poema
+description: A clean, crisp Brut with some of the complexity of Champagne but for a fraction of the price
+---
+
 ## Fast Facts
-*Fresh, Clean, Mineral, Granny Smith Apple, Toasted Bread*
+*Fresh, Clean, Mineral, Granny Smith Apple, Toasted Bread*  
 *A clean, crisp Brut with some of the complexity of Champagne but for a fraction of the price*
  - **Name**: Poema
  - **Style**: Cava Brut
  - **Vintage**: Non-Vintage
  - **Winery**: Poema
      - Website: https://www.poemacava.com/cava-brut
-- - - -
+
+---
 
 ## Provenance
 ### Winery 
@@ -24,7 +29,8 @@ A small-production, quality-oriented Spanish wine producer crafting top value Ca
 **What is Cava**→ Spain adopted the word, *cava* which technically means ‘cellar’ in Catalan, to describe their sparkling wines made using the traditional method. While this style was first created outside of Spain in the 1600s, its birthplace inside of Spain came in 1872 when Jose Raventós of Cordoníu first produced traditional method sparkling wine in the town of San Sadurní d’Anoia. Uniquely, the Cava denomination isn’t restricted to one geographical area but rather it spans eight total wine regions.
 
 Poema carefully observes the Cava DO’s stringent regulations to craft its top-quality, small-production Cavas, which are made using the same traditional method used in Champagne. The grapes are grown in the limestone hills surrounding Barcelona on vines that are a minimum of 20 years old. A green harvest and careful selection help to ensure that only ripe, pristine grapes are picked. Grapes are harvested manually and pressed in three different wineries close to the vineyards before each lot is fermented separately. With 55% of the must free-run juice, the grapes are fermented in stainless steel tanks, then the lots are blended and second fermentation takes place in the bottle according to Método Tradicional (the second fermentation that makes the bubbles takes place inside the bottle). Residual sugar is 5 g/l.
-- - - -
+
+---
 
 ## Wine
 ### Grapes

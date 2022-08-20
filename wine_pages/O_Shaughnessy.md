@@ -1,4 +1,8 @@
-# O’Shaughnessy Napa Valley Cabernet Sauvignon
+---
+title: O’Shaughnessy 
+description: Bold, medium-high tannins, medium to low dryness, Medium-plus acidic
+---
+
 ## Fast Facts
  - **Name**: O’Shaughnessy Napa Valley Cabernet Sauvignon
  - **Style**: Cabernet Sauvignon
@@ -6,7 +10,8 @@
  - **Winery**: O’Shaughnessy Estate Winery
      - **Telephone**: (707)965-2898
      - **Website**: [O’Shaughnessy Estate Winery](https://www.oshaughnessywinery.com)
-- - - -
+
+---
 
 ## Provenance
 ### Winery
@@ -64,7 +69,8 @@
             - planted at various times
  
 ### Winemaking 
-- - - -
+
+---
 
 ## Wine
 ### Grapes

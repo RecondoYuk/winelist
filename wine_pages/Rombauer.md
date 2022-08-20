@@ -1,13 +1,18 @@
-# Rombauer
+---
+title: Rombauer
+description: Your classic, rich and buttery California Chardonnay
+---
+
 ## Fast Facts
-*Oaky, Rich, Buttery, Popcorn, Nectarine, Vanilla*
+*Oaky, Rich, Buttery, Popcorn, Nectarine, Vanilla*  
 *Your classic, rich and buttery California Chardonnay*
  - **Name**: Carneros Chardonnay
  - **Style**: Chardonnay
  - **Vintage**: 2018
  - **Winery**: Rombauer Vineyards
      - **Website**: https://rombauer.com
-- - - -
+
+---
 
 ## Provenance
 ### Winery
@@ -23,7 +28,8 @@ Rombauer Vineyards began producing Chardonnay in 1982. In 1990, the Rombauer fam
 
 ### Winemaking 
 The grapes were gently whole-cluster pressed while the fruit was still cool. The juice was pumped to tank to cold-settle overnight before it was racked to barrel for primary and malolactic fermentation. The lees were stirred every two weeks to give the wine rich flavors and a creamy texture.
-- - - -
+
+---
 
 ## Wine
 ### Grapes

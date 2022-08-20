@@ -1,13 +1,18 @@
-# Domaine Serene ‘Evenstad Reserve’ Pinot Noir
+---
+title: Domaine Serene  
+description: Wonderfully complex with great concentration and acidity
+---
+
 ## Fast Facts
 *Flagship wine*
 *Wonderfully complex with great concentration and acidity*
- - **Name**: Domaine Serene “Evenstad Reserve”
+ - **Name**: Domaine Serene *Evenstad Reserve*
  - **Style**: Pinot Noir
  - **Vintage**: 
  - **Winery**: Domaine Serene
      - **Website**: https://www.domaineserene.com
-- - - -
+
+---
 
 ## Provenance
 ### Winery
@@ -17,7 +22,8 @@ The art of blending has been the hallmark of the Domaine Serene winemaking progr
 **Willamette Valley, Oregon**
 
 ### Winemaking 
-- - - -
+
+---
 
 ## Wine
 ### Grapes

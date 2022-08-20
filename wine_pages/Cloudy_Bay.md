@@ -1,11 +1,16 @@
-# Cloudy Bay
+---
+title: Cloudy Bay
+description: Stone fruit, expressive, refined, fruity
+---
+
 ## Fast Facts
  - **Name**: Cloudy Bay Sauvignon Blanc
  - **Style**: Sauvignon Blanc
  - **Vintage**: 2021
  - **Winery**: Cloudy Bay
      - **Website**: https://www.cloudybay.com/en-us
-- - - -
+
+---
      
 ## Provenance
 ### Winery
@@ -26,14 +31,17 @@ For its 34th vintage, Cloudy Bay Sauvignon Blanc reaffirms its outstanding quali
     * crisp acidity
  - 7% of the blend is fermented at warmer temperatures
     * in old French oak barriques and large format vats
-- - - -
+
+---
 
 ## Wine
 ### Grapes
 Sauvignon Blanc
 
 ### Tasting Notes
-Fresh and vibrant on the nose, with aromatics of bright citrus, kaffir lime, orchard blossoms, and passion fruit. The palate is concentrated and mouthwatering, with juicy stone fruit and subtle tropical characters underpinned by a fine minerality and Meyer lemon acidity. Stone fruit, expressive, refined, fruity
+Fresh and vibrant on the nose, with aromatics of bright citrus, kaffir lime, orchard blossoms, and passion fruit.  
+The palate is concentrated and mouthwatering, with juicy stone fruit and subtle tropical characters underpinned by a fine minerality and Meyer lemon acidity.  
+Stone fruit, expressive, refined, fruity
 
 ### Profile
  - **See** →  Pale gold with glints of green

@@ -1,4 +1,8 @@
-# Tentadora Malbec
+---
+title: Tentadora
+description: A slightly earthier feel to the stereotypical Argentinian Malbec
+---
+
 ## Fast Facts
 *A slightly earthier feel to the stereotypical Argentinian Malbec*
  - **Name**: Tentadora “*The Temptress*”
@@ -7,7 +11,8 @@
  - **Winery**: William Knuttel Winery
      - **Telephone**: (707)326-8234
      - **Website**: https://williamknuttel.com
-- - - -
+
+---
 
 ## Provenance
 ### Winery
@@ -21,7 +26,9 @@ While Argentina is recognized mostly for the wines of Mendoza to the South, the 
 The secret is out that most of the great Torrontes in Argentina is sourced from Cafayate, but recently the region’s robust Malbecs have attracted the most attention. After his previous experiences at Chalk Hill EState, which included extensive experiments focusing on Malbec clones, pruning techniques, and winemaking styles, Knuttel could not resist temptation in Cafayate! Hence, Tentadora “*The Temptress*” materialized from some of the finest Malbec vineyards he had ever seen, adjacent to those of the region’s most famous Malbecs, San Pedro de Yacochuya, one of the Michel Roland’s projects.
 
 ### Winemaking 
-- - - -
+
+---
+
 ## Wine
 ### Grapes
 85% Malbec, 9% Tannic, 6% Cabernet Sauvignon

@@ -1,4 +1,8 @@
-# Two Mountain Hidden Horse Red Blend
+---
+title: Two Mountain Hidden Horse Red
+description: A balanced smooth blend with nice fruit and vanilla notes imparted from its time in oak
+---
+
 ## Fast Facts
 *A balanced smooth blend with nice fruit and vanilla notes imparted from its time in oak*
  - **Name**: Hidden Horse Red Table Wine
@@ -6,7 +10,8 @@
  - **Vintage**: Batch 17 (Non vintage but have batches
  - **Winery**: Two Mountain Winery
      - **Website**: https://www.twomountainwinery.com
-- - - -
+
+---
 
 ## Provenance
 ### Winery
@@ -24,7 +29,8 @@
 	- Mary Evelyn
 
 ### Winemaking 
-- - - -
+
+---
 
 ## Wine
 ### Grapes

@@ -1,7 +1,11 @@
-# Mont Gravet
+---
+title: Mont Gravet
+description: A wonderfully fresh and fruit forward dry Rosé wine.
+---
+
 ## Fast Facts
-*Fresh, Fruity, Raspberry/Strawberry, Clean Finish*
-*A fresh, fun, and bright wine that will shine anytime, but especially with lighter food and as an aperitif! Think sunshine, summertime, and picnics* *A wonderfully fresh and fruit forward dry Rosé wine.
+*Fresh, Fruity, Raspberry/Strawberry, Clean Finish*  
+*A fresh, fun, and bright wine that will shine anytime, but especially with lighter food and as an aperitif! Think sunshine, summertime, and picnics* 
  - **Name**: Mont Gravet Rosé
  - **Style**:  Rosé
  - **Vintage**:  2018
@@ -9,7 +13,8 @@
      - **Address**: Gascogne, France
      - **Telephone**: (303)888-0151
      - **Website**: https://masterwines.com/our-wines/mont-gravet/
-- - - -
+
+---
 
 ## Provenance
 ### Winery 
@@ -30,7 +35,8 @@
 
 ### Winemaking 
 2018 Vintage was eaerly, with low volume but the result offers an outstanding quality. The budburst happened very early as the winter has been rainy and warm, enhancing the vintage earliness. During spring, the lowrain level and the frost have led to lower yields. However, the resulting juices were concentrated with light colors but full aromas.
-- - - -
+
+---
 
 ## Wine
 ### Grapes

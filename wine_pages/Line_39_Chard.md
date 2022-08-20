@@ -1,4 +1,8 @@
-# Line 39 Chardonnay
+---
+title: Line 39  
+description: A creamy, tropical representation of classic California Chardonnay
+---
+
 ## Fast Facts
 *Tropical Fruit, White Floral, Citrus Peel, Hints of Cream, Vanilla Oak*
 *A creamy, tropical representation of classic California Chardonnay*
@@ -7,7 +11,8 @@
  - **Vintage**: 2017
  - **Winery**: Line 39 
      - **Website**: https://www.line39wines.com
-- - - -
+
+---
 
 ## Provenance
 ### Winery
@@ -18,7 +23,8 @@
 
 ### Winemaking 
 When it comes to growing grapes, nothing comes close to the 39th parallel – Northern California’s winemaking sweet spot – where grapes are cultivated in prime conditions. It’s where Line 39’s own roots were established and set the standard for where we grow our grapes now in the best regions across California.
-- - - -
+
+---
 
 ## Wine
 ### Grapes

@@ -1,4 +1,8 @@
-# Merry Edwards Russian River Sauvignon Blanc
+---
+title: Merry Edwards
+description: The palate is round and open, with accents of ruby red grapefruit, honeysuckle, and melon married with a burst of crisp, refreshing acidity.
+---
+
 ## Fast Facts
  - **Name**: Russian River Sauvignon Blanc
  - **Style**: Sauvignon Blanc
@@ -6,7 +10,8 @@
  - **Winery**: Merry Edwards
      - **Telephone**: (707)823-7466
      - **Website**: https://www.merryedwards.com
-- - - -
+
+---
 
 ## Provenance
 ### Winery
@@ -18,7 +23,8 @@ One of California’s first female winemakers, Merry Edwards began her career at
 The Russian River Valley is an ideal spot to grow Sauvignon Blanc. Warm days and cool nights allow the grapes to hold onto their natural acidity. While 2019 was our last wet growing season, with three “atmospheric rivers” in May, it did not affect the Sauvignon Blanc flowering or set. It did produce very vigorous vine growth, which led us to be proactive with our canopy management in order to get the ripe tropical flavors we aim for in our Sauvignon Blanc.
 
 ### Winemaking 
-- - - -
+
+---
 
 ## Wine
 ### Grapes

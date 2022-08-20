@@ -1,12 +1,17 @@
-# DAOU Cabernet Sauvignon
+---
+title: DAOU Cabernet Sauvignon
+description: Full bodied and formidable on the palate, offering enticing juicy wild blackberry, Oregon blueberry, and crisp black cherry flavors
+---
+
 ## Fast Facts
- - **Name**: Discovery Cabernet Sauvignon
+ - **Name**: Daou *Discovery* Cabernet Sauvignon
  - **Style**: Cabernet Sauvignon
  - **Vintage**: 2018
  - **Winery**: DAOU
      - **Website**: https://daouvineyards.com
-- - - -
-     
+
+---
+
 ## Provenance
 ### Winery
  - **The Brothers**
@@ -48,7 +53,8 @@
 
 ### Winemaking 
 2018 may go in history as the longest season yet. A good amount of rain fell in the region which gave to a later bud break in April. The vines were energized by the much needed moisture, setting one of our best crops yet. The weather remained steady from spring through June. Then we received a long heat wave that fortunately did not affect the quality of the grapes due to the fact that it was before the start of veraison. A cooling trend ensued for the rest of the season right after the heatwave, prolonging the hang time leading into harvest. The long hang time yielded deep color and concentration with dense wines. The tannins are silky and beautifully integrated. As a result, 2018 was an exceptional vintage that really highlights the aromatics and acidity of the wines.
-- - - -
+
+---
 
 ## Wine
 ### Grapes

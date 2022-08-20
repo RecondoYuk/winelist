@@ -1,11 +1,16 @@
-# Domaine Carneros
+---
+title: Domaine Carneros
+description: The palate is round and full, revealing poached pear, crisp apple, yuzu, honeydew melon, and pie crust with a toasty finish
+---
+
 ## Fast Facts
  - **Name**: Estate Brut Cûvée
  - **Style**: Brut
  - **Vintage**: 2017
  - **Winery**: Domaine Carneros
      - **Website**: https://www.domainecarneros.com
-- - - -
+
+---
 
 ## Provenance
 ### Winery
@@ -24,7 +29,8 @@
 
 ### Winemaking 
 **Harvest Notes** → In 2017, Carneros was gifted with its 3rd wettest winter in 125 years, refilling reservoirs and aquifers that had been depleted in the previous drought years. Happy vines developed healthy canopies which tempered the higher-than-average temperatures and brief heat spikes that characterized the growing season. Harvest began on August 7th, a fairly typical start date in Carneros. The resulting wines show beautiful depth, concentration, and freshness.
-- - - -
+
+---
 
 ## Wine
 ### Grapes

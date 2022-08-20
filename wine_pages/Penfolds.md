@@ -1,4 +1,8 @@
-# Penfolds Max’s Cabernet Sauvignon
+---
+title: Penfolds Max's
+description: Best of both worlds when it comes to a Cabernet. It gives the red fruit and balances that with savory and herbal characteristics in an elegant way
+---
+
 ## Fast Facts
 *Best of both worlds when it comes to a Cabernet. It gives the red fruit and balances that with savory and herbal characteristics in an elegant way*
  - **Name**: Max’s Cabernet Sauvignon
@@ -7,7 +11,8 @@
  - **Winery**: Penfolds
      - **Telephone**: (800)255-9966
      - **Website**: https://www.penfolds.com/en-us/
-- - - -
+
+---
 
 ## Provenance
 
@@ -34,7 +39,8 @@ Penfolds Max’s Cabernet Sauvignon is a tribute to former Chief Winemaker Max S
 
 ### Winemaking 
 Above-average winter and spring rainfall offered the vines across South Australia healthy soil moisture profiles for the growing season. Cool days and cooler nights slowed vine growth in early spring with temperatures warming in October. Late flowering and veraison delayed harvest by a few weeks. Weather conditions during ripening were generally dry with conditions favoring fully ripened grapes with well-developed colors and flavors.
-- - - -
+
+---
 
 ## Wine
 ### Grapes

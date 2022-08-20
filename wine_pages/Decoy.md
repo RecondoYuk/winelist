@@ -1,11 +1,16 @@
-# Decoy Merlot by Duckhorn
+---
+title: Decoy  
+description: This California Merlot showcases the elegance of Merlot and highlights the bold fruit flavors. 
+---
+
 ## Fast Facts
  - **Name**: Decoy California Merlot
  - **Style**: Merlot
  - **Vintage**: 
  - **Winery**: Duckhorn
      - **Website**: https://www.decoywines.com
-- - - -
+
+---
 
 ## Provenance
 ### Winery
@@ -22,7 +27,8 @@
  - Inaugural vintage in 2008
  - This California Merlot showcases the elegance of Merlot and highlights the bold fruit flavors. Reflecting the character of each growing season and the diversity of our vineyard sources, Decoy has established itself as a wine of distinction. From vine to bottle, we craft our wines to the highest standards, only using grapes from exceptional vineyards.
  - Throughout California, the 2019 growing season provided picture-perfect growing conditions. Following a cool, wet winter and spring, summer brought perfectly temperate weather that created exceptional flavor development in the grapes. Warm weather during harvest ensured ideal ripeness, resulting in dynamic whites with beautiful energy and complexity, and lush and flavorful reds with deep colors and lovely intensity.
-- - - -
+
+---
 
 ## Wine
 ### Grapes

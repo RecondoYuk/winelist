@@ -1,4 +1,8 @@
-# Lokelani
+---
+title: Lokelani
+description: A traditionally styled Brut that is nicely balanced with bright and yet creamy elements
+---
+
 ## Fast Facts
 *Fresh Peach, Orange Blossom, Brioche, Meyer Lemon*
 *A traditionally styled Brut that is nicely balanced with bright and yet creamy elements*
@@ -9,7 +13,8 @@
      - **Address** → 14815 Piilani Hwy, Kula HI 96790
      - **Telephone** → (808)878-6058
      - **Website** → https://mauiwine.com
-- - - -
+
+---
 
 ## Provenance
 ### Winery 
@@ -26,7 +31,8 @@ The original name of the ranch where they are located was Rose Ranch, and the es
 * Name pays tribute to the official flower of Maui, the “Lokelani”
 
 ### Winemaking 
-- - - -
+
+---
 
 ## Wine
 ### Grapes

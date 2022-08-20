@@ -1,6 +1,10 @@
-# Stolpman “Love You Bunches” 
+---
+title: Stolpman “Love You Bunches” 
+description: An energetic, playful, and refreshing rosé that will pair well with lighter dishes and a sunny afternoon
+---
+
 ## Fast Facts
-*Peach, Strawberry, Lemon-Lime, Mint, Playful*
+*Peach, Strawberry, Lemon-Lime, Mint, Playful*  
 *An energetic, playful, and refreshing rosé that will pair well with lighter dishes and a sunny afternoon*
  - **Name**: Stolpman “Love You Bunches”
  - **Style**: Rosé
@@ -9,7 +13,8 @@
      - **Address**: 2434 Alamo Pintado Ave, Los Oliver’s, CA 93441
      - **Telephone**: (805)688-0400
      - **Website**: https://www.stolpmanvineyards.com
-- - - -
+
+---
 
 ## Provenance
 ### Winery 
@@ -23,7 +28,8 @@
 **Vinification** Predominately immediate, direct press to ferment in tank (with some lost) held 12-24 hours for fermentation to kick off “carbonic” or whole-grape fermentation prior to pressing.
 
 **Fermentation & Elevage** Stainless Steel tanks for a cool, extended fermentation. Aged 3 months in stainless steel.
-- - - -
+
+---
 
 ## Wine
 ### Grapes

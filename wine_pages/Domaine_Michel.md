@@ -1,11 +1,16 @@
-# Domaine Michel Gros “Hautes Côtes de Nuits”
+---
+title: Domaine Michel
+description: full of sunshine that gave seductive, pure wines with silky tannic structure and lovely acidity,
+---
+
 ## Fast Facts
  - **Name**: “Hautes Côtes de Nuits”
  - **Style**: Bourgogne Blanc
  - **Vintage**: 2018
  - **Winery**: Domaine Michel Gros
      - **Website**:  https://www.domaine-michel-gros.com/en/
-- - - -
+
+---
 
 ## Provenance
 ### Winery
@@ -24,7 +29,8 @@
  - We began harvesting on 4th September on the ‘Cote’ and finished on 17th September in the Hautes-Cotes. Grape healthiness was absolutely perfect and sorting was virtually unnecessary. Only the crop from hail-damaged parcels had to be very carefully sorted and we were lucky to be able to use an optical grape sorter to removre grapes damaged by hail.
  - This relatively early date of harvest and the perfect grape healthiness led to production of wines of great purity with beautiful freshness and bursting with fruit. The vintage already promises to be a very good one for laying down.
  - **Vinification** → The grapes are de-stemmed, crushed and put into a tank for a night to undergo a skin-maceration, it is then pressed on the following day. Overnight settling of the juice. Yeasting of the must and beginning of the alcoholic fermentation in temperature controlled tank (max 22 degrees Celsius). Transferring into casks when fermentation is partly complete (2/3 of the necessary time).
-- - - -
+
+---
 
 ## Wine
 ### Grapes
