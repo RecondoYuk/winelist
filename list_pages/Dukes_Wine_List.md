@@ -1,5 +1,10 @@
-# Wines
-*Descriptive Blurb from Duke's Packet listed in Italics to start*
+---
+title: All my notes  
+description: This page is a list of all my notes so you can decide what's important  
+---
+# Intro
+This is what each segment contains:  
+*Descriptive Blurb from Duke's Packet listed in Italics to start*  
 Each Wine:
  - Name:
  - Style:
@@ -30,52 +35,11 @@ Each Wine:
      - Residual Sugar: 
      
 
-## Wines By The Glass
-### Whites
-#### Bubbly 
+# Wines By The Glass
+## Glass Whites
+### Bubbly Glasses
 Sparkling wine is the inseperable companion of joy and festivity, the crown of celebration and the symbol of merriment. Every day in Maui is worth cherishing.|
-- Poema
-- Lokelani  
-
-#### Rose
-- Mont Gravet
-- Stolpman "Love You Bunches"
-
-#### Pinot Grigio
-- Tiamo "Organic"
-
-#### Riesling
-- Selbach "Ahi"
-
-#### Sauvignon Blanc
-- Mohua
-- Hunt & Harvest
-
-#### Chardonnay
-- Line 39 Chardonnay
-- Tyler
-- Rombauer
-
-
-### Reds
-#### Pinot Noir
-- Head High
-- A to Z "Essence"
-
-#### Malbec
-- Tentadora
-
-#### Blend
-- Joel Gott "Palisades"
-- Two Mountain Winery
-
-#### Cabernet Sauvignon
-- Cape d'Or
-- Penfold's Max's
-
-
----
-##### Poema  
+#### Poema  
 *Fresh, Clean, Mineral, Granny Smith Apple, Toasted Bread*  
 *A clean, crisp Brut with some of the complexity of Champagne but for a fraction of the price*
  - Name: Poema
@@ -125,7 +89,7 @@ Sparkling wine is the inseperable companion of joy and festivity, the crown of c
      - Aging: 12 months on the lees
      - Residual Sugar: 5 g/l
 
-##### Lokelani
+#### Lokelani
 *Fresh Peach, Orange Blossom, Brioche, Meyer Lemon*  
 *A traditionally styled Brut that is nicely balanced with bright and yet creamy elements*  
  - Name: Lokelani
@@ -163,9 +127,9 @@ Sparkling wine is the inseperable companion of joy and festivity, the crown of c
      - ABV: 12.5%
      - Aging: Bottle Fermented
      - Residual Sugar: 12 g/l
-     
 
-##### Mont Gravet
+### Rosé Glasses
+#### Mont Gravet
 *Fresh, Fruity, Raspberry/Strawberry, Clean Finish*  
 *A fresh, fun, and bright wine that will shine anytime, but especially with lighter food and as an aperitif! Think sunshine, summertime, and picnics*
 *A wonderfully fresh and fruit forward dry Rosé wine.
@@ -211,8 +175,7 @@ Sparkling wine is the inseperable companion of joy and festivity, the crown of c
      - Aging: On its lees for at least 2 months
      - Residual Sugar: 
      
-
-##### Stolpman 
+#### Stolpman 
 *Peach, Strawberry, Lemon-Lime, Mint, Playful*  
 *An energetic, playful, and refreshing rosé that will pair well with lighter dishes and a sunny afternoon*
  - Name: "Love You Bunches"
@@ -256,8 +219,8 @@ Sparkling wine is the inseperable companion of joy and festivity, the crown of c
      - Aging: 60% Stainless Steel / 40% Neutral French Ermitage 500L Puncheons, 3 months
      - Residual Sugar: 
      
-
-##### Tiamo 'Organic'
+### Pinot Grigio Glasses
+#### Tiamo 'Organic'
 *Crisp, Bright, Apple, Pear*  
 *A light, crisp fruit-driven Italian Pinot Grigio*
  - Name: Tiamo 
@@ -294,9 +257,9 @@ Sparkling wine is the inseperable companion of joy and festivity, the crown of c
          -  After gentle pressing of the grapes and clarification of the must, fermentation takes place in temperature controlled stainless steel vats for about 10 months after which the wine is carefully stored until ready for bottling in the early spring.
          - The wine does not go through malolactic fermentation and has no oak treatment to keep the wonderful bright, crisp characteristics of the Pinot Grigio grape.
      - Residual Sugar: 3.0 g/l
-     
 
-##### Selbach 'Ahi'
+### Riesling Glasses
+#### Selbach 'Ahi'
 *Ripe Apple, Peach Aroma, Smoky Minerality, Crisp Acid*  
 *A ripe and smoky representation of Mosel Riesling*
  - Name: Selbach Ahi Riesling (Blue Fish)
@@ -333,9 +296,9 @@ Sparkling wine is the inseperable companion of joy and festivity, the crown of c
      - Aging: Cold fermented in stainless steel tanks, extended lees contact
          - Shelf life of 4-5 years
      - Residual Sugar: 
-     
 
-##### Mohua
+### Sauvignon Blanc Glasses
+#### Mohua
 *Fresh Cut Lime, Passionfruit, Bell Pepper, Grapefruit, Mango*  
 *A classic style New Zealand Sauvignon Blanc with bright acid and a green profile that those who know the style will crave and love.*
  - Name: Mohua Sauvignon Blanc
@@ -374,8 +337,7 @@ Sparkling wine is the inseperable companion of joy and festivity, the crown of c
      - Aging: Cellaring 1-2 years
      - Residual Sugar: 3.6 g/L
      
-
-##### Hunt & Harvest
+#### Hunt & Harvest
 *Bright and Zesty, Guava, Lime Zest, Green Pear*  
 *A clean, crisp version of California Sauvignon Blanc (riper fruit, less green than New Zealand)*
  - Name: Hunt & Harvest Napa Valley Sauvignon Blanc
@@ -403,9 +365,9 @@ Sparkling wine is the inseperable companion of joy and festivity, the crown of c
      - ABV: 13.5%
      - Aging: Stainless Steel
      - Residual Sugar: 
-     
 
-##### Line 39 Chardonnay
+### Chardonnay Glasses
+#### Line 39 Chardonnay
 *Tropical Fruit, White Floral, Citrus Peel, Hints of Cream, Vanilla Oak*   
 *A creamy, tropical representation of classic California Chardonnay*
  - Name: Line 39 Chardonnay
@@ -435,7 +397,7 @@ Sparkling wine is the inseperable companion of joy and festivity, the crown of c
      - Aging:
      - Residual Sugar: 
 
-##### Tyler
+#### Tyler
 *Lemon Curd, Balanced, Bright Acid, Creaminess*  
 *A well-balanced Chardonnay that will be loved whether someone is a Chardonnay lover or not*
  - Name: Santa Barbara County Chardonnay
@@ -471,9 +433,8 @@ Sparkling wine is the inseperable companion of joy and festivity, the crown of c
      - Aging: French Oak Barrels
          - Whole cluster pressed to tank, settled briefly before being moved to another tank for fermentation. After fermentation is active, the juice fgoes down to barrels and puncheons with no more than 10% new oak.  No battonage and full ML.  Left on lees for 11 months before going back to tank for an additional few months of aging.
      - Residual Sugar: 
-     
-
-##### Rombauer
+ 
+#### Rombauer
 *Oaky, Rich, Buttery, Popcorn, Nectarine, Vanilla*  
 *Your classic, rich and buttery California Chardonnay*
  - Name: Carneros Chardonnay
@@ -514,8 +475,9 @@ Sparkling wine is the inseperable companion of joy and festivity, the crown of c
      - Aging: 9 months in American and French Oak Barrels (1/3rd new)
      - Residual Sugar: 
      
-
-##### Head High
+## Glass Reds
+### Pinot Noir Glasses
+#### Head High
 *Cherries, Cranberry, White Pepper, Pomegranate*  
 *A Youthful and fun Pinot Noir that supports social and environmental causes with every bottle sold*
  - Name: Sonoma County Pinot Noir
@@ -546,8 +508,7 @@ Sparkling wine is the inseperable companion of joy and festivity, the crown of c
      - Aging:
      - Residual Sugar: 
      
-
-##### A to Z 'Essence'
+#### A to Z 'Essence'
 *Mocha, Raspberry, Cherry, Vanilla, Leather*  
 *A pretty versatile wine that will pair well with most proteins and dishes with an earthy or rustic feel*
  - Name: The Escence of Oregon Pinot Noir
@@ -564,7 +525,6 @@ Sparkling wine is the inseperable companion of joy and festivity, the crown of c
      - Provenance: 
          - **Winemaking Notes** $\rightarrow$ The 2019 A to Z Pinot Noir is a blend of fruit from across Oregon and approximately 80 different fermentations.  Once primary and secondary fermentation are complete, many trials result in a single cuvee blended to highlight classic Oregon Pinot Noir qualities.
          - **Story/History** $\rightarrow$ A to Z Wineworks was started in 2002 by Oregon wine industry veterans: Deb Hatcher (Eyrie), Bill Hatcher (Domain Drouhin Oregon), Sam Tannahill (Archery Summit) and Charyl Francis (Chehalem). The two couples worked in the Hatcher's kitchen to build the original blend honored by Food & Wine Magazine as the Best American Pinot Noir under \$20. Recognition for A to Z wines as offering dependable quality for great value continues today making A to Z the top-selling Oregon wine brand.
-         
  - Region:
  - Grapes: 100% Pinot Noir 
  - Profile:
@@ -584,8 +544,8 @@ Sparkling wine is the inseperable companion of joy and festivity, the crown of c
      - Aging:
      - Residual Sugar: 
      
-
-##### Tentadora
+### Malbec Glass
+#### Tentadora
 *A slightly earthier feel to the stereotypical Argentinian Malbec*
  - Name: Tentadora \**The Temptress\**
  - Style: Malbec
@@ -616,9 +576,10 @@ Sparkling wine is the inseperable companion of joy and festivity, the crown of c
      - ABV: 14.5%
      - Aging: 22 months in French Oak, 25% new
      - Residual Sugar: 
-     
 
-##### Joel Gott 'Palisades'
+
+### Blend Glasses
+#### Joel Gott 'Palisades'
 *Roasted Coffee, Black Cherry, Plum, Spice*  
 *This Red Blend is a people pleaser by taking on nice Cabernet and Syrah qualities, while being approachable for all wine lovers as well*
  - Name: Palisades Red Wine
@@ -651,8 +612,7 @@ Sparkling wine is the inseperable companion of joy and festivity, the crown of c
      - Aging: 1 & 2 year old American Oak
      - Residual Sugar: 1.9 g/L
      
-
-##### Two Mountain Winery
+#### Two Mountain Winery
 *A balanced smooth blend with nice fruit and vanilla notes imparted from its time in oak*
  - Name: Hidden Horse Red Table Wine
  - Style: Red Blend
@@ -683,8 +643,8 @@ Sparkling wine is the inseperable companion of joy and festivity, the crown of c
      - Aging: 15 months aged in French and American Oak, 40% new, 40% third fill, and 20% neutral
      - Residual Sugar: 
      
-
-##### Cape D'Or
+### Cabernet Sauvignon Glasses
+#### Cape D'Or
 *A lighter, fun Cabernet with a versaitility that allows it to pair with a wide spectrum of dishes or stand alone with ease.*
  - Name: Cape D'Or Cabernet Sauvignon
  - Style: Cabernet Sauvignon
@@ -713,8 +673,7 @@ Sparkling wine is the inseperable companion of joy and festivity, the crown of c
      - Aging: A combination of stainless steel and old French Oak barrels for 6 months
      - Residual Sugar: 
      
-
-##### Penfold's Max's
+#### Penfold's Max's
 *Best of both worlds when it comes to a Cabernet. It gives the red fruit and balances that with savory and herbal characteristics in an elegant way*
  - Name: Max's Cabernet Sauvignon
  - Style: Cabernet Sauvignon
@@ -745,71 +704,13 @@ Sparkling wine is the inseperable companion of joy and festivity, the crown of c
      - ABV: 14.5%
      - Aging: 14 months in American Oak (23% new), French Oak (4% new), with the balance in 1 year old and seasoned hogsheads.
      - Residual Sugar: 
-     
+
 
 ---
-## Wines By The Bottle
-### Bubbles
-#### Prosecco
- - Fratelli Cosmo
- 
-#### Brut
- - Domaine Carneros
- - Veuve Clicquot
- - Dom Perignon
- 
-### Whites
-#### Pinot Gris
- - Sokol Blosser
- 
-#### Riesling
- - Mönchhof 'Mosel Slate' 
- 
-#### Fume Blanc
- - Ferrari-Carano
- 
-#### Sauvignon Blanc
- - Duckhorn
- - Merry Edwards
- - Cloudy Bay
- 
-#### Chardonnay
- - Lioco
- - Stuhlmuller 'Estate'
- - Domaine Michelle Gros
- - Chateau Montelena
- - Far Niente
-
-### Reds
-#### Pinot Noir
- - Piro Wine Co. 'Points West'
- - Truchard
- - Goldeneye
- - Williams Selyem
- - Domaine Serene 'Evenstad Reserve'
- 
-#### Zinfadel
- - Bedrock 'Old Vine' 
-
-#### Syrah
- - K Vintners 'Motor City Kitty' Syrah
-
-#### Blend
- - The Prisoner
- 
-#### Merlot
- - Decoy by Duckhorn
- 
-#### Cabernet Sauvignon
- - Charles Smith 'Substance'
- - Daou
- - Frank Family
- - Cliff Lede
- - Silver Oak
- - O'Shaughnessy
-
----
-##### Fratelli Cosmo
+# Wines By The Bottle
+## Bottles of Bubbly
+### Prosecco Bottles
+#### Fratelli Cosmo
  - Name: Fratelli Cosmo
  - Style: Prosecco DOC Rose, Extra Dry
  - Vintage:
@@ -839,9 +740,9 @@ Sparkling wine is the inseperable companion of joy and festivity, the crown of c
      - ABV: 11.5%
      - Aging: 2 months
      - Residual Sugar: 14 g/L
-     
 
-##### Domaine Carneros
+### Brut Bottles
+#### Domaine Carneros
  - Name: Estate Brut Cuvee
  - Style: Brut
  - Vintage: 2017
@@ -867,8 +768,7 @@ Sparkling wine is the inseperable companion of joy and festivity, the crown of c
      - Aging:
      - Residual Sugar: 0.9% (dosage)
      
-
-##### Veuve Clicquot
+#### Veuve Clicquot
  - Name: Brut Yellow Label
  - Style: Brut Champagne
  - Vintage: NV
@@ -904,8 +804,7 @@ Sparkling wine is the inseperable companion of joy and festivity, the crown of c
      - Aging: Unoaked
      - Residual Sugar: 10 g/L
      
-
-##### Dom Perignon
+#### Dom Perignon
  - Name: Dom Perignon Brut Champagne
  - Style: Brut
  - Vintage: 2017
@@ -933,8 +832,9 @@ Sparkling wine is the inseperable companion of joy and festivity, the crown of c
      - Aging:
      - Residual Sugar: 4 g/L
      
-
-##### Sokol Blosser
+## Bottles of Whites
+### Pinot Gris Bottles
+#### Sokol Blosser
  - Name: Estate Pinot Gris
  - Style: Pinot Gris
  - Vintage: 2018
@@ -966,9 +866,9 @@ Sparkling wine is the inseperable companion of joy and festivity, the crown of c
      - Aging:
          - The juice was chilled and allowed to settle for 2 days, then moved off the heavy sediment and transferred to stainless steel fermentation tanks. The Pinot Gris is aged in stainless steel vessels to retain and emphasize delicate floral and fruit aromatics. Additionally, we want to maintain bright acidity in our style of pinot gris so we do not push this wine thru malolactic (or secondary) fermentation. The wine remained in contact with its fine lees and stirred multiple times during the aging process to broaden the palate and develop weight without high alcohol or sugar. This 2018 blend is made entirely from Sokol Blosser estate grown fruit.
      - Residual Sugar: 
-     
-
-##### Monchhof 'Mosel Slate'
+ 
+### Riesling Bottles
+#### Monchhof 'Mosel Slate'
  - Name: Mosel Slate Riesling Spatlese
  - Style: Riesling 
  - Vintage: 2018
@@ -1003,9 +903,9 @@ Sparkling wine is the inseperable companion of joy and festivity, the crown of c
      - ABV: 8.5%
      - Aging:
      - Residual Sugar: 60 g/L
-     
 
-##### Ferrari-Carano
+### Fumé Blanc Bottles
+#### Ferrari-Carano
  - Name: Fume Blanc
  - Style: Sauvignon Blanc
  - Vintage: 2019
@@ -1042,9 +942,9 @@ Sparkling wine is the inseperable companion of joy and festivity, the crown of c
      - Aging: Sur Lie aged and stirred every other week for two months
          - 64% stainless steel tanks, 36% older French oak barrels
      - Residual Sugar: 
-     
 
-##### Duckhorn
+### Sauvignon Blanc Bottles
+#### Duckhorn
  - Name: North Coast Sauvignon Blanc
  - Style: Sauvignon Blanc
  - Vintage: 2021
@@ -1080,8 +980,7 @@ Sparkling wine is the inseperable companion of joy and festivity, the crown of c
          - 5 months *sur lie*
      - Residual Sugar: 
      
-
-##### Merry Edwards
+#### Merry Edwards
  - Name: Russian River Valley Sauvignon Blanc
  - Style: Sauvignon Blanc
  - Vintage: 2019
@@ -1111,8 +1010,7 @@ Sparkling wine is the inseperable companion of joy and festivity, the crown of c
          - Twice- weekly lees stirring helped build body and lend a hint of sweet oak
      - Residual Sugar: 
      
-
-##### Cloudy Bay
+#### Cloudy Bay
  - Name: Cloudy Bay Sauvignon Blanc
  - Style: Sauvignon Blanc
  - Vintage: 2021
@@ -1152,11 +1050,9 @@ Sparkling wine is the inseperable companion of joy and festivity, the crown of c
      - ABV: 13%
      - Aging:
      - Residual Sugar: 
-     
 
+### Chardonnay Bottles
 #### Lioco SoCo
-*Descriptive Blurb from Duke's Packet listed in Italics to start*
-Each Wine:
  - Name:Lioco *SoCo* Sonoma County Chardonnay
  - Style: Chardonnay
  - Vintage: 2020
@@ -1203,8 +1099,7 @@ Each Wine:
      - Aging: Majority in stainless steel tanks, small portion went to neutral French oak for 6-months before assemblage. Malo completed. Cross-flow filtered prior to bottling.
      - Residual Sugar: 0.1 g/L
      
-
-##### Stuhlmuller 'Estate'
+#### Stuhlmuller 'Estate'
  - Name: 2020 Estate Chardonnay
  - Style: Chardonnay
  - Vintage: 2020
@@ -1233,8 +1128,7 @@ Each Wine:
          - The wine was fermented *sur lie* for 9 months and underwent 78% indigenous malolactic fermentation.
      - Residual Sugar: 0.5 g/L
      
-
-##### Domaine Michel Gros
+#### Domaine Michel Gros
  - Name: "Hautes Côtes de Nuits"
  - Style: White Burgundy Wine
  - Vintage: 2018
@@ -1276,8 +1170,7 @@ Each Wine:
      - Aging: The wines complete their fermentation slowly in barrels at cellar temperature. The proportion of new oak amounts to about 20%. A stirring of the lees is done at the same time as the topping up of the barrels (every 10 days on average), until the end of the malolactic fermentation. Barrel conservatiuon ends in the middle of the summer. The wine is then blended in vats and filtered on Kieselgur on the day before bottling.
      - Residual Sugar: 
      
-
-##### Chateau Montelena
+#### Chateau Montelena
  - Name: Napa Valley Chardonnay
  - Style: Chardonnay
  - Vintage: 2019
@@ -1309,8 +1202,7 @@ Each Wine:
      - Aging: 10 months in French Oak
      - Residual Sugar: 
      
-
-##### Far Niente
+#### Far Niente
  - Name: Far Niente Estate Bottled Chardonnay
  - Style: Chardonnay
  - Vintage: 2019
@@ -1346,9 +1238,11 @@ Each Wine:
      - Aging: 10 months in French Oak barrel
          - 45% new, 55% once-used
      - Residual Sugar: 
-     
-
-##### Piro Wine Co. 'Points West'
+ 
+---
+## Bottles of Reds
+### Pinot Noir Bottles
+#### Piro Wine Co. 'Points West'
  - Name: "Points West" Pinot Noir
  - Style: Pinot Noir
  - Vintage: 2018
@@ -1386,7 +1280,6 @@ Each Wine:
          - Tannin $\rightarrow$ 3 out of 5
          - Acid $\rightarrow$ 3.5 out of 5
          - Alcohol $\rightarrow$ 3 out of 5
-         
  - Technical DAta
      - PH: 
      - Acidity:
@@ -1395,8 +1288,7 @@ Each Wine:
          - Barrel aged for 21 months prior to final blending
      - Residual Sugar: 
      
-
-##### Truchard
+#### Truchard
  - Name: Truchard Vineyards Pinot Noir
  - Style: Pinot Noir
  - Vintage: 2019
@@ -1429,8 +1321,7 @@ Each Wine:
      - Aging:
      - Residual Sugar: 
      
-
-##### Goldeneye
+#### Goldeneye
  - Name: Goldeneye Anderson Valley Pinot Noir
  - Style: Pinot Noir
  - Vintage: 2019
@@ -1462,8 +1353,7 @@ Each Wine:
          - 51% new, 20% once-filled, 29% neutral
      - Residual Sugar: 
      
-
-##### Williams Selyem
+#### Williams Selyem
  - Name: Sonoma County Pinot Noir
  - Style:
  - Vintage:
@@ -1493,8 +1383,7 @@ Each Wine:
          - Barrel aged 11 months
      - Residual Sugar: 
      
-
-##### Domaine Serene 'Evenstad Reserve'
+#### Domaine Serene 'Evenstad Reserve'
  - Name: Domaine Serene "Evenstad Reserve"
  - Style: Pinot Noir
  - Vintage: 
@@ -1524,9 +1413,9 @@ Each Wine:
      - ABV: 14.4%
      - Aging: 16 months in 100% French oak
      - Residual Sugar: 
-     
 
-##### Bedrock 'Old Vine' / 'Ancient Vines'  Zinfadel
+### Zinfadel Bottles
+#### Bedrock 'Old Vine' / 'Ancient Vines'  Zinfadel
  - Name: Bedrock Zinfadel Old Vines Sonoma
  - Style: Zinfadel
  - Vintage: 2018
@@ -1556,9 +1445,9 @@ Each Wine:
      - ABV: 14.4%
      - Aging: Aged in all French oak, 12% new
      - Residual Sugar: 
-     
 
-##### K Vintners 'Motor City Kitty'
+### Syrah Bottles
+#### K Vintners 'Motor City Kitty'
  - Name: K Vintners "Motor City Kitty"
  - Style: Syrah
  - Vintage: 2019
@@ -1586,9 +1475,9 @@ Each Wine:
      - ABV:
      - Aging:
      - Residual Sugar: 
-     
 
-##### The Prisoner
+### Blend Bottles
+#### The Prisoner
  - Name: The Prisoner
  - Style: Red Blend
  - Vintage: 2019
@@ -1619,9 +1508,9 @@ Each Wine:
      - ABV:
      - Aging: A combination of French and American oak barrels, 30% new
      - Residual Sugar: 
-     
 
-##### Decoy by Duckhorn
+### Merlot Bottles
+#### Decoy by Duckhorn
  - Name: Decoy California Merlot
  - Style: Merlot
  - Vintage:
@@ -1653,9 +1542,9 @@ Each Wine:
      - ABV: 13.9%
      - Aging: Aged 12 months in 100% French oak, 35% new
      - Residual Sugar: 
-     
-
-##### Charles Smith 'Substance'
+ 
+### Cabernet Sauvignon Bottles
+#### Charles Smith 'Substance'
  - Name: Charles Smith Substance
  - Style: Cabernet Sauvignon
  - Vintage: 2019
@@ -1686,8 +1575,7 @@ Each Wine:
      - Aging: 50% new French oak barriques, 11 months barrel-aged on lees
      - Residual Sugar: No residual sugar
      
-
-##### Daou
+#### Daou
  - Name: DAOU Cabernet Sauvignon
  - Style: Cabernet Sauvignon
  - Vintage: 2018
@@ -1715,8 +1603,7 @@ Each Wine:
      - Aging: 10 months in 50% new French oak
      - Residual Sugar: 
      
-
-##### Frank Family
+#### Frank Family
  - Name: Napa Valley Cabernet Sauvignon
  - Style: Cabernet Sauvignon
  - Vintage: 2018
@@ -1760,8 +1647,7 @@ Each Wine:
      - Aging: 20 months in 33% new and 67% one and twice-filled French oak barrels
      - Residual Sugar: 
      
-
-##### Cliff Lede
+#### Cliff Lede
  - Name: Cliff Lede Cabernet Sauvignon
  - Style: Cabernet Sauvignon
  - Vintage: 2019
@@ -1798,8 +1684,7 @@ Each Wine:
      - Aging: Aged in French oak barrels, 38% of which were new, for twenty-one months
      - Residual Sugar: 
      
-
-##### Silver Oak
+#### Silver Oak
  - Name: Silver Oak Alexander Valley Cabernet
  - Style: Cabernet Sauvignon
  - Vintage: 2017
@@ -1835,8 +1720,7 @@ Each Wine:
          - After bottling, aged 15 more months (which makes it more food friendly)
      - Residual Sugar: 
      
-
-##### O'Shaugnessy
+#### O'Shaugnessy
  - Name: O'Shaugnessy Cabernet Sauvignon Napa Valley
  - Style: Cabernet Sauvignon
  - Vintage: 
@@ -1867,9 +1751,3 @@ Each Wine:
      - ABV: 14.8%
      - Aging:
      - Residual Sugar: 
-     
-
-
-```python
-
-```

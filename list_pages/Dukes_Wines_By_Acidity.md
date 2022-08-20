@@ -1,4 +1,7 @@
-# Dukes Wines By Acidity
+---
+title: Wines by Acidity  
+description: A rundown of the acidity of our wines from highest acid to the lowest.
+---
 Lower acidity wines taste fuller bodied and more sweet whereas higher acidity wines are lighter-bodied and less sweet.  High acid wines are as sour as lemons at around 2.6pH whereas lower acid wines are as flat as Greek Yogurt at around 4.5pH
 
 # High Acid Wines

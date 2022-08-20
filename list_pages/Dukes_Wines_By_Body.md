@@ -1,5 +1,8 @@
-# Dukes Wines By Body
-Wines by body from Lightest-Bodied to Fullest.  Tasting body is similar to tasting the difference between skim to whole milk (and all the percentages in between).
+---
+title: Wines by Body  
+description: Wines by body from Lightest-bodied to Fullest-bodied.  
+---
+Tasting body is similar to tasting the difference between skim to whole milk (and all the percentages in between).
 
 # White Wines
 ## Sparkling Wines

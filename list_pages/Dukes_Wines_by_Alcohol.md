@@ -1,5 +1,10 @@
+---
+title: Wines by ABV  
+description: A list of our wines from lowest to highest alcohol content.
+---
+
 # Dukes Wines by Alcohol
-Who wants to get tore up from the floor up? Here’s a list of the ABV of all our wines:
+Who wants to get tore up from the floor up? 
  - Mönchhof “Mosel Slate” Riesling (8.5%) 🍾
  - Selbach “Ahi” Riesling (10.0%)  🍷
  - Fratelli Cosmo Prosecco (11.5%) 🍾

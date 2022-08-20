@@ -1,9 +1,13 @@
-# Dukes Wines by Dryness/Sweetness
-Sweetness tastes on the front of your tongue, in the first moment of tasting the wine.  Wines range from 0 g/L of residual sugar to 220 g/L  which have the consistency of syrup, but humans don’t start to taste sweetness until about 4 g/L
-Sweetness descriptions in still wines go from driest to sweetest: *Bone-Dry*, *Dry*, *Off-Dry*, *Medium-Sweet*, *Sweet*  
-Sweetness descriptions in Sparkling Wines go from driest to sweetest: *Brut Nature*, *Extra Brut*, *Brut*, *Extra Dry*, *Dry*, *Demi-Sec*, *Doux*
+---
+title: Dry to Sweet Wines  
+description: A list of our wines from the driest to sweetest.  
+---
 
-# White Wines (Dryest to Sweetest)
+Sweetness tastes on the front of your tongue, in the first moment of tasting the wine.  Wines range from 0 g/L of residual sugar to 220 g/L  which have the consistency of syrup, but humans don’t start to taste sweetness until about 4 g/L  
+Sweetness descriptions in still wines go from driest to sweetest: *Bone-Dry*, *Dry*, *Off-Dry*, *Medium-Sweet*, *Sweet*    
+Sweetness descriptions in Sparkling Wines go from driest to sweetest: *Brut Nature*, *Extra Brut*, *Brut*, *Extra Dry*, *Dry*, *Demi-Sec*, *Doux*  
+
+# White Wines (Driest to Sweetest)
 ## Chardonnays
  - Domaine Michel Gros 🍾
     - White Burgundy
@@ -72,7 +76,7 @@ These are less acidic than Sauvignon Blancs so they taste a bit sweeter
  - Selbach “Ahi” 🍷
  - Mönchhof “Mosel Slate” Spätlese
 
-# Red Wines (Dryest to Sweetest)
+# Red Wines (Driest to Sweetest)
 ## Very Dry Reds
 ### Cabernet Sauvignons
  - Penfolds Max’s 🍷
