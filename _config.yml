@@ -14,4 +14,4 @@ plugins:
   - jekyll-feed
 #  - jekyll-remote-theme
 
- theme: jekyll-theme-leap-day
+theme: jekyll-theme-leap-day
