@@ -11,7 +11,7 @@ So you want to know what kind of wines we have? You can click on any of these li
  - [Pinot Grigios](style_pages/Pinot_Grigio.md)  
  - [Sauvignon Blancs](style_pages/Sauvignon_Blancs.md)  
  - [Chardonnays](style_pages/Chardonnays.md)  
- - [Rosés](style_pages/Rosé.md)  
+ - [Rosés](style_pages/Rose.md)  
  - [Rieslings](style_pages/Riesling.md)  
 
 ### Red Wines
