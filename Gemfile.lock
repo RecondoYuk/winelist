@@ -257,7 +257,10 @@ PLATFORMS
 
 DEPENDENCIES
   github-pages
+  jekyll
   jekyll-feed
+  jekyll-seo-tag
+  jekyll-sitemap
   webrick (~> 1.7)
 
 BUNDLED WITH
