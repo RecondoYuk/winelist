@@ -1,12 +1,17 @@
+---
+title: Bubbly
+body: Lowest
+fruitiness: Medium-Low (Champagne) to Medium-High (Prosecco)
+sweetness: Medium-High
+acidity: Medium-High to Highest
+---
 
-
-# Bubbly
 ## Rundown
 - Big 4
     - Lowest Body
-    - Medium-Low (Champagne) to Medium-High (Prosecco)
-    - Medium-High
-    - Medium-High to Highest
+    - Medium-Low (Champagne) to Medium-High (Prosecco) Fruitiness
+    - Medium-High Sweetness
+    - Medium-High to Highest Acidity
 - Subgroups
     - *Reductive* Wines
             - Reductive means less oxygen is introduced during the winemaking process to preserve as much of the floral and fruit character of the wines

@@ -1,4 +1,10 @@
-# Chardonnays
+---
+title: Chardonnay
+body: Medium-High
+fruitiness: Medium-High
+sweetness: Very Low
+acidity: Medium
+---
 
 ## Rundown
 - Big 4

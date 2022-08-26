@@ -1,4 +1,11 @@
-# Sauvignon Blancs
+---
+title: Sauvignon Blanc
+body: Medium-Low
+fruitiness: High
+sweetness: Very Low
+acidity: High
+---
+
 ## Rundown
 - Big 4
     - High Fruit

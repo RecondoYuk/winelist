@@ -1,4 +1,10 @@
-# Cabernet Sauvignon
+---
+title: Cabernet Sauvignon
+body: Full Bodied
+fruitiness: Medium-High
+tannin: Medium-High
+acidity: Medium
+---
 
 ## Rundown
 - Big 4

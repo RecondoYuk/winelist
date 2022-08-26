@@ -1,4 +1,11 @@
-# Pinot Grigio
+---
+title: Pinot Grigio
+body: Very Low
+fruitiness: Medium-Low
+sweetness: Medium-Low
+acidity: Medium
+---
+
 ## Rundown
 - Big 4
     - Medium-Low Fruit

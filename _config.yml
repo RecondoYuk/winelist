@@ -3,14 +3,43 @@ title: Dukes Beachhouse Winelist
 description: >-
   This is a rundown of the Winelist for Duke's Beachhouse Maui.
   It's a work-in-progress so please be forgiving!
+baseurl: ""
+url: "https://recondoyuk.github.io/winelist/"
 github_username: recondoyuk
 
 # Build settings
 markdown: kramdown
-#remote-theme: pages-themes/leap-dayv@0.2.0
-#plugins:
-#  - jekyll-remote-theme
-#plugins:
-#  - jekyll-feed
-
 theme: jekyll-theme-leap-day
+plugins:
+  - jekyll-feed
+
+
+  # Collections
+collections:
+  list_pages:
+    output: true
+  style_pages:
+    output: true
+  wine_pages:
+    output: true
+
+defaults:
+  - scope:
+      path: ""
+      type: "style_pages"
+    values:
+      layout: "default"
+  - scope:
+      path: ""
+      type: "wine_pages"
+    values:
+      layout: "default"
+  - scope:
+      path: ""
+      type: "list_pages"
+    values:
+      layout: "default"
+  - scope:
+      path: ""
+    values:
+      layout: "default"

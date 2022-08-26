@@ -1,4 +1,11 @@
-# Pinot Noir
+---
+title: Pinot Noir
+body: Medium-High
+fruitiness: Medium-High
+tannin: Medium to Low
+acidity: Medium-High
+---
+
 ## Rundown
 - Big 4
     - Medium Body

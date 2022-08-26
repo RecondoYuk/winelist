@@ -1,4 +1,11 @@
-# Riesling
+---
+title: Riesling
+body: Medium to Low
+fruitiness: High
+sweetness: Medium
+acidity: High
+---
+
 ## Rundown
 - Big 4
 	- High Fruit

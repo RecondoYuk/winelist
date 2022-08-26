@@ -1,4 +1,11 @@
-# Syrah
+---
+title: Syrah
+body: Full
+fruitiness: Medium-High
+tannin: Medium
+acidity: Medium-High
+---
+
 ## Rundown
 - Big 4
     - Full Bodied

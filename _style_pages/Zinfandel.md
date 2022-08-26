@@ -1,4 +1,11 @@
-# Zinfandel
+---
+title: Zinfandel
+body: Full
+fruitiness: High
+tannin: Medium
+acidity: Medium-Low
+---
+
 ## Rundown
 - Big 4
     - Full Bodied

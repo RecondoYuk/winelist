@@ -1,4 +1,11 @@
-# Rosé
+---
+title: Rosé
+body: Medium
+fruitiness: Medium-High
+sweetness: Medium-High
+acidity: Medium-Low
+---
+
 ## Rundown
 - Big 4
 	- Medium-Body

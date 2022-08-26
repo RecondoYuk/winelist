@@ -1,4 +1,11 @@
-# Malbec
+---
+title: Malbec
+body: Medium-High
+fruitiness: Highest
+tannin: Medium
+acidity: Medium-Low
+---
+
 ## Rundown
 - Big 4
     - Medium-High Body

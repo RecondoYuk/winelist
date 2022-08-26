@@ -1,0 +1,149 @@
+toc:
+  - title: Lists
+    subfolderitems:
+      - page: By Acidity
+        url: /list_pages/Dukes_Wines_By_Acidity.html
+      - page: By ABV
+        url: /list_pages/Dukes_Wines_by_Alcohol.html
+      - page: By Body
+        url: /list_pages/Dukes_Wines_By_Body.html
+      - page: By Dryness
+        url: /list_pages/Dukes_Wines_by_Dryness.html
+      - page: By Style
+        url: /list_pages/Dukes_Wines_By_Style.html
+      - page: By Guest Preference
+        url: /list_pages/Wines_By_Guest.html
+  - title: Wine Styles
+    subfolderitems:
+      - title: White Wines
+        subsubfolderitems:
+          - page: Bubbly
+            url: /style_pages/Bubbly.html
+          - page: Chardonnay
+            url: /style_pages/Chardonnays.html
+          - page: Pinot Grigio
+            url: /style_pages/Pinot_Grigio.html
+          - page: Riesling
+            url: /style_pages/Riesling.html
+          - page: Rosé
+            url: /style_pages/Rose.html
+          - page: Sauvignon Blanc
+            url: /style_pages/Sauvignon_Blanc.html
+      - title: Red Wines
+        subsubfolderitems:
+          - page: Cabernet Sauvignon
+            url: /style_pages/Cabernet_Sauvignon.html
+          - page: Malbec
+            url: /style_pages/Malbec.html
+          - page: Merlot
+            url: /style_pages/Merlot.html
+          - page: Pinot Noir
+            url: /style_pages/Pinot_Noir.html
+          - page: Red Blends
+            url: /style_pages/Red_Blends.html
+          - page: Syrah
+            url: /style_pages/Syrah.html
+          - page: Zinfandel
+            url: /style_pages/Zinfandel.html
+  - title: Wines
+    subfolderitems:
+      - title: Glass Wines
+        subsubfolderitems:
+          - page: Poema Cava
+            url: /wine_pages/Poema.html
+          - page: Lokelani Sparkling Rosé
+            url: /wine_pages/Lokelani.html
+          - page: Mont Gravet Rosé
+            url: /wine_pages/Mont_Gravet.html
+          - page: Stolpman Rosé
+            url: /wine_pages/Stolpman.html
+          - page: Tiamo Pinot Grigio
+            url: /wine_pages/Tiamo.html
+          - page: Selbach Riesling
+            url: /wine_pages/Selbach.html
+          - page: Mohua Sauvignon Blanc
+            url: /wine_pages/Mohua.html
+          - page: Hunt & Harvest
+            url: /wine_pages/Hunt_And_Harvest.html
+          - page: Line 39 Chardonnay
+            url: /wine_pages/Line_39_Chard.html
+          - page: Tyler Chardonnay
+            url: /wine_pages/Tyler.html
+          - page: Rombauer Chardonnay
+            url: /wine_pages/Rombauer.html
+          - page: Head High Pinot Noir
+            url: /wine_pages/Head_High.html
+          - page: A to Z Pinot Noir
+            url: /wine_pages/AtoZ.html
+          - page: Tentadora Malbec
+            url: /wine_pages/Tentadora.html
+          - page: Joel Gott Red Blend
+            url: /wine_pages/Joel_Gott.html
+          - page: Two Mountain Bordeaux Blend
+            url: /wine_pages/Two_Mountain.html
+          - page: Cape D'Or Cabernet Sauvignon
+            url: /wine_pages/Cape_DOr.html
+          - page: Penfolds Max's Cabernet Sauvignon
+            url: /wine_pages/Penfolds.html
+      - title: Bottle Wines
+        subsubfolderitems:
+          - page: Fratelli Cosmo Prosecco
+            url: /wine_pages/Fratelli_Cosmo.html
+          - page: Domaine Carneros Brut
+            url: /wine_pages/Domaine_Carneros.html
+          - page: Veuve Clicquot Brut
+            url: /wine_pages/Veuve_Clicquot.html
+          - page: Dom Perignon Brut
+            url: /wine_pages/Dom_P.html
+          - page: Sokol Blosser Pinot Gris
+            url: /wine_pages/Sokol_Blosser.html
+          - page: Mönchhof Riesling
+            url: /wine_pages/Monchhof.html
+          - page: Ferrari-Carano Fumé Blanc
+            url: /wine_pages/Ferrari_Carano.html
+          - page: Duckhorn Sauvignon Blanc
+            url: /wine_pages/Duckhorn.html
+          - page: Merry Edwards Sauvignon Blanc
+            url: /wine_pages/Merry_Edwards.html
+          - page: Cloudy Bay Sauvignon Blanc
+            url: /wine_pages/Cloudy_Bay.html
+          - page: Lioco Chardonnay
+            url: /wine_pages/Lioco.html
+          - page: Stuhlmuller Chardonnay
+            url: /wine_pages/Stuhlmuller.html
+          - page: Domaine Michel Gros Chardonnay
+            url: /wine_pages/Domaine_Michel.html
+          - page: Chateau Montelena Chardonnay
+            url: /wine_pages/Chateau_Montelena.html
+          - page: Far Niente Chardonnay
+            url: /wine_pages/Far_Niente.html
+          - page: Piro Pinot Noir
+            url: /wine_pages/Piro_Points_West.html
+          - page: Truchard Pinot Noir
+            url: /wine_pages/Truchard.html
+          - page: Goldeneye Pinot Noir
+            url: /wine_pages/Goldeneye.html
+          - page: Williams Selyem Pinot Noir
+            url: /wine_pages/Williams_Selyem.html
+          - page: Domaine Serene Pinot Noir
+            url: /wine_pages/Domaine_Serene_Evenstad.html
+          - page: Bedrock Zinfandel
+            url: /wine_pages/Bedrock.html
+          - page: K Vintners MCK Syrah
+            url: /wine_pages/K_Vintners.html
+          - page: The Prisoner Red Blend
+            url: /wine_pages/The_Prisoner.html
+          - page: Decoy Merlot
+            url: /wine_pages/Decoy.html
+          - page: Charles Smith Cabernet Sauvignon
+            url: /wine_pages/Charles_Smith_Substance.html
+          - page: Daou Cabernet Sauvignon
+            url: /wine_pages/DAOU.html
+          - page: Frank Family Cabernet Sauvignon
+            url: /wine_pages/Frank_Family.html
+          - page: Cliff Lede Cabernet Sauvignon
+            url: /wine_pages/Cliff_Lede.html
+          - page: Silver Oak Cabernet Sauvignon
+            url: /wine_pages/Silver_Oak.html
+          - page: O'Shaughnessy Cabernet Sauvignon
+            url: /wine_pages/O_Shaughnessy.html

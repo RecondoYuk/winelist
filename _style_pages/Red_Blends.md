@@ -1,4 +1,11 @@
-# Red Blends
+---
+title: Red Blends
+body: 
+fruitiness: 
+tannin: 
+acidity: 
+---
+
 ## Rundown
 - Big 4
     - Body
