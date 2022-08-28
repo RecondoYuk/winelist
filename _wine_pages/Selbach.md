@@ -4,7 +4,7 @@ description: A ripe and smoky representation of Mosel Riesling
 ---
 
 ## Fast Facts
-*Ripe Apple, Peach Aroma, Smoky Minerality, Crisp Acid*
+*Ripe Apple, Peach Aroma, Smoky Minerality, Crisp Acid*  
 *A ripe and smoky representation of Mosel Riesling*
  - **Name**: Selbach “Ahi” Riesling (Blue Fish)
  - **Style**: Riesling
