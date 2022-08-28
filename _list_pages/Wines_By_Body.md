@@ -1,0 +1,30 @@
+## Wines By Body
+Wines by body, Lightest to Fullest. Tasting *light bodied* to *full-bodied* is similar to tasting the difference between skim to whole milk.
+- Whites
+	- Sparkling
+		- Prosecco
+		- Cava
+		- Champagne
+	- Riesling
+	- Pinot Gris
+	- Sauvignon Blanc
+	- Fumé Blanc
+	- Sémillon
+	- Viognier
+	- Chardonnay
+- Reds
+	- Cinsault 
+	- Pinot Noir
+	- Cabernet Franc
+	- Grenache
+	- Merlot
+	- Nebbiolo
+	- Sangiovese
+	- Tempranillo
+	- Bordeaux Blend
+	- Cabernet Sauvignon
+	- Malbec
+	- Petit Sirah
+	- Syrah
+	- Zinfandel
+	- Port

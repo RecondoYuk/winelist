@@ -1,0 +1,20 @@
+---
+layout: default
+title: Styles
+---
+
+<h1>Wine Styles</h1>
+
+<ul>
+    {% for wine_style in site.style_pages %}
+        <li>
+            <h2><a href="{{ wine_style.url }}">{{ wine_style.title }}</a></h2>
+            <h3>Body: {{ wine_style.body }}</h3>
+            <h3>Fruitiness: {{ wine_style.fruitiness }}</h3>
+            {% if wine_style.sweetness %}<h3>Sweetness: {{ wine_style.sweetness }}</h3>{% endif %}
+            {% if wine_style.tannin %}<h3>Tannin: {{ wine_style.tannin }}</h3>{% endif %}
+            <h3>Acidity: {{ wine_style.acidity }}</h3>
+            <!-- <p>{{ wine_style.content | markdownify }}</p> -->
+        </li>
+    {% endfor %}
+</ul>
