@@ -1,1 +1,1 @@
-Sitemap: /winelist/sitemap.xml
+Sitemap: https://recondoyuk.github.io/winelist/sitemap.xml
