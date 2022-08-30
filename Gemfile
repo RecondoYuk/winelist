@@ -18,6 +18,14 @@ group :jekyll_plugins do
   gem "jekyll-timeago"
 end
 
+# Windows and JRuby does not include zoneinfo files, so bundle the tzinfo-data gem
+# and associated library.
+platforms :mingw, :x64_mingw, :mswin, :jruby do
+  gem "tzinfo", "~> 1.2"
+  gem "tzinfo-data"
+end
+
+
 # gem "jekyll-theme-chirpy-5.2.1"
 gem "jekyll-theme-leap-day"
 gem "kramdown-parser-gfm"
