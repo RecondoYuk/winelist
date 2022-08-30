@@ -1,1 +1,1 @@
-Sitemap: /wineslist/sitemap.xml
+Sitemap: /winelist/sitemap.xml
