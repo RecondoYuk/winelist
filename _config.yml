@@ -4,7 +4,8 @@ description: >-
   This is a rundown of the wine list for Duke's Beach House Maui.
   It's a work-in-progress so please be forgiving!
 github_username: recondoyuk
-baseurl: "/winelist"
+url: "https://recondoyuk.github.io"
+baseurl: "/winelist/"
 # Build settings
 markdown: kramdown
 theme: jekyll-theme-leap-day

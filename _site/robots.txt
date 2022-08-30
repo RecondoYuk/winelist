@@ -1,1 +1,1 @@
-Sitemap: /winelist/sitemap.xml
+Sitemap: http://localhost:4000/winelist/sitemap.xml
