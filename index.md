@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Duke's Beach House Wine List
-description: This page will show you a rundown of the different lists available.  
+description: This page will show you a rundown of the different lists available.
 ---
 {{ site.time | date: '%B %d, %Y' }}  
 
@@ -10,14 +10,23 @@ description: This page will show you a rundown of the different lists available.
 Dukes Beach House Maui just revamped our winelist, so I decided to put together a website full of all the information I or my teammates could possibly need to sell the new wines. It's not pretty, but I'm not a designer, so take it with a grain of salt.
 
 Also, I have a lot of information in here so here are ways to bypass all the information:
+<!--
+{{ site.time | timeago: '1890-8-24' }}
+-->
 
-<!-- {{ site.time | timeago }} -->
+<!--
 {% assign bday = '1890-08-24T00:00:00Z' %}
 Duke was born on {{ bday | date: '%B %d, %Y' }}  
-<!-- That's {{ bday | timeago }} -->
+That's {{ bday | timeago }}
+{% timeago 2000-1-1 %}
+-->
+
+{% assign thisday = site.time %}
+{% assign birthday = '1890-08-24' %}
+ 
 
 
-Duke was born {% timeago 1890-09-24 %}
+Duke was born on {{ birthday | date: '%B %d, %Y' }} or {% timeago 1890-09-25 %}
 ## By Style
 So you want to know what kind of wines we have? You can click on any of these links to see the list of that style of wine:
 ### White Wines

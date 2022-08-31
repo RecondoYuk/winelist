@@ -13,7 +13,7 @@ plugins:
   - jekyll-feed
   - jekyll-seo-tag
   - jekyll-sitemap
-  - 'jekyll-timeago'
+  - jekyll-timeago
 
 
   # Collections
@@ -27,17 +27,17 @@ collections:
 
 defaults:
   - scope:
-      path: ""
+      path: "style_pages"
       type: "style_pages"
     values:
       layout: "styles"
   - scope:
-      path: ""
+      path: "wine_pages"
       type: "wine_pages"
     values:
       layout: "default"
   - scope:
-      path: ""
+      path: "list_pages"
       type: "list_pages"
     values:
       layout: "default"
@@ -46,5 +46,8 @@ defaults:
     values:
       layout: "default"
 
-jekyll-timeago:
+jekyll_timeago:
   depth: 4
+  threshold: 0
+
+timezone: Pacific/Honolulu
