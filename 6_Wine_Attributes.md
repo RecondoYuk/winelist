@@ -3,8 +3,7 @@ title: 6 Wine Attributes
 layout: default
 ---
 
-# 6 Wine Attributes
-## Acidity
+# Acidity
 This is the mouth-watering factor of wine that drives how refreshing the wine is, and acidity is a large component of the *structure* of the wine.
 
 Acidity acts as a stabilizer and cleanses the palate.  Acidity decreases Body.
@@ -181,8 +180,8 @@ Here’s a list of words wine-nerds use to describe acidity and what they mean:
 
 - - - -
 
-## Oak
-![](6_Wine_Attributes/oaky_afterbirth.png)
+# Oak
+![Oaky Afterbirth](6_Wine_Attributes/oaky_afterbirth.png)
 
 ### Key Points
 Wines can be oaked or unoaked.   Oaking adds body. 
@@ -347,7 +346,7 @@ Since the majority of red wine is produced using some oak, people don’t recogn
 
 - - - -
 
-## Tannin
+# Tannin
 ### Key Points
 Tannin provides structure to both Red and White wines, although it’s most obvious in red wines as they are invariably fermented win contact with the skins, seeds and sometimes stems that provide the most tannins.
 
@@ -460,7 +459,7 @@ Unsweetened black tea is a great example of nearly pure tannin dissolved in wate
 
 - - - -
 
-## Fruit
+# Fruit
 Not to be confused with “Sweetness”, this is the ripeness and intensity of the fruit that’s detected both on the nose and on the palate.   
 
 The flavors that are found in the wines are largely due to the climate, the grape variety, and the winemaking choices like using oak or not.  Choosing the right harvest date has a disproportionate effect on the flavors.
@@ -611,7 +610,7 @@ I love the bright red berry aromas, which after tasting the wine become darker, 
 	- A very common aroma found in white wine
 - - - -
 
-## Sweetness
+# Sweetness
 All wines are dry, but some wines have a residual sugar that will make them taste sweet.  Often, people will confuse fruit-forward for sweet when describing wines, but that would be the previous attribute (fruit).   This is especially true for very ripe fruit flavors
 
 Sweetness is tasted on the front of your tongue.
@@ -766,7 +765,7 @@ Sweetness is felt at the tip of the tongue.  Sweeter wines have an enriched visc
 
 - - - -
 
-## Body
+# Body
 This is the overall weight of the wine in your mouth.  Most websites describe the various levels of body in wine in relation to the various mouth-coating levels when you go from skim milk to whole milk.  So in theory, a full-bodied wine would feel similar to whole milk whereas the lightest bodied wines will feel like fat-free milk in your mouth.  
 
 Generally, the more alcohol in a wine, the more body it will have.  That means that wines from warmer climates tend to have more body, more heft to them.
