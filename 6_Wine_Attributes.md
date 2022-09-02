@@ -181,7 +181,7 @@ Here’s a list of words wine-nerds use to describe acidity and what they mean:
 - - - -
 
 # Oak
-![Oaky Afterbirth](6_Wine_Attributes/oaky_afterbirth.png)
+![Oaky Afterbirth](assets/images/oaky_afterbirth.png)
 
 ### Key Points
 Wines can be oaked or unoaked.   Oaking adds body. 
