@@ -10,7 +10,7 @@ Acidity acts as a stabilizer and cleanses the palate.  Acidity decreases Body.
 
 As grapes ripen and accumulate sugar, their acidity begins to fall and their pH begins to rise.  The longer the grapes hang on the vine, the lower the acidity of the juice that will come from those grapes.
 
-### Key Points
+## Key Points
 A key point to remember is that ***Hot Climates Produce Less Acidic Wines***  
 The most acidic White Wines tend to be the Sauvignon Blancs, the Rieslings, and the Champagnes.  The acidity in these wines balance out the the sweetness in those wines.   
 The least acidic of White Wines tend to Chardonnay’s and Rosés.
@@ -183,7 +183,7 @@ Here’s a list of words wine-nerds use to describe acidity and what they mean:
 # Oak
 ![Oaky Afterbirth](assets/images/oaky_afterbirth.png)
 
-### Key Points
+## Key Points
 Wines can be oaked or unoaked.   Oaking adds body. 
 
 Why Oak? I mean wine was expanded throughout the world through the Roman soldiers and they used clay amphorae to transport it so how did oak get added?
@@ -196,14 +196,14 @@ Now the thing about oak is that it has a really tight grain to its wood that mak
 
 The thing is, that they discovered oak didn’t just make it easy to transport wine, it actually added pleasant flavors to the wine itself.
 
-#### Affects of Oak
+### Affects of Oak
 The longer a white wine sits in oak, the darker of a yellow the wine becomes.  This adds a creamier and softer mouthfeel to the wine. 
 
 Oak is a natural antiseptic so wine that is fermented or matured in oak barrels needs less sulphur dioxide.
 
 Oak smoothes the wine tannins, improves wine age-ability, texture, and stabilizes color in red wines.
 
-#### Ways to Add Oak
+### Ways to Add Oak
 - Oak in the container
 - Oak chips, staves, cubes
 	- Cost much less than barrels
@@ -213,7 +213,8 @@ Oak smoothes the wine tannins, improves wine age-ability, texture, and stabilize
 	- It is illegal in many countries
 	- *Oenological tannins* are extractions from oak, chestnut, or birch wood, grape seeds, or other plant resources
 		- If the wine tastes the same every year this is the most likely cause
-#### Types of Oak
+
+### Types of Oak
 While some winemakers use other woods like Chestnut or Acacia, most wood used to add oak to wines tend to be either French oak (*Quercus robur*) or American white oak (*Quercus alba*).  
 
 - **American**Ideal for bolder wines
@@ -261,7 +262,7 @@ While some winemakers use other woods like Chestnut or Acacia, most wood used to
 		- Heavy toasting
 			- Rich mocha character and accentuates darker fruits in the wine
 
-#### Oak Barrels
+### Oak Barrels
 - What is a Barrel?
 	- The head
 		- Round ends which form the top and bottom of the barrels
@@ -289,7 +290,7 @@ While some winemakers use other woods like Chestnut or Acacia, most wood used to
 	- Equivalent to about 11 of the smaller barrels and can hold about 275 cases of wine
 	- They last much longer than the smaller barrels (some to over 50 years)
 
-### Tasting Oak
+## Tasting Oak
 Oak barrels, especially new oak, impart more flavors to the wine although they vary according to the degree of toasting and the type of oak used.
 
 Wines that are unoaked tend to be fresh, fruity and somewhat floral.
@@ -297,7 +298,7 @@ The oakiest wines you can taste chocolate and caramel.
 
 Since the majority of red wine is produced using some oak, people don’t recognize its influence.  Overoaked red tend to taste and smell too woody or astringent.   There’s a clear difference between white wines made with oak influence and without.
 
-#### Oak Adds Aroma Compounds
+### Oak Adds Aroma Compounds
 - Oak *lactones* have coconut aromas
 - Vanillan
 	- The aroma of Vanilla
@@ -308,15 +309,15 @@ Since the majority of red wine is produced using some oak, people don’t recogn
 - Guaiacol and 4-Methulguaiacol
 	- Charred and smoky aromas
 
-### Describing Oak
+## Describing Oak
 
-#### Describing Unoaked wines 
+### Describing Unoaked wines 
 “Incredibly fruity wine showing bright berry flavors and no oakiness”
 
-#### Describing Oaked wines
+### Describing Oaked wines
 “I really love the rich, spicy oak flavors in this red. They remind me of cinnamon and baking spices”
 
-#### Descriptive words for Oak
+### Descriptive words for Oak
 - Smoky
 	- A smoky oak flavor could be due to highly toasted oak barrels
 - Charcoal
@@ -347,7 +348,7 @@ Since the majority of red wine is produced using some oak, people don’t recogn
 - - - -
 
 # Tannin
-### Key Points
+## Key Points
 Tannin provides structure to both Red and White wines, although it’s most obvious in red wines as they are invariably fermented win contact with the skins, seeds and sometimes stems that provide the most tannins.
 
 Tannin comes from naturally occurring polyphenols in skins, seeds, and stems, as well as from the wood barrels that wines are stored in. 
@@ -358,7 +359,7 @@ Tannin also provides antioxidants that have health benefits.
 
 **Dry** is not the word to describe tannin because that’s the descriptive word in wines for the level of sweetness in the wine.
 
-####  Two Types of Tannin
+###  Two Types of Tannin
 - **Wood tannins** / **Oak Aging**
 	- Fine to coarse-grained tannins
 	- Tasted towards the center of the tongue
@@ -368,22 +369,20 @@ Tannin also provides antioxidants that have health benefits.
 	- Tasted towards the sides of the mouth
 		- Taste more “green”
 
-### Tasting Tannin
+## Tasting Tannin
 Tannin is the drying effect on the finish of the wine.  Tasting tannin is similar to drinking tea, perceived as a cotton ball-like drying sensation  Makes lips stink to your teeth.  The astringency of tannin creates the feeling of your cheeks being sucked in and the moisture evaporating from your mouth.
 
 Unsweetened black tea is a great example of nearly pure tannin dissolved in water.  Other high tannin foods include tea leaves, walnuts, almonds, dark chocolate, cinnamon, clove
 
-#### Tasting Tannin vs Tasting Acid
+### Tasting Tannin vs Tasting Acid
 - Tannins taste bitter on the front-inside of your mouth and along the side of your tongue.
 	- Acid tastes tart and zesty on the front of your tong and along the sides
 - Acid makes your mouth feel wet (activates the saliva glands underneath your tongue
 	- Tannin makes your tongue feel dry
 - Tannins leave a lingering bitter/dry feeling in your mouth after you swallow
 	- Acid your tongue feels gravelly against the roof of your mouth
-	- 
 
-
-### Describing Tannin
+## Describing Tannin
 - Medium-low tannin
 	- If detectable at all
 	- Pinot Noirs are great examples
@@ -398,13 +397,13 @@ Unsweetened black tea is a great example of nearly pure tannin dissolved in wate
 	- Moderately high bitterness
 	- Bordeaux Blends, Petite Sirah, Port
 
-#### Describing Slightly Tannic Wines
+### Describing Slightly Tannic Wines
 “This is a really juicy wine and is quite soft with very little tannin structure”
 
-#### Describing Heavily Tannic Wines
+### Describing Heavily Tannic Wines
 “Wow! I can feel the grittiness and my mouth is drying out from the heavy, robust tannins in this red.”
 
-#### Descriptive Words for Tannin
+### Descriptive Words for Tannin
 - Bitter
 	- Bitter tannin is very intense and ‘green’
 - Harsh
@@ -464,7 +463,7 @@ Not to be confused with “Sweetness”, this is the ripeness and intensity of t
 
 The flavors that are found in the wines are largely due to the climate, the grape variety, and the winemaking choices like using oak or not.  Choosing the right harvest date has a disproportionate effect on the flavors.
 
-### Key Points
+## Key Points
 Wine flavors / aromas can be broken down into three groups, Primary, Secondary, and Tertiary Flavors / Aromas
 - Aromas
 	- Primary Aromas
@@ -500,8 +499,9 @@ Wine flavors / aromas can be broken down into three groups, Primary, Secondary, 
 		- Hot climate / vintage
 	- Dried, Oxidative, Baked
 		- Indications of oxidative winemaking
-### Tasting Fruitiness
-#### Fruit Aromas
+
+## Tasting Fruitiness
+### Fruit Aromas
 - **Red Wine Aromas**
 	- Plum, Berry, Cherry, Prune, Fig, Raisin
 	- Dill, Sage, Eucalyptus, Her, Mint, Nutty, Asparagus, Green-bean, Tea
@@ -514,7 +514,8 @@ Wine flavors / aromas can be broken down into three groups, Primary, Secondary, 
 		- Mango, Papaya, Passion Fruit
 	- White flowers, Fresh Grass, Hay
 	- Honey, Roasted Nut, Caramel
-#### Tastes of Fruit
+
+### Tastes of Fruit
 - **Fruity Notes in Red Wines**
 	- Most common fruit flavors in red wine can be broken into two clear categories, red fruit and dark fruit
 		- Dark Fruit
@@ -548,14 +549,17 @@ Wine flavors / aromas can be broken down into three groups, Primary, Secondary, 
 				- Sauvignon Blanc
 				- Gewürztraminer
 
-### Describing Fruit
-#### Describing Fruit Aromas
+## Describing Fruit
+### Describing Fruit Aromas
 “I really love the citrusy notes I’m smelling
-#### Describing Fruit-Forward Whites
+
+### Describing Fruit-Forward Whites
 I can really notice the tart lemon-flavors on the palate, which are even a bit creamy.
-#### Describing Fruit-Forward Reds
+
+### Describing Fruit-Forward Reds
 I love the bright red berry aromas, which after tasting the wine become darker, and more like blackberry or black cherry fruit
-#### Descriptive Words for Fruit
+
+### Descriptive Words for Fruit
 - Jammy
 	- The fruit flavors in the wine taste like jam
 - Ripe
@@ -617,7 +621,7 @@ Sweetness is tasted on the front of your tongue.
 
 Sweetness can be balanced by other components of the wine, especially acid and tannins.  Wines with high acid will taste less sweet.
 
-### Key Points
+## Key Points
 Sweetness is determined by the type of grape, but can be controlled by the winemaker by stopping the fermentation before the yeast eats all the grape sugars.  Sometimes the grape is so sweet that the yeast struggles to convert all the sugar and dies without finishing.
 
 Winemakers can also add a sugar solution between fermentations  called a **dosage** and is used commonly during sparkling wine production.
@@ -647,7 +651,7 @@ Since most people cannot taste sweetness below 20g/L of residual sugar, when win
 		- < 120 g/L of residual sugar (up to 12% sweetness)
 			- Sweet Wines
 			- Sweet like Coca-Cola
-		- > 120 g/L of residual sugar (over 12% sweetness)
+		- >120 g/L of residual sugar (over 12% sweetness)
 			- Very Sweet Wines
 		- 220g/L of residual sugar would have the consistency of syrup
 - 4 Macro-Levels of Sweetness
@@ -673,13 +677,13 @@ Since most people cannot taste sweetness below 20g/L of residual sugar, when win
 			- Extra-Dry
 		- 17 - 32 g/L
 			- Dry
-	- > 32 grams / Liter
+	- >32 grams / Liter
 		- 32 -  50 g/L
 			- Demi-sec
-		- > 50 g/L
+		- >50 g/L
 			- Doux
 
-#### Pairing With Sweetness
+### Pairing With Sweetness
 Sweet wines have great pairing potential because there are so many flavor combinations that we already love: sweet & salty, sweet & sour, and sweet & sweet.
 
 Sweet works great with spicy because sugar is a powerful force against burning mouths as it absorbs a lot of capsaicin.  The residual sugar in rieslings will dull the heat and let you taste the underlying flavors in the food.
@@ -693,7 +697,7 @@ Sweet works great with spicy because sugar is a powerful force against burning m
 - Sweet & Spicy
 	- Moscato and hot wings
 
-### Tasting Sweetness
+## Tasting Sweetness
 To determine if a wine is sweet instead of just having sweet ripe fruit flavors, lick your lips after sipping the wine.  If your lips are a bit sticky or taste sweet, there’s likely some sugar in the wine!  
 
 Sweetness is felt at the tip of the tongue.  Sweeter wines have an enriched viscosity, which you can also see as legs on the side of the glass.  This can lead to an oily feeling on your tongue.
@@ -706,14 +710,14 @@ Sweetness is felt at the tip of the tongue.  Sweeter wines have an enriched visc
 	- A wine that opens with sweet floral, fruity, or honeyed notes tells your brain that it will be sweet because you associate those smells with a sweet taste.
 	- Sweet women are described as “aromatic”
 
-### Describing Sweetness
-#### Describing Off-Dry (almost imperceptibly sweet) Wine
+## Describing Sweetness
+### Describing Off-Dry (almost imperceptibly sweet) Wine
 “Oh, there’s just a hint of sweetness on the tip of my tongue, but there’s lots of juicy acidity to keep it lively and fresh”
 
-#### Describing A fully Sweet White
+### Describing A fully Sweet White
 “Everything you ever wanted in a dessert wine — it’s rich and unctuous and viscous and beautifully sweet, like the best 3-Michelin star dessert you’ve ever had”
 
-#### Flavors in Dry To Sweet Red Wines
+### Flavors in Dry To Sweet Red Wines
 - **Bold, Bitter, and Savory Dry Red Wine**
 	- tend to display a bold character with less fruit flavor and more tannins
 		- Creates a certain bitter flavor
@@ -740,7 +744,7 @@ Sweetness is felt at the tip of the tongue.  Sweeter wines have an enriched visc
 	- Port Wine is a good example of this
 		- Sweet red fortified wine with raspberry, caramel, cinnamon, and chocolate sauce notes
 
-#### Flavors in Dry to Sweet White Wine
+### Flavors in Dry to Sweet White Wine
 - **Citrusy and Herbaceous Dry White Wine**
 	- Dry, lean, acidic whites
 	- Display grapefruit, citrus, and pear notes with a minerality and salinity to them
@@ -770,7 +774,7 @@ This is the overall weight of the wine in your mouth.  Most websites describe th
 
 Generally, the more alcohol in a wine, the more body it will have.  That means that wines from warmer climates tend to have more body, more heft to them.
 
-### Key Points
+## Key Points
 When pairing wines with food, you need to make sure you match the body with body.  You don’t want to have a light wine matched up against a heavy dish.  The food would overpower the wine.
 
 Climate matters  a lot when it comes to the body of a wine.  Cool climates produce lighter-bodied wines while warmer climates produce bolder wines.   So if you’re going for a light-bodied white wine, you’d lean more towards Pinot Grigio and Sauvignon Blancs from cooler climates whereas if you’re looking for a full-bodied white wine then look towards the warm climate Chardonnay or Viognier.
@@ -806,22 +810,22 @@ Climate matters  a lot when it comes to the body of a wine.  Cool climates produ
 		- Zinfandel
 		- Port
 
-#### Light-Bodied White Wines
+### Light-Bodied White Wines
 The “Beer of Wine”, perfect to drink with most food.  In particular, people who like more savory flavors would enjoy a Sauvignon Blanc for its light, zesty style and green herbal flavors.  
 
-#### Full-Bodied White Wines
+### Full-Bodied White Wines
 Perfect for red wine lovers because of their rich smooth taste and subtle creaminess from oaking.  The more oak, the smoother and creamier. 
 
-#### Light-Bodied Red Wines
+### Light-Bodied Red Wines
 Like a Pinot Noir or a Beaujolais, they tend to be paler in color due to their light tannins.  A cooler climate Pinot Noir would appeal to light-bodied fans. 
 
-#### Medium-Bodied Red Wines
+### Medium-Bodied Red Wines
 The “Food Wines”, they tend to have tons of flavor with a balance of zesty acidity and match a wide variety of foods. Here you’ll find wines like a Grenache, Sangiovese, Merlot, Zinfandel, or Cabernet Franc.
 
-#### Full-Bodied Red Wines
+### Full-Bodied Red Wines
 These are the deepest and darkest red wines with the most tannins.  The tannins in the wine bind to proteins in the saliva for a palate-cleansing effect, which is why a bold red like a Syrah, Cabernet Sauvignon, or Malbec will pair well with juicy fatty steaks.
 
-### Tasting Body
+## Tasting Body
 When we sense body in beverages, it’s really us sensing a combination of four of the other five attributes.  Fruit Intensity really doesn’t affect body, but tannin, sweetness, acidity, and alcohol levels all play a role in how we feel the wine’s body.
 - Tannin 
 	- Tannin increases the body of a wine. 
@@ -837,16 +841,17 @@ When we sense body in beverages, it’s really us sensing a combination of four 
 	- Alcohol increases the sense of body.  
 - Carbonation
 	- Bubbles decreases the sense of body.
-### Describing Body
-#### Describing a light-bodied white wine
+
+## Describing Body
+### Describing a light-bodied white wine
 “This is a brilliant white, and it is crisp and mineral and in the mouth it feels a lot like skim milk”  
 “Almost airy and ethereal in texture”
 
-#### Describing a Full-Bodied Red Wine
+### Describing a Full-Bodied Red Wine
 “It is just unbelievably rich and weighty, like taking a big gulp of whole milk, maybe even chocolate milk.”
 “Totally hedonistic and delicious”
 
-#### Descriptive Words for Body
+### Descriptive Words for Body
 - Thin
 	- A wine that has acidity but little substance
 - Cliff-Edge
