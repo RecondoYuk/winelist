@@ -1,3 +1,8 @@
+---
+title: Wines By Style
+description: Glasses and Bottles together with a short blurb about what distinguishes them from each other
+---
+
 # White Wines
 ## Bubbly
 - Poema Cava Brut 🍷
