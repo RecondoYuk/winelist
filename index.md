@@ -27,6 +27,9 @@ That's {{ bday | timeago }}
 
 
 Duke was born on {{ birthday | date: '%B %d, %Y' }} or {% timeago 1890-09-25 %}
+
+If you ever wanted to learn how to make [wine in a toilet. . .]({{ site.baseurl }}/PrisonToilet_Wine.html)
+
 ## By Style
 So you want to know what kind of wines we have? You can click on any of these links to see the list of that style of wine:
 ### White Wines
