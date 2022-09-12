@@ -8,7 +8,7 @@ title: Styles
 <ul>
     {% for wine_style in site.style_pages %}
         <li>
-            <h2><a href="{{ wine_style.url }}">{{ wine_style.title }}</a></h2>
+            <h2><a href="{{ site.baseurl }}{{ wine_style.url }}">{{ wine_style.title }}</a></h2>
             <h3>Body: {{ wine_style.body }}</h3>
             <h3>Fruitiness: {{ wine_style.fruitiness }}</h3>
             {% if wine_style.sweetness %}<h3>Sweetness: {{ wine_style.sweetness }}</h3>{% endif %}

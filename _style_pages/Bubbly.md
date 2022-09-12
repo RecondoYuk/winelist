@@ -28,9 +28,9 @@ acidity: Medium-High to Highest
             - Sweet sparkling wines are either sweetened during dosage or are made using aromatic grapes like Muscat
             - *Dry* Prosecco, *Demi-Sec* and *Doux* sparkling wines, Italian sparkling wines, Asti Spumante
     - Creamy **Autolytic** and **Oxidative** sparkling wines
-            - This style come out tasting rich and creamy with flavors of toast, yellow apple, honeycomb, and sometimes hazelnut
-            - **Oxidative** means that the wines are often fermented in oak barrels which allows more oxygen into the winemaking adding subtle nuttiness
-            - **Autolysis** means that sit in the bottle after their second fermentation.  The longer the wines touch the dead yeast particles (the lees) the more creamy the wines become
+        - This style come out tasting rich and creamy with flavors of toast, yellow apple, honeycomb, and sometimes hazelnut
+        - **Oxidative** means that the wines are often fermented in oak barrels which allows more oxygen into the winemaking adding subtle nuttiness
+        - **Autolysis** means that sit in the bottle after their second fermentation.  The longer the wines touch the dead yeast particles (the lees) the more creamy the wines become
         - Rich, Creamy & Nutty
             - *Reserva* and *Gran Reserva* Cava
             - Vintage Champagne, American bubbles, Italian “Metodo Classico”
