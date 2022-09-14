@@ -8,7 +8,7 @@ url: "https://recondoyuk.github.io"
 baseurl: "/winelist/"
 # Build settings
 markdown: kramdown
-theme: jekyll-theme-leap-day
+#theme: jekyll-theme-leap-day
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
@@ -30,21 +30,28 @@ defaults:
       path: "style_pages"
       type: "style_pages"
     values:
+      css: "style"
       layout: "styles"
   - scope:
       path: "wine_pages"
       type: "wine_pages"
     values:
+      css: "style"
       layout: "default"
   - scope:
       path: "list_pages"
       type: "list_pages"
     values:
+      css: "style"
       layout: "default"
   - scope:
       path: ""
     values:
+      css: "style"
       layout: "default"
+
+sass:
+  sass_dir: "_sass"
 
 jekyll_timeago:
   depth: 4

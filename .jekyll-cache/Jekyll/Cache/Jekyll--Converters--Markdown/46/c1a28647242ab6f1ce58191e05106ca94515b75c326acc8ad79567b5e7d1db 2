@@ -1,0 +1,137 @@
+I"�,<h1 id="welcome-to-the-wine-list">Welcome to the Wine List!</h1>
+
+<p>Dukes Beachhouse Maui just revamped our winelist, so I decided to put together a website full of all the information I or my teammates could possibly need to sell the new wines. It’s not pretty, but I’m not a designer, so take it with a grain of salt.</p>
+
+<p>Also, I have a lot of information in here so here are ways to bypass all the information:</p>
+
+<h2 id="by-style">By Style</h2>
+<p>So you want to know what kind of wines we have? You can click on any of these links to see the list of that style of wine:</p>
+<h3 id="white-wines">White Wines</h3>
+<ul>
+  <li><a href="_style_pages/Bubbly.md">Bubbly Wines</a></li>
+  <li><a href="_style_pages/Pinot_Grigio.md">Pinot Grigios</a></li>
+  <li><a href="_style_pages/Sauvignon_Blancs.md">Sauvignon Blancs</a></li>
+  <li><a href="_style_pages/Chardonnays.md">Chardonnays</a></li>
+  <li><a href="_style_pages/Rose.md">Rosés</a></li>
+  <li><a href="_style_pages/Riesling.md">Rieslings</a></li>
+</ul>
+
+<h3 id="red-wines">Red Wines</h3>
+<ul>
+  <li><a href="_style_pages/Pinot_Noir.md">Pinot Noirs</a></li>
+  <li><a href="_style_pages/Merlot.md">Merlot</a></li>
+  <li><a href="_style_pages/Malbec.md">Malbec</a></li>
+  <li><a href="_style_pages/Zinfandel.md">Zinfandel</a></li>
+  <li><a href="_style_pages/Syrah.md">Syrah</a></li>
+  <li><a href="_style_pages/Red_Blends.md">Red Blends</a></li>
+  <li><a href="_style_pages/Cabernet_Sauvignon.md">Cabernet Sauvignons</a></li>
+</ul>
+
+<h3 id="all-the-styles">All the Styles</h3>
+<p>Or you can just click on <a href="_list_pages/Dukes_Wines_By_Style.md">this page</a> to go through all of the styles on one page</p>
+
+<h2 id="by-the-guests-preference">By the Guest’s Preference</h2>
+<p>So your guests says “I want a . . . “</p>
+
+<p>The list on <a href="_list_pages/Wines_By_Guest.md">this page</a> walks you through some simple requests you’re likely to come across.</p>
+
+<h2 id="by-the-wines-component">By the wine’s Component</h2>
+<p>So you have a guest that wants a dryer wine, or maybe they want the wine with the highest or lowest alcohol, or other aspects of the wines.</p>
+
+<p>If you want to see a list of our <a href="_list_pages/Dukes_Wines_by_Alcohol.md">wines by alcohol content</a>.<br />
+If you want to see a list of our <a href="_list_pages/Dukes_Wines_By_Acidity.md">wines by acidity</a>.<br />
+If you want to see a list of our <a href="_list_pages/Dukes_Wines_By_Body.md">wines by body</a>.<br />
+If you want to see a list of our <a href="_list_pages/Dukes_Wines_by_Dryness.md">wines by dryness</a>.</p>
+
+<p>Why is nothing showing up from here?</p>
+<h2 id="all-the-wines">All the Wines</h2>
+
+<h3 id="bulk-list">Bulk List</h3>
+<p>If you want to see a combination of all my notes on the different wine bottles (notes from tech sheets mostly), <a href="_list_pages/Dukes_Wine_List.md">click here</a>.</p>
+
+<h3 id="pages-and-tech-sheets">Pages and Tech Sheets</h3>
+<p>Here’s a page for each wine where you can find a whole bunch more information about the wine as well as the winery. These are really just the outlines I used to fill out as I scraped through the individual wine websites (all linked) as well as their tech sheets.</p>
+
+<p>After that you will find a link to the individual tech sheets for those wines.</p>
+
+<p><em>Some wines have multiple tech sheets whereas some didn’t have a single one</em></p>
+<ul>
+  <li><strong>Wines By the Glass</strong>
+    <ul>
+      <li>Poema Cava Wine <a href="_wine_pages/Poema.md">Page</a> / <a href="wine_pdfs/Poema_Brut.pdf">Tech Sheet</a></li>
+      <li>Lokelani Sparkling Rosé  <a href="_wine_pages/Lokelani.md">Page</a> / <a href="wine_pdfs/Lokelani_Rose.pdf">Tech Sheet</a></li>
+      <li>Mont Gravet Rosé  <a href="_wine_pages/Mont_Gravet.md">Page</a> / <a href="wine_pdfs/Mont_Gravet_Rose.pdf">Tech Sheet</a></li>
+      <li>Stolpman “Love You Bunches” Rosé  <a href="_wine_pages/Stolpman.md">Page</a> / <a href="wine_pdfs/2020_Stoilpman_Love_You_Bunches.pdf">Tech Sheet</a></li>
+      <li>Tiamo ‘Organic’ Pinot Grigio  <a href="_wine_pages/Tiamo.md">Page</a> / <a href="wine_pdfs/Tiamo_PG.pdf">Tech Sheet</a> / <a href="wine_pdfs/Tiamo_PG_Can.pdf">Tiamo Cans Tech Sheet</a></li>
+      <li>Selbach ‘Ahi’ Riesling <a href="_wine_pages/Selbach.md">Page</a> / <a href="wine_pdfs/Selbach_Riesling.pdf">Tech Sheet</a></li>
+      <li>Mohua Sauvignon Blanc <a href="_wine_pages/Mohua.md">Page</a> / <a href="asseets/Mohua_SB.pdf">Tech Sheet</a></li>
+      <li>Hunt &amp; Harvest Sauvignon Blanc <a href="_wine_pages/Hunt_And_Harvest.md">Page</a> / <a href="wine_pdfs/Hunt_And_Harvest_SB.pdf">Tech Sheet</a></li>
+      <li>Line 39 Chardonnay <a href="_wine_pages/Line_39_Chard.md">Page</a> / <a href="wine_pdfs/Line_39_Chard.pdf">Tech Sheet</a></li>
+      <li>Tyler Chardonnay <a href="_wine_pages/Tyler.md">Page</a> / <a href="wine_pdfs/Tyler_Chardonnay.pdf">Tech Sheet</a></li>
+      <li>Rombauer <a href="_wine_pages/Rombauer.md">Page</a> / <a href="wine_pdfs/Rombauer_Carneros_Chard.pdf">Tech Sheet</a></li>
+      <li>Head High Pinot Noir <a href="_wine_pages/Head_High.md">Page</a> / <a href="wine_pdfs/Head_High_PN.pdf">Tech Sheet</a></li>
+      <li>A to Z “Essence” Pinot Noir <a href="_wine_pages/AtoZ.md">Page</a> / <a href="wine_pdfs/A_to_Z_Essence_PN.pdf">Tech sheet</a></li>
+      <li>Tentadora Malbec <a href="_wine_pages/Tentadora.md">Page</a> / <a href="wine_pdfs/Tentadora_Malbec.pdf">Tech Sheet</a></li>
+      <li>Joel Gott “Palisades” Red Blend <a href="_wine_pages/Joel_Gott.md">Page</a> / <a href="wine_pdfs/Joel_Gott_2018.pdf">2018 Tech Sheet</a> / <a href="wine_pdfs/Joel_Gott_2018.pdf">2017 Tech Sheet</a></li>
+      <li>Two Mountain Winery “Hidden Horse Red” Red Blend <a href="_wine_pages/Two_Mountain.md">Page</a> / <a href="wine_pdfs/Hidden_Horse_Red.pdf">Tech Sheet</a></li>
+      <li>Cape d’Or Cabernet Sauvignon <a href="_wine_pages/Cape_DOr.md">Page</a> / <a href="wine_pdfs/Cape_Dor_Cab.pdf">Tech Sheet</a></li>
+      <li>Penfolds Max’s Cabernet Sauvignon <a href="_wine_pages/Penfolds.md">Page</a> / <a href="wine_pdfs/Penfolds_Maxs_Cab.pdf">Tech Sheet</a></li>
+    </ul>
+  </li>
+  <li><strong>Bottles of Bubbles</strong>
+    <ul>
+      <li>Fratelli Cosmo Prosecco <a href="_wine_pages/Fratelli_Cosmo.md">Page</a> / <a href="wine_pdfs/Fratelli_Prosecco.pdf">Tech Sheet</a></li>
+      <li>Domaine Carneros Brut <a href="_wine_pages/Domaine_Carneros.md">Page</a> / <a href="wine_pdfs/Domaine_Carneros_Brut.pdf">Tech Sheet</a></li>
+      <li>Veuve Clicquot Brut <a href="_wine_pages/Veuve_Clicquot.md">Page</a> / <a href="wine_pdfs/Veuve_Clicquot.pdf">Tech Sheet</a> / <a href="wine_pdfs/Veuve_Clicquot_Brut.pdf">Label Notes</a></li>
+      <li>Dom Pérignon Brut <a href="_wine_pages/Dom_P.md">Page</a> / <a href="wine_pdfs/Dom_Perignon.pdf">Tech Sheet</a> / <a href="wine_pdfs/Dom_P_Notes.pdf">Dom P Notes</a></li>
+    </ul>
+  </li>
+  <li><strong>Bottles of Whites</strong>
+    <ul>
+      <li>Sokol Blosser Pinot Gris <a href="_wine_pages/Sokol_Blosser.md">Page</a> / <a href="wine_pdfs/Sokol_Blosser_PG.pdf">Tech Sheet</a></li>
+      <li>Mönchhof “Mosel Slate” Spätlese <a href="_wine_pages/Moncchof.md">Page</a> / <a href="wine_pdfs/Monchhof_Mosel_Riesling.pdf">Tech Sheet</a></li>
+      <li>Ferrari-Carano Fumé Blanc / <a href="_wine_pages/Ferrari_Carano.md">Page</a> / <a href="wine_pdfs/Ferrai_Carano_FumeBlanc.pdf">Tech Sheet</a></li>
+      <li>Duckhorn Sauvignon Blanc <a href="_wine_pages/Duckhorn.md">Page</a> / <a href="wine_pdfs/Duckhorn_SB.pdf">Tech Sheet</a></li>
+      <li>Merry Edwards Sauvignon Blanc <a href="_wine_pages/Merry_Edwards.md">Page</a> / <a href="wine_pdfs/Merry_Edwards_SB.pdf">Tech Sheet</a></li>
+      <li>Cloudy Bay Sauvignon Blanc <a href="_wine_pages/Cloudy_Bay.md">Page</a> / <a href="wine_pdfs/Cloudy_Bay_SB.pdf">Tech Sheet</a></li>
+    </ul>
+  </li>
+  <li><strong>Bottles of Chardonnay</strong>
+    <ul>
+      <li>Lioco “SoCo” Chardonnay <a href="_wine_pages/Lioco.md">Page</a> / <a href="wine_pdfs/LIOCO.pdf">Tech Sheet</a></li>
+      <li>Stuhlmuller “Estate” Chardonnay <a href="_wine_pages/Stuhlmuller.md">Page</a> / <a href="wine_pdfs/Stuhlmuller_Estate_Chard.pdf">Tech Sheet</a></li>
+      <li>Domaine Michel Gros Bourgogne Blanc <a href="_wine_pages/Domaine_Michel.md">Page</a> / <a href="wine_pdfs/Domaine_Michel_2018.pdf">2018 Tech Sheet</a> / <a href="wine_pdfs/Domaine_Michel_2019.pdf">2019 Tech Sheet</a></li>
+      <li>Chateau Montelena Chardonnay <a href="_wine_pages/Chateau_Montelena.md">Page</a> / <a href="wine_pdfs/Chateau_Montelena_Chard.pdf">Tech Sheet</a></li>
+      <li>Far Niente Chardonnay <a href="_wine_pages/Far_Niente.md">Page</a> / <a href="wine_pdfs/Far_Niente_2019.pdf">2019 Tech Sheet</a> / <a href="wine_pdfs/Far_Niente_2020.pdf">2020 Tech Sheet</a> / <a href="wine_pdfs/Far_Niente_2021.pdf">2021 Tech Sheet</a></li>
+    </ul>
+  </li>
+  <li><strong>Bottles of Pinot Noir</strong>
+    <ul>
+      <li>Piro Wine Co. ‘Points West’ <a href="_wine_pages/Piro_Points_West.md">Page</a> / <a href="wine_pdfs/Points_West.pdf">Tech Sheet</a></li>
+      <li>Truchard Pinot Noir <a href="_wine_pages/Truchard.md">Page</a> <a href="wine_pdfs/Truchard.pdf">Tech Sheet</a></li>
+      <li>Goldeneye Pinot Noir <a href="_wine_pages/Goldeneye.md">Page</a> / <a href="wine_pdfs/Goldeneye.pdf">Tech Sheet</a></li>
+      <li>Williams Selyem Pinot Noir <a href="_wine_pages/Williams_Selyem.md">Page</a> / <a href="wine_pdfs/Williams_Selyem.pdf">Tech Sheet</a></li>
+      <li>Domaine Serene “Evenstad Reserve” Pinot Noir <a href="_wine_pages/Domaine_Serene_Evenstad.md">Page</a> / <a href="wine_pdfs/Domaine_Serene.pdf">Tech Sheet</a></li>
+    </ul>
+  </li>
+  <li><strong>Bottles of Reds</strong>
+    <ul>
+      <li>Bedrock “Old Vine” Zinfandel <a href="_wine_pages/Bedrock.md">Page</a> / <a href="wine_pdfs/Bedrock.pdf">Tech Sheet</a></li>
+      <li>The Prisoner Red Blend <a href="_wine_pages/The_Prisoner.md">Page</a> / <a href="wine_pdfs/The_Prisoner.pdf">Tech Sheet</a></li>
+      <li>Decoy Merlot <a href="_wine_pages/Decoy.md">Page</a> / <a href="wine_pdfs/Decoy.pdf">Tech Sheet</a> / <a href="wine_pdfs/Decoy_2019.pdf">Tech Sheet</a></li>
+      <li>K Vintners “Motor City Kitty” Syrah <a href="_wine_pages/K_Vintners.md">Page</a> / <a href="wine_pdfs/K_Vintners.pdf">Tech Sheet</a></li>
+    </ul>
+  </li>
+  <li><strong>Bottles of Cabernet Sauvignon</strong>
+    <ul>
+      <li>Charles Smith “Substance” <a href="_wine_pages/Charles_Smith_Substance.md">Page</a> / <a href="wine_pdfs/Charles_Smith.pdf">Tech Sheet</a></li>
+      <li>DAOU Cabernet Sauvignon <a href="_wine_pages/DAOU.md">Page</a> / <a href="wine_pdfs/DAOU_2018.pdf">2018 Tech Sheet</a> / <a href="wine_pdfs/DAOU_2021.pdf">2021 Tech Sheet</a></li>
+      <li>Frank Family Cabernet Sauvignon <a href="_wine_pages/Frank_Family.md">Page</a> / <a href="wine_pdfs/Frank_Family.pdf">Tech Sheet</a></li>
+      <li>Cliff Lede Cabernet Sauvignon <a href="_wine_pages/Cliff_Lede.md">Page</a> / <a href="wine_pdfs/Cliff_Lede.pdf">Tech Sheet</a></li>
+      <li>Silver Oak Cabernet Sauvignon <a href="_wine_pages/Silver_Oak.md">Page</a> / <a href="wine_pdfs/Silver_Oak.pdf">Tech Sheet</a></li>
+      <li>O’Shaughnessy Cabernet Sauvignon <a href="_wine_pages/O_Shaughnessy.md">Page</a> / <a href="wine_pdfs/O'Shaughnessy.pdf">Tech Sheet</a></li>
+    </ul>
+  </li>
+</ul>
+
+:ET

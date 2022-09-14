@@ -1,0 +1,88 @@
+---
+---
+
+@import "normalize";
+@import "fonts";
+@import "rouge-base16-dark";
+@import "main";
+
+img {
+    max-width: 100%
+}
+
+header {
+  padding: 25px 20px 40px 20px;
+  margin: 0;
+  position: sticky;
+  top: 0;
+  left:0;
+  right:0;
+  width: 100%;
+  text-align: center;
+  background: #007574;
+  box-shadow: 1px 0px 2px rgba(0,0,0,.75);
+  z-index:99;
+  -webkit-font-smoothing:antialiased;
+  min-height: 50px;
+
+  h1 {
+    font: 40px/48px 'Copse', "Helvetica Neue", Helvetica, Arial, sans-serif;
+    color: #f3f3f3;
+    text-shadow: 0px 2px 0px #235796;
+    margin: 0px;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    -o-text-overflow: ellipsis;
+    -ms-text-overflow: ellipsis;
+  }
+
+  p {
+    color: #d8d8d8;
+    text-shadow:rgba(#000, 0.2) 0 1px 0;
+    font-size: 18px;
+    margin: 0px;
+  }
+}
+
+@media screen and (min-width: 800px) {
+    .IntroWrapper {
+        display: table;
+        table-layout: fixed;
+        width: 100%;
+    }
+
+    .MoneyShot,
+    .IntroText {
+        display: table-cell;
+        width: 50%;
+        vertical-align: middle;
+        text-align: center;
+    }
+
+    .IntroText {
+        padding: 0.5rem;
+        font-size: 2.5rem;
+        text-align: left;
+    }
+
+    .Ingredients {
+        font-size: 0.9rem;
+        float: right;
+        padding: 1rem;
+        margin: 0 0 0.5rem 1rem;
+        border-radius: 3px;
+        background-color: #ffffdf;
+        border: 2px solid #e8cfa9;
+    }
+
+    .Ingredients h3 {
+        margin: 0;
+    }
+}
+
+video {
+    max-width: 100%;
+    height: auto;
+}
+
