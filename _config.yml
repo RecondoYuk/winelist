@@ -5,7 +5,7 @@ description: >-
   It's a work-in-progress so please be forgiving!
 github_username: recondoyuk
 url: "https://recondoyuk.github.io"
-baseurl: "/winelist/"
+baseurl: "/winelist"
 # Build settings
 markdown: kramdown
 #theme: jekyll-theme-leap-day
