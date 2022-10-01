@@ -24,6 +24,8 @@ collections:
     output: true
   wine_pages:
     output: true
+  deep_dives:
+    output: true
 
 defaults:
   - scope:

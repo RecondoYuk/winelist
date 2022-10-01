@@ -65,10 +65,16 @@ Spend this week  sharpening your shiv and checking on your vineyard.  Make sure 
 In the real world, winemakers are watching their vineyard conditions like hawks, so you should too.
 
 ## Step 2: Harvest
-Ok.  Time to venture out of your cell to get some supplies. Welcome to harvesting season!  In the wine-world, this is when they go out and pick the grapes.   You’re in prison, so your harvest has got to be a bit to the kitchen.
 
- You may want to recruit some temporary workers to help you sneak your fruit from the kitchen to your cell.  This happens a lot, but just make sure they are allowed to cross the territories they need to cross.  You don’t want to lose your harvest because one of your hired help doesn’t have the right gang identification.  My understanding is that’s bad in prison.
+### Location
+Ok.  Time to venture out of your cell to get some supplies. Welcome to harvesting season!  In the wine-world, this is when they go out and pick the grapes.   You’re in prison, so your harvest has got to be a trip to the kitchen.  
+In the real world, you would choose which parts of your vineyard to harvest grapes from, based on the ripeness levels.  
 
+### Get some staff
+You may want to recruit some temporary workers to help you sneak your fruit from the kitchen to your cell.  This happens a lot, but just make sure they are allowed to cross the territories they need to cross.  You don’t want to lose your harvest because one of your hired help doesn’t have the right gang identification.  My understanding is that’s bad in prison.  
+In the real world, winemakers use seasonal help because they need to pick all their grapes in a short amount of time. 
+
+### Choose the Harvest Date
 Winemakers not behind bars will take especial care while they pick their grapes.  They’ll choose when to pick the grapes based on how ripe they are and whether they contain the right balance of chemicals for the wine style they’re going for.  Harvest date is an important date for wine.
 
 You and your cellmate(s) can perhaps a party to celebrate your harvest.  
@@ -123,7 +129,7 @@ If you’re lucky enough to have bottles to store your wine in, you can always s
 
 For our sake though, we’re aiming for a Chardonnay style white wine so we don’t want bubbles.
 
-## Aging / Storing
+## Step 4: Aging / Storing
 Once the bubbles have calmed down, you know that the yeast has eaten all the sugar it can and died out.  
 
 Yup, the life of yeast is to eat until it dies.  If there’s any sugar left in the juice at this point we call it *residual sugar*.  Sweeter wines have this in them, and sometimes there’s *residual sugar* because the winemakers killed the yeast before it could eat all the sugar.
@@ -142,7 +148,7 @@ If you use pencils, make sure to only use the wood part and not the paint, the e
 
 Drop that wood into your fermented juice and let it sit for as long as you want.  The longer the wood sits in contact with the wine, the smoother and creamier.
 
-## Drink!
+## Step 5: Drink!
 Strain all your wine out into a fresh container.  
 
 At the bottom of the bag you’re going to see some sludge.  This is all the dead yeast, the *lees*.  You don’t really want to drink this.
