@@ -25,8 +25,9 @@ That's {{ bday | timeago }}
 {% assign birthday = '1890-08-24' %}
  
 
-
+<!--
 Duke was born on {{ birthday | date: '%B %d, %Y' }} or {% timeago 1890-09-25 %}
+-->
 
 If you ever wanted to learn how to make [wine in a toilet. . .]({{ site.baseurl }}/PrisonToilet_Wine.html)
 
