@@ -1,1 +1,1 @@
-Sitemap: http://localhost:4000/winelist/sitemap.xml
+Sitemap: https://recondoyuk.github.io/winelist/sitemap.xml

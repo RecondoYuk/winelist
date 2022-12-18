@@ -15,6 +15,17 @@ plugins:
   - jekyll-sitemap
   - jekyll-timeago
 
+assets:
+  compress:
+    css: sass
+    js: uglifier
+  autoprefixer:
+    browsers:
+      - "last 5 versions"
+      - "IE > 9"
+  plugins:
+    css: { autoprefixer: {}}
+
 
   # Collections
 collections:
