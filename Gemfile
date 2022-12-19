@@ -4,7 +4,7 @@ source "https://rubygems.org"
 
 # gem "rails"
 
-ruby "3.1.2"
+ruby "3.1.3"
 
 gem "jekyll"
 gem "autoprefixer-rails"
