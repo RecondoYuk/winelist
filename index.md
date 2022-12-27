@@ -14,43 +14,43 @@ If you ever wanted to learn how to make [wine in a toilet. . .]({{ site.baseurl 
 ## By Style
 So you want to know what kind of wines we have? You can click on any of these links to see the list of that style of wine:
 ### White Wines
- - [Bubbly Wines]({% link _style_pages/Bubbly.md %})  
- - [Pinot Grigios]({% link _style_pages/Pinot_Grigio.md %})  
- - [Sauvignon Blancs]({% link _style_pages/Sauvignon_Blancs.md %})  
- - [Chardonnays]({% link _style_pages/Chardonnays.md %})  
- - [Rosés]({% link _style_pages/Rose.md %})  
- - [Rieslings]({% link _style_pages/Riesling.md %})  
+ - [Bubbly Wines]({{ site.baseurl }}/style_pages/Bubbly.html)  
+ - [Pinot Grigios]({{ site.baseurl }}/style_pages/Pinot_Grigio.html)  
+ - [Sauvignon Blancs]({{ site.baseurl }}/style_pages/Sauvignon_Blancs.html)  
+ - [Chardonnays]({{ site.baseurl }}/style_pages/Chardonnays.html)  
+ - [Rosés]({{ site.baseurl }}/style_pages/Rose.html)  
+ - [Rieslings]({{ site.baseurl }}/style_pages/Riesling.html)  
 
 ### Red Wines
- - [Pinot Noirs]({% link _style_pages/Pinot_Noir.md %})  
- - [Merlot]({% link _style_pages/Merlot.md %})  
- - [Malbec]({% link _style_pages/Malbec.md %})  
- - [Zinfandel]({% link _style_pages/Zinfandel.md %})  
- - [Syrah]({% link _style_pages/Syrah.md %})  
- - [Red Blends]({% link _style_pages/Red_Blends.md %})  
- - [Cabernet Sauvignons]({% link _style_pages/Cabernet_Sauvignon.md %})  
+ - [Pinot Noirs]({{ site.baseurl }}/style_pages/Pinot_Noir.html)  
+ - [Merlot]({{ site.baseurl }}/style_pages/Merlot.html)  
+ - [Malbec]({{ site.baseurl }}/style_pages/Malbec.html)  
+ - [Zinfandel]({{ site.baseurl }}/style_pages/Zinfandel.html)  
+ - [Syrah]({{ site.baseurl }}/style_pages/Syrah.html)  
+ - [Red Blends]({{ site.baseurl }}/style_pages/Red_Blends.html)  
+ - [Cabernet Sauvignons]({{ site.baseurl }}/style_pages/Cabernet_Sauvignon.html)  
 
 ### All the Styles
-Or you can just click on [this page]({% link _list_pages/Dukes_Wines_By_Style.md %}) to go through all of the styles on one page
+Or you can just click on [this page]({{ site.baseurl }}/list_pages/Dukes_Wines_By_Style.html) to go through all of the styles on one page
 
 ## By the Guest's Preference
 So your guests says "I want a . . . " 
 
-The list on [this page]({% link _list_pages/Wines_By_Guest.md %}) walks you through some simple requests you're likely to come across.
+The list on [this page]({{ site.baseurl }}/list_pages/Wines_By_Guest.html) walks you through some simple requests you're likely to come across.
 
 ## By the wine's Component
 So you have a guest that wants a dryer wine, or maybe they want the wine with the highest or lowest alcohol, or other aspects of the wines.  
 
-If you want to see a list of our [wines by alcohol content]({% link _list_pages/Dukes_Wines_by_Alcohol.md %}).  
-If you want to see a list of our [wines by acidity]({% link _list_pages/Dukes_Wines_By_Acidity.md %}).  
-If you want to see a list of our [wines by body]({% link _list_pages/Dukes_Wines_By_Body.md %}).  
-If you want to see a list of our [wines by dryness]({% link _list_pages/Dukes_Wines_by_Dryness.md %}).  
+If you want to see a list of our [wines by alcohol content]({{ site.baseurl }}/list_pages/Dukes_Wines_by_Alcohol.html).  
+If you want to see a list of our [wines by acidity]({{ site.baseurl }}/list_pages/Dukes_Wines_By_Acidity.html).  
+If you want to see a list of our [wines by body]({{ site.baseurl }}/list_pages/Dukes_Wines_By_Body.html).  
+If you want to see a list of our [wines by dryness]({{ site.baseurl }}/list_pages/Dukes_Wines_by_Dryness.html).  
 
-Why is nothing showing up from here?
+<!-- Why is nothing showing up from here? -->
 ## All the Wines
 
 ### Bulk List
-If you want to see a combination of all my notes on the different wine bottles (notes from tech sheets mostly), [click here]({% link _list_pages/Dukes_Wine_List.md %}).
+If you want to see a combination of all my notes on the different wine bottles (notes from tech sheets mostly), [click here]({{ site.baseurl }}/list_pages/Dukes_Wine_List.html).
 
 ### Pages and Tech Sheets
 Here's a page for each wine where you can find a whole bunch more information about the wine as well as the winery. These are really just the outlines I used to fill out as I scraped through the individual wine websites (all linked) as well as their tech sheets.
@@ -59,8 +59,8 @@ After that you will find a link to the individual tech sheets for those wines.
 
 *Some wines have multiple tech sheets whereas some didn't have a single one*
 - **Wines By the Glass**
-  - Poema Cava Wine [Page]({% link _wine_pages/Poema.md %}) / [Tech Sheet](wine_pdfs/Poema_Brut.pdf)
-  - Lokelani Sparkling Rosé  [Page]({% link _wine_pages/Lokelani.md %}) / [Tech Sheet](wine_pdfs/Lokelani_Rose.pdf)
+  - Poema Cava Wine [Page](wine_pages/Poema.md) / [Tech Sheet](wine_pdfs/Poema_Brut.pdf)
+  - Lokelani Sparkling Rosé  [Page](wine_pages/Lokelani.md) / [Tech Sheet](wine_pdfs/Lokelani_Rose.pdf)
   - Mont Gravet Rosé  [Page]({% link _wine_pages/Mont_Gravet.md %}) / [Tech Sheet](wine_pdfs/Mont_Gravet_Rose.pdf)
   - Stolpman "Love You Bunches" Rosé  [Page]({% link _wine_pages/Stolpman.md %}) / [Tech Sheet](wine_pdfs/2020_Stoilpman_Love_You_Bunches.pdf)
   - Tiamo 'Organic' Pinot Grigio  [Page]({% link _wine_pages/Tiamo.md %}) / [Tech Sheet](wine_pdfs/Tiamo_PG.pdf) / [Tiamo Cans Tech Sheet](wine_pdfs/Tiamo_PG_Can.pdf)
